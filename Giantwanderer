@@ -1,0 +1,1402 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-ch3.png" group-title=" Thailand Channels",3HD
+http://27.254.130.64/live01/ch0.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" tvg-name=" TV5 HD"  group-title=" Thailand Channels",TV5 HD
+http://27.254.130.64/live01/ch6.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-ch7.png" group-title=" Thailand Channels",7HD
+http://27.254.130.64/live01/ch1.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" tvg-name="MCOT HD" group-title=" Thailand Channels",MCOT HD
+http://27.254.130.64/live02/ch7.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD" group-title=" Thailand Channels",TPBS HD
+http://27.254.130.64/live02/ch0.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" tvg-name="PPTV HD"  group-title=" Thailand Channels",PPTV HD
+http://27.254.130.64/live01/ch2.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/thairath.png"tvg-name="THAIRATH TV HD" group-title=" Thailand Channels",THAIRATH HD
+http://27.254.130.64/live01/ch9.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif" tvg-name="ONE HD" group-title=" Thailand Channels",ONE HD
+http://27.254.130.64/live01/ch10.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1026.gif" tvg-name="AMARIN TV HD" group-title=" Thailand Channels",AMARIN HD
+http://27.254.130.64/live01/ch13.m3u8?p=m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nbt.png" group-title=" Thailand Channels",NBT 
+http://27.254.130.64/live01/ch14.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" tvg-name="NEW TV HD"  group-title=" Thailand Channels",NEW TV HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/tnn24.jpg" group-title=" Thailand Channels",TNN24
+http://27.254.130.64/live01/ch5.m3u8?p=m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" tvg-name="TRUE4U HD" group-title=" Thailand Channels",TRUE4U
+http://27.254.130.64/live01/ch4.m3u8?p=m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" tvg-name="WORKPOINT TV HD" group-title=" Thailand Channels",WORKPIONT
+http://27.254.130.64/live01/ch7.m3u8?p=m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title=" Thailand Channels",GMM
+http://27.254.130.64/live01/ch11.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1046.gif" tvg-name="MONO29 HD" group-title=" Thailand Channels",MONO29
+http://27.254.130.64/live01/ch3.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch51.gif" tvg-name="NATION TV HD"  group-title=" Thailand Channels",NATION TV HD
+http://27.254.130.64/live01/ch8.m3u8?p=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title=" Thailand Channels",CHANNEL 2 HD
+http://stream.rs.co.th/ch2-hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" tvg-name="CHANNEL 8 HD"  group-title=" Thailand Channels",8 HD
+http://27.254.130.64/live02/ch2.m3u8?p=m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png" group-title=" Thailand Channels",TPTV
+https://live.youlive-cdn.com/02_TPTV_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg" group-title=" Thailand Channels",Channel8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg" group-title=" Thailand Channels",Thai CCTV
+http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1
+https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2
+https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title=" Thailand Channels", PremierHD3
+https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title=" Thailand Channels", PremierHD4
+https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title=" Thailand Channels", PremierHD5
+https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxsport1.png"  group-title=" Thailand Channels", Fox Sport1
+https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title=" Thailand Channels", Fox Sport2
+https://tv.xpeer-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title=" Thailand Channels", Fox Sport3
+https://tv.xpeer-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title=" Thailand Channels", SkynetsportHD
+https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title=" Thailand Channels", Skynetsport1
+https://tv.xpeer-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png"  group-title=" Thailand Channels", Skynetsport2
+https://tv.xpeer-cdn.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png"  group-title=" Thailand Channels", Skynetsport3
+https://tv.xpeer-cdn.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title=" Thailand Channels", Skynetsport4
+https://tv.xpeer-cdn.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title=" Thailand Channels", Skynetsport5
+https://tv.xpeer-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title=" Thailand Channels", Skynetsport6
+https://tv.xpeer-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title=" Thailand Channels", Bein1
+https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title=" Thailand Channels", Bein2
+https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/tsphd1.png" group-title=" Thailand Channels",  True Sport HD1
+https://tv.xpeer-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://teevee-hd.com/img/tsphd2.png" group-title=" Thailand Channels", True Sport HD2
+https://tv.xpeer-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://teevee-hd.com/img/tsphd3.png" group-title=" Thailand Channels", True Sport HD3
+https://tv.xpeer-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tsphd4.png" group-title=" Thailand Channels", True Sport HD4
+https://live.youlive-cdn.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg" group-title=" Thailand Channels",Truesport 2
+https://live.youlive-cdn.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-tsport5.png"  group-title=" Thailand Channels",Truesport5
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-tsport6.png"  group-title=" Thailand Channels",Truesport6
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-tsport7.png"  group-title=" Thailand Channels",Truesport7
+http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RBWC2019.jpg" group-title=" Thailand Channels",RUGBY
+https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.gif" group-title=" Thailand Channels",NFL
+https://live.youlive-cdn.com/02_NFLNetwork_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title=" Thailand Channels",Tennis
+http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title=" Thailand Channels",NBA TV
+http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/golf.png" group-title=" Thailand Channels",Golf channel
+http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/6RKisov.png" group-title=" Thailand Channels", FIGHT SPORTS
+http://210.210.155.35/session/ff497da2-e836-11e9-9eca-b9f8b17817da/uq2663/h/h05/01.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/kix.png" group-title=" Thailand Channels",KIX
+https://live.dufree4k.net/02_KIX_Thailand_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title=" Thailand Channels",adsport1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iWEHD9/2ad.png" group-title=" Thailand Channels",adsport2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title=" Thailand Channels",adsport3
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/j4AmdT/5012.png" group-title=" Thailand Channels",adsport4
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport1.jpg" group-title=" Thailand Channels",BTSPORTHD1
+https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport2.jpg" group-title=" Thailand Channels",BTSPORTHD2
+https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title=" Thailand Channels",BTSPORTHD3
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/uk-btsport3hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title=" Thailand Channels",astrosport1hd
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/my-asp1hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title=" Thailand Channels",astrosport2hd
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/my-asp2hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title=" Thailand Channels",astrosport3hd
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/my-asp3hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1.png" group-title=" Thailand Channels",ARENA SPORT 1
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/rs-arena1_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2.png" group-title=" Thailand Channels",ARENA SPORT 2
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/rs-arena2_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3.png" group-title=" Thailand Channels",ARENA SPORT 3
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/rs-arena3_480/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oKLqSYI.png" group-title=" Thailand Channels",ARENA SPORT 4
+https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2UJb01J.png" group-title=" Thailand Channels",ARENA SPORT 5
+https://sportbar.biz/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title=" Thailand Channels",SPORTTV1
+https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title=" Thailand Channels",SPORTTV2
+https://live.dufree4k.net/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv3.jpg"  group-title=" Thailand Channels",SPORTTV3
+https://live.dufree4k.net/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv4.jpg" group-title=" Thailand Channels",SPORTTV4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-sporttv5.jpg" group-title=" Thailand Channels",SPORTTV5
+https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 2 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 3 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 4 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 5 (UHD)
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/7NeBmWX.jpg"group-title=" Thailand Channels",Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+
+
+
+#EXTINF:0  tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title=" Thailand Channels", HBO HD
+https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title=" Thailand Channels", HBO Hit
+https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbosig.png" group-title=" Thailand Channels", HBOSignature
+https://live.dufree4k.net/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbofam.png"  group-title=" Thailand Channels",HBO FAMILY
+https://live.dufree4k.net/02_HBOFamily_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxactionmovie.png" group-title=" Thailand Channels", FoxActionHD_TH
+https://live.dufree4k.net/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxactionmovie.png" group-title=" Thailand Channels", FoxActionHD
+https://live.dufree4k.net/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxp-thai.png" group-title=" Thailand Channels", FoxMovies_TH
+https://live.dufree4k.net/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxp-thai.png" group-title=" Thailand Channels", FoxMovies
+https://live.dufree4k.net/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title=" Thailand Channels", FoxFamilyHD_TH
+https://live.dufree4k.net/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title=" Thailand Channels", FoxFamilyHD
+https://live.dufree4k.net/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title=" Thailand Channels", FoxThai_TH
+https://live.dufree4k.net/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title=" Thailand Channels", FoxThai
+https://live.dufree4k.net/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxcrime.png" group-title=" Thailand Channels", FoxCrimeHD_TH
+https://live.dufree4k.net/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxcrime.png" group-title=" Thailand Channels", FoxCrimeHD
+https://live.dufree4k.net/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS"  group-title=" Thailand Channels",  FOXlife HD TH
+http://iliketot.dyndns.TV/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/red.png" group-title=" Thailand Channels", RedbyHBO
+https://live.dufree4k.net/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/axn.png" group-title=" Thailand Channels", AXN HD
+https://live.dufree4k.net/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/warner.png" group-title=" Thailand Channels", WarnerTV HD
+https://live.dufree4k.net/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/fxhd.png" group-title=" Thailand Channels", FXThailand
+https://live.dufree4k.net/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title=" Thailand Channels", TrueFilmHD1
+https://live.dufree4k.net/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg" group-title=" Thailand Channels", TrueFilmHD2
+https://live.dufree4k.net/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9AVj65.jpg"  group-title=" Thailand Channels",Series
+http://bit.ly/2lYo7nW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KEbokdx.jpg"  group-title=" Thailand Channels",M Channel
+https://live.youlive-cdn.com/02_MChannel_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/xpuo33u69es0sg0cs.jpg"  group-title=" Thailand Channels",MONO Plus
+http://bit.ly/2lWbF89
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5zyWnEz.jpg"  group-title=" Thailand Channels",MVTV
+http://bit.ly/2nquoc4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/apcCpdz.jpg"  group-title=" Thailand Channels",MVTV Five Channel
+http://bit.ly/2mtbRfa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eENVrr4.png"  group-title=" Thailand Channels",MVTV Hmong
+http://bit.ly/2lM1iDF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CYnK9C9.jpg"  group-title=" Thailand Channels",MVTV Major Mix
+https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg" group-title=" Thailand Channels",zeenang
+https://live.dufree4k.net/02_Zee_Nung_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20190710115540375048648.jpg" group-title=" Thailand Channels",Drama Thai
+https://edge1a.v2h-cdn.com/appt4/TVB.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thrill.png" group-title=" Thailand Channels",Thrill
+https://live.dufree4k.net/02_Thrill_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg"group-title=" Thailand Channels",CCM
+https://live.dufree4k.net/02_CCM_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg" group-title=" Thailand Channels",CTB 
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.jpg"  group-title=" Thailand Channels",JKN
+https://live.youlive-cdn.com/02_JKN_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170708213058567372301.jpg"   group-title=" Thailand Channels",Movie 1
+http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707082131441239733741.jpg" group-title=" Thailand Channels",Movie 2
+http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170708213208929757171.jpg"   group-title=" Thailand Channels",Movie 3
+http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg" group-title=" Thailand Channels",UpMovie
+http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS"group-title=" Thailand Channels",  MOVIES 4 ( ENG SUB)
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title=" Thailand Channels",  MOVIES 5 ( ENG SUB)
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title=" Thailand Channels",  MOVIES 6 ( ENG SUB)
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title=" Thailand Channels",  Hollywood Movies
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title=" Thailand Channels",  Star China TH
+https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0168.png"group-title=" Thailand Channels", NHANG_DUNK
+https://live.dufree4k.net/02_NHANG_DUNK_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title=" Thailand Channels", MANGORN
+https://live.dufree4k.net/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:0 group-title=" Thailand Channels", Comedy
+https://live.dufree4k.net/02_Comedy_HD_720p/chunklist.m3u8
+
+
+
+#EXTINF:0 group-title=" Thailand Channels", HISTORY HD
+https://tv.xpeer-cdn.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0 group-title=" Thailand Channels", H2 HD
+https://tv.xpeer-cdn.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title=" Thailand Channels", DiscoveryChannel
+https://live.youlive-cdn.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg" group-title=" Thailand Channels", Discovery Asia
+https://tv.xpeer-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg" group-title=" Thailand Channels", DiscoveryScience
+https://www.livedoomovie.com/02_DiscoveryScience/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD_TH
+https://tv.xpeer-cdn.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD
+https://tv.xpeer-cdn.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild_TH
+https://tv.xpeer-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild
+https://tv.xpeer-cdn.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/natpeople.png" group-title=" Thailand Channels", NatPeople
+https://tv.xpeer-cdn.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/animalplanet.png" group-title=" Thailand Channels", AnimalPlanet
+https://tv.xpeer-cdn.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg" group-title=" Thailand Channels", สำรวจโลก
+https://tv.xpeer-cdn.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg" group-title=" Thailand Channels", MYSCIHD
+https://live.dufree4k.net/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg" group-title=" Thailand Channels",ไก่ชนเงินล้าน
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DIo2G4b.png" group-title=" Thailand Channels",Bull & Chicken Showtime
+https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190804212847sammuang.jpg" group-title=" Thailand Channels",สามเมือง ชาแนล
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FJD5HJQ.png" group-title=" Thailand Channels",Thai Baan
+http://bit.ly/2o6F1RP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title=" Thailand Channels",Fashion TV (UHD)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title=" Thailand Channels", CartoonNetwork
+https://live.dufree4k.net/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://teevee-hd.com/img/disneyxd.png" group-title=" Thailand Channels", DisneyXD
+https://tv.xpeer-cdn.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 group-title=" Thailand Channels",BOOMERANG
+https://live.dufree4k.net/02_Boomerang_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg" group-title=" Thailand Channels",GANG CRRTOON
+https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title=" Thailand Channels",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title=" Thailand Channels",CARTOON CLUB HD
+http://bit.ly/2mvUudR
+#EXTINF:-1 tvg-id="" tvg-name=""https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png" group-title=" Thailand Channels",Nick Jr 
+https://www.livedoomovie.com/02_Nick_Jr_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15PDypUsJbQf-RYabsF_7U4oUrtx458QIKX9_Fa7oeuMD_QAwoId71g" group-title=" Thailand Channels",Disney Junior
+https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v9cusKB.jpg" group-title=" Thailand Channels",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png"group-title=" Thailand Channels", Baby_TV_HD
+https://live.dufree4k.net/02_Baby_TV_HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png"group-title=" Thailand Channels", Miao_Mi
+https://live.dufree4k.net/02_Miao_Mi_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vIQR1Fv.png"group-title=" Thailand Channels",POP Kids
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fKQID35.jpg"   group-title="MUSIC",SABAIDEE TV 
+http://bit.ly/2mAZ9ex
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fantv.jpg" group-title="MUSIC",FANTV
+https://tv.xpeer-cdn.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg"group-title="MUSIC",แสงจันทร์ ทีวี
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c935025484281.5634604b1311b.png" group-title="MUSIC",  MiX Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Xljqj.png" group-title="MUSIC",  ONE
+http://rtmp.one.by:1300
+#EXTINF:0  tvg-logo="http://mtvasia-com.mtvnimages.com/mtvasia-news/2017/siterevamp/SISTERSCHANNEL_BANNER_CHINA.png" group-title="MUSIC", MTV_China
+https://live.dufree4k.net/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://mtvasia-com.mtvnimages.com/mtvasia-news/2017/siterevamp/SISTERSCHANNEL_BANNER_ASIA.png" group-title="MUSIC", MTV_Asia
+https://live.dufree4k.net/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://mtvasia-com.mtvnimages.com/mtvasia-news/2017/siterevamp/SISTERSCHANNEL_BANNER_LIVE.png" group-title="MUSIC", MTV_Live_HD
+https://live.dufree4k.net/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo-Channelvthailand-2014.png/150px-Logo-Channelvthailand-2014.png"  group-title="MUSIC", Channel_V
+https://live.dufree4k.net/02_Channel_V_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520767065.jpg",รหัสกระสุนเจาะกะโหลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_13-thirteen-2010-4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15207668891.jpg",คิง อาร์เธอร์ ตำนานแห่งดาบราชันย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506872.jpg",แบทเทิลชิป ยุทธการเรือรบพิฆาตเอเลี่ยน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Battleship%204K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513506991.jpg",อาชญากลปล้นโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Now%20You%20See%20Me%204K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154577.jpg",จอมเวทย์มหากาฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513154779.jpg",ทีมเงาอัจฉริยะ
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hidden%20Figures.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869682.jpg",The Fast and the Furious 1 เร็วแรงทะลุนรก 1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2001.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869791.jpg", 2 fast 2 furious เร็ว คูณ 2 ดับเบิ้ล แรง ท้า นรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869925.jpg",เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.3.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494873172.jpg",เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.4.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507717967.jpg",เร็ว..แรงทะลุนรก 8
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.fate.of.the.furious.2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924128.jpg",ทรานส์ฟอร์มเมอร์ส1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.1.2007.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494924530.jpg",ทรานส์ฟอร์มเมอร์ส 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.revenge.of.the.fallen.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927191.jpg",ทรานส์ฟอร์มเมอร์ส 3
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.dark.of.the.moon.2011.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494927384.jpg",ทรานส์ฟอร์มเมอร์ส4
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.age.of.Extinction.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1507557503.jpg",ทรานส์ฟอร์มเมอร์ส 5
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.The.Last.Knight.2017.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866593.jpg",วอร์คราฟต์: กำเนิดศึกสองพิภพ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Warcraft.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866612.jpg",X-Men: Apocalypse
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-Men.Apocalypse.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875036.jpg", จี ไอ โจ ภาค 2 สงคราม ระห่ำ แค้น ค อบ ร้า ทมิฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_4K_G.I.Joe.2.Retaliation.Extended.Cut.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866800.jpg",สงครามเทวดา
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875139.jpg",รวมพันธุ์นักสู้พิทักษ์จักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Guardians.Of.The.Galaxy.2014.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866979.jpg",ฮิทแมน: สายลับ 47
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hitman.agent.47.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866525.jpg",สงครามใหม่วันบดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Independence.Day.Resurgence.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866489.jpg",เจสัน บอร์น ยอดจารชนคนอันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jason.bourne.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875321.jpg",จอห์นวิค แรงกว่านรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_John.wick.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875470.jpg",จูราสสิค เวิลด์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jurassic.World.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875817.jpg",ทะลุเวลา อึดล่าอึด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Looper.2012.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494875993.jpg",แมด แม็กซ์: ถนนโลกันตร์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866938.jpg",เมซ รันเนอร์ สมรภูมิมอดไหม้
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Maze.Runner.The.Scorch.Trials.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494881925.jpg",oblivion อุบัติ การณ์ โลก ลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867013.jpg",คู่โดยสารพันล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Passengers.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917010.jpg",San Andreas มหาวินาศแผ่นดินแยก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_San.Andreas.2015.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866550.jpg",เต่านินจา 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Teenage.mutant.ninja.turtles.out.of.the.shadows.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866659.jpg",5th wave อุบัติ การณ์ ล้างโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.5.th.Wave.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917307.jpg",ดิ อะเมซิ่ง สไปเดอร์แมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Amazing.Spider.Man.2012.4k.2500.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866851.jpg",ตำนานแห่งทาร์ซาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.legend.of.tarzan.2016.2160p.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917734.jpg",เดอะ แมน ฟรอม อั.ง.เ.คิ.ล. คู่ดุไร้ปรานี
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.Man.From.U.N.C.L.E.2015.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917863.jpg",เดอะ มาร์เชียน กู้ตาย 140 ล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Martian.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494918176.jpg",The Nice Guys กายส์...นายแสบมาก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.nice.guys.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494917501.jpg",ดิ อะเมซิ่ง สไปเดอร์-แมน: ผงาดอสูรกายสายฟ้า
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Amazing.Spider-Man.2.2014.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501578936.jpg",Arrival ผู้มาเยือน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Arrival.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501405187.jpg",สวยสังหาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Salt.2010.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1501318248.jpg", bad boy คู่หู ขวาง นรก 2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Bad.boys.ii.2003.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497095846.jpg",โลแกน เดอะ วูล์ฟเวอรีน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Logan.2017.4K.TH.1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496046938.jpg",ใหญ่・ปล้น・ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Railroad.Tigers.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497173648.jpg",เอ็กซ์ เม็น ศึกมนุษย์พลังเหนือโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-men.Days.Of.Future.Past.2014.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496214903.jpg",xXx ทลายแผนยึดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Xxx.Return.Of.Xander.Cage.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866171.jpg",อัสแซสซินส์ครีด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Assassins.Creed.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867197.jpg",avatar อวตาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Avatar.Extended.Edition.2009.TH.4K.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866641.jpg",แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Batman.V.Superman.Dawn.Of.Justice.2016.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867414.jpg",วันยึดโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Battle.Los.Angeles.2011.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494867575.jpg",captain america civil war
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Captain.America.Civil.War.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866460.jpg",ฝ่าวิบัติเพลิงนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Deepwater.horizon.2016.4k.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494869467.jpg",สงครามพลิกจักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Enders.Game.2013.4K.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866350.jpg",สัตว์มหัศจรรย์: อาชญากรรมของกรินเดลวัลด์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Fantastic.Beasts.And.Where.To.Find.Them.2016.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie_4K",Kingsman: The Golden Circle (2017) คิงส์แมน รวมพลังโคตรพยัคฆ์
+http://191.96.77.3/4kmovie/4K_2160/Kingsman-the-golden-circle-2017-4k.265.hevc.2160p.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Starship Troopers: Traitor of Mars (2017) สงครามหมื่นขา ล่าล้างจักรวาล จอมกบฏดาวอังคาร
+http://191.96.77.3/4kmovie/4K_2160/Starship.troopers.traitor.of.mars.2017.2160p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Gintama (2017) กินทามะ ซามูไร เพี้ยนสารพัด
+http://191.96.77.3/4kmovie/4K_2018/Gintama.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Jumanji welcome to the jungle 2017
+http://191.96.77.3/4kmovie/4K_2018/Jumanji.welcome.to.the.jungle.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Meters Down 2017
+http://191.96.77.3/4kmovie/4K_2018/47.meters.down.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",The Wall 2017
+http://191.96.77.3/4kmovie/4K_2018/The.wall.2017.1080p.265.hevc.mkv
+
+#EXTINF:-1 group-title="Movie_4K",Beyond skyline 2017
+http://191.96.77.3/4kmovie/4K_2018/Beyond.skyline.2017.1080p.265.hevc.mkv
+
+
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Johnny-English-1-2003-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81..%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-170x250.png",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก สายลับกลับมาป่วน 1
+https://slave13.iplayers.co/drive//hls/ea218d440ff2ab7a10778f1fde473393.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Johnny-English-2-Reborn-2011-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81..%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-2-170x250.png",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก สายลับกลับมาป่วน 2
+https://slave12.iplayers.co/drive//hls/4e4e4d504de07110eb7317e8c42a79d5.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Johnny-English-3-Strikes-Again-2018-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81-%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99-3-170x250.png",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก สายลับกลับมาป่วน 3
+https://slave13.iplayers.co/drive//hls/3504d8214ba748ecb4ac2b474142353c.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1530273446.jpg",Pacific Rim:Uprising 2018:แปซิฟิค ริม ปฏิวัติพลิกโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Pacific.rim.uprising.2018.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1529928480.jpg",ยุทธภูมิทะเลแดง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Operation%20Red%20Sea%202018.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1520498958.jpg",Only the Brave คนกล้าไฟนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Only.the.brave.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_15142861981.jpg",baywatch ไลฟ์การ์ดฮอตพิทักษ์หาด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Baywatch.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1514359480.jpg",security 2017 โคตร ยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519901795.jpg",Justice League จัสติซ ลีก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Justice.League.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1519214702.jpg",ธอร์: ศึกอวสานเทพเจ้า
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Thor.Ragnarok.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518777044.jpg",PROFESSOR MARSTON AND THE WONDER WOMEN (2017) กำเนิดวันเดอร์วูแมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Professor.Marston.and.the.Wonder.Women.2017.FullHD.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1521027422.jpg",เกมดูดโลก บุกป่ามหัศจรรย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Jumanji.Welcome.to.the.Jungle.2017.FullHD.TH.mp4/index.m3u8
+  
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4319.jpg",Knock Knock ล่อมมาเชือด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Knock.knock.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4687.jpg",Retribution พลิกเส้นตาย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Retribution.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1506155902.jpg",เดอะ เกรท วอลล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.great.wall.2016.TH.6500.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494523380.jpg",007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_James.Bond.007.Casino.Royale.2006.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",ฝ่าวิกฤติ 12 รอบระห่ำนรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494327857.jpg",  2035 ข้ามเวลากู้โลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_2035.The.Forbidden.Dimensions.TH.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2200.jpg",22 นัด ยมบาลล้างยมบาล
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3112.jpg",Act Of Valor หน่วยพิฆาตระห่ำกู้โลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Act.Of.Valor.2012.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3586.jpg",โคตรคนปล้นระห่ำเมือง
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_American.Heist.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4332.jpg",แผนระห่ำปล้นทะลุเกราะ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Armored.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3201.jpg",ภารกิจดุ กุมชะตาโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Babylon.a.d.2008.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5428.jpg",คู่เดือด...แสบเกินพิกัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Company.2002.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5204.jpg",เกียรติยศคนโฉดถล่มเมืองโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Lieutenant.Port.of.Call.New.Orleans.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2064.jpg",ยุทธการฝ่ารหัสทมิฬ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_Black.Hawk.Down.2001.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4399.jpg",เหาะทะลุฟ้า ซิ่งมหาประลัย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Black.lightning.2009.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4378.jpg",บลิทซ์ ล่าโคตรคลั่งล้าง สน.
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Blitz.2011.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512811671.jpg",ส่ม ภัค เสี่ยน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_SOM.PAK.SIAN.2017.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1512636904.jpg",สาระแน เลิฟยูววว
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Saranair-Love%20You.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1496148951.jpg",Z Storm คนคมโค่นพายุ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Z.storm.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495887600.jpg",มังกรหนุ่มผยองเดช
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Call.of.heroes.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1497795640.jpg",เชือด เดือด ระอุ 2017
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Operation.mekong.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495286782.jpg",ไซอิ๋ว 2017 คนเล็กอิทธิฤทธิ์ใหญ่
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Journey.to.the.west.the.demons.strike.back.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495874155.jpg",โยคะสู้ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Kung.fu.yoga.2017.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1493535522.jpg",วานรคู่ฟัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Monkey.Twins.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/6300.jpg",ก็อดซิลล่า: รีเซอร์เจนซ์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Shin.Godzilla.2016.TH.MP4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1495107888.jpg", คน ล่า ฅน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_the.age.of.shadows.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1492853447.jpg", ยากูซ่า ปะทะ แวมไพร์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Yakuza.apocalypse.2015.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4968.jpg",ฟ้าใส ใจชื่นบาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Blue.Sky.of.Love.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3299.jpg",ใหญ่พลิกแผ่นดินฟัด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Little.Big.Soldier.2010.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4157.jpg",แม่เบี้ย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Maebia.2015.Uncut.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3647.jpg",หวงเฟยหง พยัคฆ์ผงาดวีรบุรุษกังฟู
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Rise.of.the.legend.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5225.jpg",เท่ง โหน่ง จีวรบิน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Teng.Nong.jiworn.bin.2011.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2599.jpg",โจโฉ
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.Assassins.2012.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2553.jpg",ล่าทะลุศตวรรษ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.Iceman.2014.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1612.jpg",เจ้าพ่อเซี่ยงไฮ้คนสุดท้าย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.last.tycoon.2012.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4801.jpg",เงือกสาว ปัง ปัง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Mermaid.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4761.jpg",ไซอิ๋ว 2 ตอน ศึกราชาวานรพิชิตมาร
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_The.monkey.2.2016.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3388.jpg",เดชนางพญาผมขาว
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.White.Haired.Witch.Of.Lunar.Kingdom.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1797.jpg",8 ดาบทรมาน 6 ดาบสังหาร
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_14.blades.2010.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2627.jpg",1911 ใหญ่ผ่าใหญ่
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_1911.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4122.jpg",เชือดระอุ ทะลุองศา
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_-197C.Murder.2013.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/251.jpg",7 เพชฌฆาต ทะเลทราย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_7.Assassins.2013.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2956.jpg",มหาบุรุษ กู้แผ่นดิน
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Batter.Of.Wits.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1750.jpg",ผู้หญิงข้าใครอย่าแตะ 1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.1.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1526.jpg",ผู้หญิงข้าใครอย่าแตะ 2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.2.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/1527.jpg",ผู้หญิงข้าใครอย่าแตะ 3
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.3.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/4727.jpg",พยัคฆ์ย่ำมังกรโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_A.War.Named.Desire.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2820.jpg",จอมโจรหัวใจไม่ลวงรัก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.World.Without.Thieves.2005.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/3895.jpg",ศึกทะยานฟ้า กวดวิชาถล่มมาร
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_Arahan.TH.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/936.jpg", สงครามธนูพิฆาต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Arrow.the.ultimate.weapon.2011.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",12 Rounds
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/2200.jpg",22 Bullets
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91C0NkRaPuL._SL1500_.jpg",Oblivion อุบัติการณ์โลกลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1D35F8iydL._SL1500_.jpg",Gods of Egypt
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1514359480.jpg",security โคตรยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://lh5.googleusercontent.com/proxy/rwzltIBPdSqvoEZWxYICkHcgOlQnDnlKOFCv_RArxs-cQkph3zrmAy2RnY9hrxzPm2tBpTLch-JajZMbTlNEs8l1_15JpCB0VUyIZ24XXleZ2n14HAN_QefZ5_dbhMkXpgDisBTAT7oz=w321-h458-nc",Dejavu
+https://glus-st.mthcdn.com/stream/video02/2018/07/19/1531992148/1531992148_720.mp4
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWqubmh0Np1kluHz_iC7MschurNQc16kiB091RC8K8AQZQv3W",i Spit On Your Grave1
+https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514472978/1514472978_720.mp4
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk_nv45iyoK5sKnYzK79U6N28fyq-hYZ1WG4RMgsiokzV4iqFp_7G9TjVOIA",i Spit On Your Grave2
+https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514473017/1514473017_720.mp4
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://lh5.googleusercontent.com/proxy/KyCmPJjgHjoFm4vuLJshhlav3k-1LI4FmL7lAF2ZK1nBzJbIGeRmnIHEF11Dh8pxz-lRSSGHBahM1f4UoAdIAuBcFFPVvtvO5EdE_Cx-y4PxOTEdk9nSSaNFKKbzQ5Sja6Kpy5zrT83HutOdyhz-JTB772nBOwaSY13x5bEjsZ49wlAX7NFLajiDegAnx4XnfWVMWQ8nlOxgsBq6tTz1t7JHFzmwrY3giW-KLrK3I1fbm5sgRNQ45A4pOXSnmFFgEeW2b7CSLxdRjCw6J3ZOhC7XRMg6hvv2UpKT6d2S93YTly0NOMJ-stkGA0W-6ciiptwzjm3lz6WexLJvnNmpmw=w230-h327-nc",i Spit On Your Grave3
+https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514480073/1514480073_720.mp4
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkR_6XkgmJNdYmZuTa7STTtbbsVHBUSJVRhOSmxW5wN-g1xCmCVjA7r2yl",Suicide Squad
+https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515652416/1515652416_720.mp4
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://lh5.googleusercontent.com/proxy/emE4c1hR6EuCPndHnQFUc-e12XI2Fptb8DQ2OZiBXAVeGziomZGep3eYwxv8G9brdBxCwKMvd9k4ojHTdX-IcShrjJgP0S2F-NsLVWNUk8Tjkxc3ScJ4gAlnHxjDGH4NIEFgOg71tA=w300-h450-nc",Green Lantern
+https://glus-st.mthcdn.com/stream/video02/2018/01/14/1515908100/1515908100_720.mp4
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBq1QT_A03SO9K8t-cmEUnksCkcVibJbs_1zqu27OpZifAnCc_Q",MadMax FuryRoad
+https://glus-st.mthcdn.com/stream/video02/2018/01/24/1516802687/1516802687_720.mp4
+
+#EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbbct939KXCASeyMwvEPeKV9kmxj9JgwCE_D6lWq7nLib-waTQyu0JNTPT",Along With The God1
+https://glus-st.mthcdn.com/stream/video02/2018/04/16/1523867634/1523867634_720.mp4
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT33GrJj_0muoqph8n4xfHkJoXG41Bro40iSO5RsXGt5kADZJZAvA",kingsman2
+https://glus-st.mthcdn.com/stream/video02/2017/12/03/1512283514/1512283514_720.mp4
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://doonungdee.online/cover/1532060159.jpg",Next
+https://glus-st.mthcdn.com/stream/video02/2018/07/18/1531908815/1531908815_720.mp4
+
+#EXTINF:-1 group-title="Movie"tvg-logo=",White Tiger (2012) เบลืยติกร์ สงครามรถถังประจัญบาน
+https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513678037/1513678037_360.mp4
+#EXTINF:-1 group-title="Movie"tvg-logo="https://onlinemini-hd.com/wp-content/uploads/2015/08/Transformers-4-202x289.jpg",Transformers 4: Age of Extinction มหาวิบัติยุคสุญพันธุ์
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-6-Fallout-2018-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-6-%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C.png" ,MISSION IMPOSSIBLE 6 FALLOUT (2018) มิชชั่น อิมพอสซิเบิ้ล 6 ฟอลล์เอาท์
+https://slave5.iplayers.co/drive//hls/5d25e026507c4409777f475141613874/5d25e026507c4409777f475141613874.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-5-Rogue-Nation-2015-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-5-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AD%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%87-5.png" ,MISSION IMPOSSIBLE 5 ROGUE NATION (2015) มิชชั่น อิมพอสซิเบิ้ล 5 ปฏิบัติการรัฐอำพราง
+https://slave5.iplayers.co/drive//hls/1da52d460fb8693a4a23ffebfffcb8a9/1da52d460fb8693a4a23ffebfffcb8a9.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-4-Ghost-Protocol-2011-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-4-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%80%E0%B8%87%E0%B8%B2.png" ,MISSION IMPOSSIBLE 4 GHOST PROTOCOL (2011) มิชชั่น อิมพอสซิเบิ้ล 4 ปฏิบัติการไร้เงา
+https://slave10.iplayers.co/drive//hls/48f33591db4a2f08ca4d401490730c11/48f33591db4a2f08ca4d401490730c11.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-3-2006-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-3-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81-3.png" ,MISSION IMPOSSIBLE 3 (2006) มิชชั่น อิมพอสซิเบิ้ล 3
+https://slave5.iplayers.co/drive//hls/1434f1695ee25e3fc11138f2ba73a872/1434f1695ee25e3fc11138f2ba73a872.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-2-2000-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-2.png" ,MISSION IMPOSSIBLE 2 มิชชั่น อิมพอสซิเบิ้ล 2
+https://slave4.iplayers.co/drive//hls/dc20b180a1afa5808d134f80cb21fcec/dc20b180a1afa5808d134f80cb21fcec.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-1-1996-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-1.png" ,MISSION IMPOSSIBLE 1 มิชชั่น อิมพอสซิเบิ้ล 1
+https://slave5.iplayers.co/drive//hls/cb254f71fa2f2caf1f9c24ce45090be7/cb254f71fa2f2caf1f9c24ce45090be7.m3u8
+
+
+concert
+
+
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1524224285.jpg", พี่ปู พงษ์สิทธิ์ คำภีร์ คอนเสิร์ต 30 ปี คำภีร์ แกเพื่อนฉัน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_30y%20Kampee.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/6044.jpg",คอนเสิร์ต พงษ์สิทธิ์ คำภีร์ ใจบงการ 2016
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Kham.Pi.Live.Ko.Chai.Man.Bongkan.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518336780.jpg",บันทึกการแสดงสด NJ S STORY CONCERT THE ORIGINAL (2017) D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_NJs%20Story%20Concert%20The%20Original%20D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1518336780.jpg",บันทึกการแสดงสด NJ S STORY CONCERT THE ORIGINAL (2017) D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_NJs%20Story%20Concert%20The%20Original%20D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/channel_1524302543.jpg",คอนเสิร์ต 25 ปี สุดหัวใจ ใหม่ ไม้ม้วน D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_25%20MAI%20D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/channel_1524302543.jpg", คอนเสิร์ต 25 ปี สุดหัวใจ ใหม่ ไม้ม้วน D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_25%20MAI%20D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/5293.jpg",Da Endorphine Magic Of The Night Concert
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Da.Endorphine.Magic.Of.The.Night.2012.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339775.jpg",Retrospect & Sweet Mullet vs The world Concert D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert.Rtsm.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339775.jpg",Retrospect & Sweet Mullet vs The world Concert D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert.Rtsm.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339699.jpg",คอนเสิร์ต Sek Loso Live In Thailand D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Sek.loso.live.in.thailand.2015.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339699.jpg",คอนเสิร์ต Sek Loso Live In Thailand D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Sek.loso.live.in.thailand.2015.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2609.jpg",คอนเสิร์ต เสก โลโซ เพื่อเพื่อน
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_LOSO.For.Friend.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/642.jpg",ช็อต ชาร์จ ช็อค ร็อก คอนเสิร์ต
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Short_Charge_Shock_Rock_Legend.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2260.jpg",คอนเสิร์ต : Silly Fools FatLive V3
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Silly.Fools.Fatlive.V.3.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339810.jpg",สล็อต แมชชีน เดอะ เฟิร์ส คอนแทค D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Slot.Machine.The.First.Contact.2014.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339810.jpg",สล็อต แมชชีน เดอะ เฟิร์ส คอนแทค D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Slot.Machine.The.First.Contact.2014.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/895.jpg",Concert RS MEETING D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_RS_MEETING_CONCERT.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/895.jpg",Concert RS MEETING D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_RS_MEETING_CONCERT.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494341697.jpg",PACK 4 TURN BACK CONCERT D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_PACK4.Turn.Back.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494341697.jpg",PACK 4 TURN BACK CONCERT D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_PACK4.Turn.Back.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494339742.jpg", Concert LinkinPark Rock In Rio Usa
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Linkin.Park.Rock.In.Rio.Usa.2015.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/6188.jpg", คอนเสิร์ต อัสนี วสันต์ 30 ปี สวัสดี ครับ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert_Atsani-Wasan.30.Year.Sawatdi.Khrap.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513239297.jpg",J DNA Concert D1
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert%20_J%20DNA%20CONCERT%20D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1513239297.jpg",J DNA Concert D2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Concert%20_J%20DNA%20CONCERT%20D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/3678.jpg",บิ๊กแอสคอนเสิร์ต...เปิดพรหมลิขิต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Bigass.Concert.2007.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/374.jpg",คอนเสิร์ต บรรลุนิติภาวะ ๒๑ ปี ป้าง นครินทร์ กิ่งศักดิ์
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_Pang.21Y.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1807.jpg",Big Mountain Music Festival 3 ... มัน ใหญ่ มาก D1
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert.Big.mountain.3.D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/1807.jpg",Big Mountain Music Festival 3 ... มัน ใหญ่ มาก D2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert.Big.mountain.3.D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2197.jpg",Concert Bird 25ปี  D1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Bird.25_D1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/2197.jpg",Concert Bird 25ปี  D2
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Concert_Bird.25_D2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/15786.jpg",คอนเสิร์ต 10 ปี แบล็คเฮด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Concert_10th.black.head.concert.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/24933.jpg",คอนเสิร์ต "Potato Live D1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Chang.Music.Connection.Presents.Potato.Live.Disc1.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/channels/24933.jpg",คอนเสิร์ต "Potato Live D2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Chang.Music.Connection.Presents.Potato.Live.Disc2.mp4/index.m3u8
+ 
+#EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494332074.jpg",จ๊ะ คันหู อัลบั้ม หนูเอาอยู่
+http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u8
+
+MOVIES 2019
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Stuber-2019-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B9%8B%E0%B8%87%E0%B9%84%E0%B8%9B%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%A3.png" group-title="MOVIES 2019",Stuber (2019) เรียกเก๋งไปจับโจร [ซับไทย]
+https://slave7.iplayers.co/drive//hls/241ea79cf0f1ad95167ddecfeb18df1a.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/3-from-Hell-2019.png" group-title="MOVIES 2019",3 from Hell (2019) 
+https://slave9.iplayers.co/drive//hls/cdffd15d239696309087e5a5f2a0e025.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Wounds-2019-%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2.png"group-title="MOVIES 2019",WOUNDS (2019) สัญญาณสั่งตาย [ซับไทย]
+https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Eli-2019-%E0%B8%AD%E0%B8%B5%E0%B9%84%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%87.png"group-title="MOVIES 2019",ELI (2019) อีไล จิตต้องขัง [ซับไทย]
+https://slave12.iplayers.co/drive//hls/5059ae104297ed80d48169a61d81cb22.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/0.0-Mhz-%E0%B8%9C%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%9C%E0%B8%A1-2019.jpg"group-title="MOVIES 2019",(ZOOM)0.0 MHZ (2019) ผีอยู่ในผม
+https://037hd1.vanlong.stream/drive//hls/87d966d337571edfd0baf6fe2f46d545/87d966d337571edfd0baf6fe2f46d545.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Exit-Eksiteu-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%A9-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%81-2019.jpg" group-title="MOVIES 2019",EXIT (2019) ฝ่าหมอกพิษ ภารกิจรัก
+https://edge-ns1.leoplayer1.com/hls/6ccc6b821492617d81e26a691950e9d2/6ccc6b821492617d81e26a691950e9d2.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Doom-Annihilation-2019.jpg" group-title="MOVIES 2019",DOOM ANNIHILATION (2019) ล่าตายมนุษย์กลายพันธุ์ 2
+https://edge-ns1.leoplayer1.com/hls/44d0b00394de1329de5db77a39d60103/44d0b00394de1329de5db77a39d60103.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/07/anna.jpg" group-title="MOVIES 2019",ANNA (2019) แอนนา สวยสะบัดสังหาร
+https://www58.playercdn.net/88/3/uFxIupXQIK6LWZr6T-Prpg/1570080894/191002/623G7K7A09UJ8BNHZSJPF.mp4
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/07/step-up-year-of-the-dance.jpg" group-title="MOVIES 2019",STEP UP 6 YEAR OF THE DANCE (2019) สเต็ปโดนใจ หัวใจโดนเธอ 6
+https://edge-ns1.leoplayer1.com/hls/2a111009851b17287e27db29d4fa1263/2a111009851b17287e27db29d4fa1263.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/LEGO-DC-Batman-Family-Matters-2019.jpg" group-title="MOVIES 2019",LEGO DC: BATMAN – FAMILY MATTERS (2019) เลโก้ DC แบทแมน เรื่องของครอบครัว
+https://edge-ns1.leoplayer1.com/hls/cfa4416fa72cedf1dc7b2c4c1b92edeb/cfa4416fa72cedf1dc7b2c4c1b92edeb.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Tomorrow-Man-2019.jpg" group-title="MOVIES 2019",THE TOMORROW MAN (2019) คนสำหรับวันพรุ้งนี้
+https://edge-ns1.leoplayer1.com/hls/d674345f208a14b2fc857c4cf8efd685/d674345f208a14b2fc857c4cf8efd685.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Avengement-Netflix-2019.jpg" group-title="MOVIES 2019",Avengement | Netflix (2019) แค้นฆาตกร
+https://edge-ns1.leoplayer1.com/hls/7e03284ac7cdcee7d0c9272c640d2650/7e03284ac7cdcee7d0c9272c640d2650.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Berlin-I-Love-You-2019.jpg" group-title="MOVIES 2019",BERLIN, I LOVE YOU (2019) เบอร์ลิน, ไอ เลิฟ ยู
+https://edge-ns2.leoplayer1.com/hls/2584f91d320a9027cb4dc7a32c0ac38a/2584f91d320a9027cb4dc7a32c0ac38a.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Cold-Blood-Legacy-2019.jpg" group-title="MOVIES 2019",COLD BLOOD LEGACY (2019) นักฆ่าเลือดเย็น
+https://edge-ns2.leoplayer1.com/hls/5af8df08f1ea544e1fc729722b07da5c/5af8df08f1ea544e1fc729722b07da5c.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Inside-Man-Most-Wanted-2019.jpg" group-title="MOVIES 2019", INSIDE MAN: MOST WANTED (2019) ปล้นข้ามโลก
+https://edge-ns2.leoplayer1.com/hls/99c213bd726669a33ae6e5b2ecf10bb4/99c213bd726669a33ae6e5b2ecf10bb4.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Between-Two-Ferns-The-Movie-2019-NETFLIX-Sub-TH.jpg" group-title="MOVIES 2019",BETWEEN TWO FERNS: THE MOVIE | NETFLIX (2019) บีทวีน ทู เฟิร์นส์: เดอะ มูฟวี่
+https://edge-ns2.leoplayer1.com/hls/808b19811405668505309b7e5e1804ae/808b19811405668505309b7e5e1804ae.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Fast-Furious-Presents-Hobbs-Shaw-2019.jpg" group-title="MOVIES 2019",FAST AND FURIOUS PRESENTS HOBBS AND SHAW (2019) เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์
+https://edge-ns2.leoplayer1.com/hls/7b6edc9bbaec9c97fa0452f2d1b2c2fa/7b6edc9bbaec9c97fa0452f2d1b2c2fa.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/The-Sun-Is-Also-a-Star-2019.jpg" group-title="MOVIES 2019",THE SUN IS ALSO A STAR (2019) เมื่อแสงดาวส่องตะวัน
+https://edge-ns1.leoplayer1.com/hls/33a99acdbe25511144e0624e87e5460f/33a99acdbe25511144e0624e87e5460f.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/06/Toy-Story-4-2019.jpg" group-title="MOVIES 2019",TOY STORY 4 (2019) ทอย สตอรี่ ภาค 4
+https://edge-ns2.leoplayer1.com/hls/be5e5346ba1d93479f870934a0663423/be5e5346ba1d93479f870934a0663423.playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Bill-Burr-Paper-Tiger-Netflix-2019.jpg" group-title="MOVIES 2019",BILL BURR: PAPER TIGER | NETFLIX (2019) บิล เบอร์ เสือกระดาษ
+https://edge-ns2.leoplayer1.com/hls/9ab75765bc077c6d6fe6a27398ce22e8/9ab75765bc077c6d6fe6a27398ce22e8.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Tall-Girl-2019.png" group-title="MOVIES 2019",TALL GIRL | NETFLIX (2019) รักยุ่งของสาวโย่ง
+https://edge-ns2.leoplayer1.com/hls/afe8411401667862251563b55a5fe2be/afe8411401667862251563b55a5fe2be.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/07/Childs-Play-2019-%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99.jpg" group-title="MOVIES 2019",CHILD’S PLAY (2019) คลั่งฝังหุ่น
+https://edge-ns1.leoplayer1.com/hls/79d265da31c6685f57b7caa2d1823c18/79d265da31c6685f57b7caa2d1823c18.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/07/John-Wick-Chapter-3.jpg" group-title="MOVIES 2019",JOHN WICK: CHAPTER 3 – PARABELLUM (2019) จอห์น วิค แรงกว่านรก 3
+https://edge-ns2.leoplayer1.com/hls/6550d367acd2ad792486a47af52b2db7/6550d367acd2ad792486a47af52b2db7.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Cold-Pursuit-2019-%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81.jpg" group-title="MOVIES 2019",COLD PURSUIT (2019) แค้นลั่นนรก
+https://edge-ns1.leoplayer1.com/hls/b0a86e9c9977eaf25f4fc5e34adf01f9/b0a86e9c9977eaf25f4fc5e34adf01f9.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/It-Chapter-Two-2019.jpg" group-title="MOVIES 2019",IT CHAPTER TWO (2019) อิท โผล่จากนรก 2
+http://bit.ly/30QPvTd
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dead-Don-t-Die-2019.jpg" group-title="MOVIES 2019",THE DEAD DON’T DIE (2019) วันซอมบี้ป่วนโลก
+http://bit.ly/2VitdbN
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Backdraft-2-2019.jpg" group-title="MOVIES 2019",BACKDRAFT 2 (2019) เปรวไฟกับวีรบุรุษ 2
+https://edge-ns2.leoplayer1.com/hls/1405f6fd968bb299195f4ce38a61db9c/1405f6fd968bb299195f4ce38a61db9c.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/06/X-Men-Dark-Phoenix-2019.jpeg" group-title="MOVIES 2019",X-MEN: DARK PHOENIX (2019) X-เม็น ดาร์ก ฟีนิกซ์
+https://edge-ns1.leoplayer1.com/hls/0142cf6164e984a2122fcee6a32578af/0142cf6164e984a2122fcee6a32578af.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Divine-Fury-2019-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.png" group-title="MOVIES 2019", THE DIVINE FURY (2019) มือนรกพระเจ้าคลั่ง
+https://edge-ns1.leoplayer1.com/hls/0e25f4cab45f124ed09c5f72d1c30d4e/0e25f4cab45f124ed09c5f72d1c30d4e.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2019/08/the-furies-movie-poster.jpg?ssl=1" group-title="MOVIES 2019",The Furies (2019)
+http://43.255.241.165:1935/farang/The-Furies-ST.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Crawl-2019-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%A2%E0%B9%89%E0%B8%B3.png" 
+group-title="MOVIES 2019 ",SUB CRAWL (2019) คลานขย้ำ
+https://037hd5.vanlong.stream/drive//hls/bf60b6adb25f995c91b4be70f9663542/bf60b6adb25f995c91b4be70f9663542.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/10/In-the-Tall-Grass-2019.png" group-title="MOVIES 2019",In the Tall Grass
+http://43.255.241.165:1935/farang/In-the-Tall-Grass-TH.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/10/In-the-Tall-Grass-2019.png" group-title="MOVIES 2019",In the Tall Grass SUB
+https://037hd7.vanlong.stream/drive//hls/6ababaabbbc0aaeb34694e4e89c2dce2/6ababaabbbc0aaeb34694e4e89c2dce2.m3u8
+#EXTINF:-1 tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/09/Spider-Man_Far_From_Home_poster.jpg" group-title="MOVIES 2019",Spider-Man: Far from Home
+https://slave9.iplayers.co/drive//hls/19c2d890128d606a903b14b76d7b3068.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/In-the-Shadow-of-the-Moon-2019.png" group-title="MOVIES 2019",IN THE SHADOW OF THE MOON
+https://slave12.iplayers.co/drive//hls/be66dcc202988298f5de1358f8fd5b61/be66dcc202988298f5de1358f8fd5b61.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Burn-2019.png"group-title="MOVIES 2019", BURN
+https://slave12.iplayers.co/drive//hls/f2a39fde22cf1c5937913984f3c22bda/f2a39fde22cf1c5937913984f3c22bda.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/04/Hellboy-2019.jpg" group-title="MOVIES 2019",HELLBOY (2019) เฮลล์บอย
+https://037hd5.vanlong.stream/drive//hls/bf64b7cf9bd48d3fbc448d3226ec1edb/bf64b7cf9bd48d3fbc448d3226ec1edb.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/08/The-Hustle-2019.jpg" group-title="MOVIES 2019",The Hustle (2019) โกงตัวแม่
+https://037hd2.vanlong.stream/drive//hls/34ba87654d4f217e187227375c71a6f1/34ba87654d4f217e187227375c71a6f1.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/05/Godzilla-2-King-of-the-Monsters-2019.jpg" group-title="MOVIES 2019",GODZILLA 2: KING OF THE MONSTERS (2019) ก็อดซิลล่า 2: ราชันแห่งมอนสเตอร์
+https://037hd3.vanlong.stream/drive//hls/dd418fab9c94bbb851854ffe9bd054ef/dd418fab9c94bbb851854ffe9bd054ef.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/08/Game-Over-2019-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C.jpg" group-title="MOVIES 2019",Game Over (2019) เกมโอเวอร์
+https://037hd2.vanlong.stream/drive//hls/ff97a157ef2b8e6272a7556484f6769e/ff97a157ef2b8e6272a7556484f6769e.m3u8
+#EXTINF:-1 tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/08/The-Best-of-Enemies-2019-%E0%B8%A8%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94.jpg" group-title="MOVIES 2019",THE BEST OF ENEMIES (2019) ศัตรูทีดีที่สุด 
+https://037hd4.vanlong.stream/drive//hls/947b3eae99e2f7104ae897594178ac59/947b3eae99e2f7104ae897594178ac59.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Rocketman-2019-%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%81%E0%B8%95%E0%B9%81%E0%B8%A1%E0%B8%99.png" group-title="MOVIES 2019",Rocketman (2019) ร็อคเกตแมน
+https://037hd6.vanlong.stream/drive//hls/5fb0fd548c2be2dff738d05c056ba179/5fb0fd548c2be2dff738d05c056ba179.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Detective-Conan-The-Movie-23-The-Fist-of-Blue-Sapphire-2019-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-23-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1.png" group-title="MOVIES 2019",DETECTIVE CONAN THE MOVIE 23 
+https://037hd7.vanlong.stream/drive//hls/d784f98a24e6e45e31269d1e68145fa9/d784f98a24e6e45e31269d1e68145fa9.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/El-Camino-A-Breaking-Bad-Movie-2019.png" group-title="MOVIES 2019", El Camino A Breaking Bad Movie (2019) 
+https://slave8.iplayers.co/drive//hls/b1dca51542c233d969d86a3e3bd1bc2a.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Fractured-2019.png" group-title="MOVIES 2019",Fractured (2019) 
+https://slave7.iplayers.co/drive//hls/7fe8794bdf596252647b727c63298532.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Influence-2019-กระชากเงาอดีต.png" group-title="MOVIES 2019",The Influence (2019) กระชากเงาอดีต
+https://slave13.iplayers.co/drive//hls/f35b37be99a7af1c68ecae6b93a190f2.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/The-Lion-King-2019-ไลอ้อน-คิง.png" group-title="MOVIES 2019", The Lion King (2019) ไลอ้อน คิง
+https://slave9.iplayers.co/drive//hls/f096cc9a8af75adba76fb33203c770e9.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/10/Ma-2019.jpg" group-title="MOVIES 2019", MA (2019) แม่ ร้าย
+https://slave8.iplayers.co/drive//hls/cabde1defc8731540cb56af6c26c3e87.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Entity-2019-%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%87%E0%B8%9A.png"  group-title="MOVIES 2019",THE ENTITY (2019) ตายไม่สงบ
+https://slave9.iplayers.co/drive//hls/ceb772a52f94724170fb6c532b70e9ee/ceb772a52f94724170fb6c532b70e9ee.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Death-of-Dick-Long-2019-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B4%E0%B9%8A%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87.png"  group-title="MOVIES 2019",The Death of Dick Long (2019) ปริศนาการตาย ของนายดิ๊คลอง
+https://slave9.iplayers.co/drive//hls/3e3427129463c72a6be633cc1051beaf/3e3427129463c72a6be633cc1051beaf.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Street-Flow-2019-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81.png" group-title="MOVIES 2019" ,STREET FLOW (2019) ทางแยก
+https://slave9.iplayers.co/drive//hls/47ffd547e50a7a8f5f771d6c74f5ea3b/47ffd547e50a7a8f5f771d6c74f5ea3b.m3u8
+
+
+
+MOVIE THAI
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Only-Mom-2019-%E0%B8%A1%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B2-170x250.png",มาร-ดา
+https://slave13.iplayers.co/drive//hls/4a2c36b3cb70f4841ae3903c5c6086e3.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Blood-Valentine-2020-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%86%E0%B9%88%E0%B8%B2-170x250.png",สวยรหัสฆ่า
+https://slave8.iplayers.co/drive//hls/02682ba542e2d8fad6ca249adbad1c05.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Dead-Dumpster-2019-ภารกิจศพป่วน-170x250.png",ภารกิจศพป่วน
+https://slave13.iplayers.co/drive//hls/98a9fc5fac7384c3a100f4ab5a15d7de.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://watchnung.com/cover/1570961049.jpg" ,ห้าแพร่ง (2009)
+https://cdn1.cdn9x.com/ghkujap9/480p.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://watchnung.com/cover/1570532935.jpg" ,4bia สี่แพร่ง (2008)
+https://cdn1.cdn9x.com/8ch6o2ub/480p.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://watchnung.com/cover/1558403454.jpg" ,Take Me Home (2016) สุขสันต์วันกลับบ้าน
+https://cdn3.cdn9x.com/27egv5h5/480p.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://watchnung.com/cover/1537863639.jpg" ,สยามสแควร์ 2017
+https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513658080/1513658080_480.mp4
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://konmongnangetc.files.wordpress.com/2017/01/railway-sleepers.jpg" ,Railway Sleepers (2016) หมอนรถไฟ
+https://edge-cache-np.leoplayer1.com/drive//hls/c90fb7cd86e79dd4cb50c02eab94525a/c90fb7cd86e79dd4cb50c02eab94525a.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://watchnung.com/cover/1570086734.jpg" ,The Bedside Detective (2007) สายลับจับบ้านเล็ก
+https://cdn1.cdn9x.com/38rd9dot/480p.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://watchnung.com/cover/1569925335.jpg" ,Hello Stranger กวน มึน โฮ (2010)
+https://cdn1.cdn9x.com/304nhmd6/480p.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/%E0%B8%AA%E0%B8%B5%E0%B9%89%E0%B8%99-3-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%99-2019-Seen-Sam-Ton-170x250.png",สิ้น3 ต่อน (2019) Could Be Him
+https://037hd8.vanlong.stream/drive//hls/d661b240e47a1e2376e2772751df9822/d661b240e47a1e2376e2772751df9822.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/07/%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B5-2-2018-NAKEE-2.jpg", นาคี 2 (2018) NAKEE 
+https://037hd3.vanlong.stream/drive//hls/94a31d0242a4ee62a9541929ef149e9f/94a31d0242a4ee62a9541929ef149e9f.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.freemoviesth.com/wp-content/uploads/2019/10/London-Sweeties.jpg",London Sweeties (2019) รักไม่เป็นภาษา
+https://037hd6.vanlong.stream/drive//hls/935d14e140260801c32e493f9766178f/935d14e140260801c32e493f9766178f.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Where-We-Belong-2019.jpg", ที่ตรงนั้น มีฉันหรือเปล่า WHERE WE BELONG (2019)
+https://slave13.iplayers.co/drive//hls/22de86d4de1dda22ef6cdcbbadd91691/22de86d4de1dda22ef6cdcbbadd91691.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Kraben-Rahu-2019-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%AB%E0%B8%B9-170x250.png", กระเบนราหู  (2019)
+https://slave12.iplayers.co/drive//hls/795b515c566f5b55e53943b7fc3eef95/795b515c566f5b55e53943b7fc3eef95.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/PTMxRZroGnAS3Z1jM5r.jpg",สายล่อฟ้า PATTAYA MANIAC (2004)
+https://037hd8.vanlong.stream/drive//hls/cbeda8303d5b942ef894b9f1ecbf4e36/cbeda8303d5b942ef894b9f1ecbf4e36.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/7-Days-to-Leave-My-Wife-2007.png",7 Days to Leave My Wife (2007) ยังไงก็รัก
+https://037hd4.vanlong.stream/drive//hls/137d2249c1cc1a7f1eacbe09f0c713d0/137d2249c1cc1a7f1eacbe09f0c713d0.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%89%E0%B8%B1%E0%B8%99-My-Girl-2003.png",แฟนฉัน My Girl (2003)
+https://037hd5.vanlong.stream/drive//hls/c033300cef75051ccdbbbc5cecaddc0b/c033300cef75051ccdbbbc5cecaddc0b.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B2%E0%B8%84-Pee-Nak-2019.jpg",พี่นาค PEE NAK (2019)
+https://037hd8.vanlong.stream/drive//hls/414433829fec2e5446c7e27a90321f16/414433829fec2e5446c7e27a90321f16.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/08/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B9%E0%B9%8A-%E0%B8%9F%E0%B8%B1%E0%B8%94-%E0%B8%88%E0%B8%B1%E0%B8%94-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81-2019-Fist-of-Stardom.jpg", สายบู๊ ฟัด จัด หนัก (2019) Fist of Stardom
+https://037hd5.vanlong.stream/drive//hls/22c53b5df3a0c0d192a1f7804b046aa5/22c53b5df3a0c0d192a1f7804b046aa5.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/PZx9G6sQXYvSIlZJCOy.jpg",ไทบ้าน เดอะซีรีส์ ภาค 1 (2017) THAIBAN THE SERIES
+https://037hd2.vanlong.stream/drive//hls/597924603529f6f9bf73df47a9019d7f/597924603529f6f9bf73df47a9019d7f.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/06/%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C-2-2018.jpg", ไทบ้านเดอะซีรีส์ 2.1 (2018) THI-BAAN THE SERIES 2 (2018)
+https://037hd5.vanlong.stream/drive//hls/356440440b7b0ec9b288f8434d1947c6/356440440b7b0ec9b288f8434d1947c6.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/05/Thi-Baan-The-Series-2.2-2019.jpg", ไทบ้านเดอะซีรีส์ 2.2 (2019) THI-BAAN THE SERIES 2.2
+https://037hd8.vanlong.stream/drive//hls/a8cf3b2d329bf65d981f48812f6d6419/a8cf3b2d329bf65d981f48812f6d6419.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/88T7IC9HhwvRZKlVe8c.jpg",Countdown (2012) เคาท์ดาวน์
+https://037hd6.vanlong.stream/drive//hls/8bed4c7031273ffa93085ece6b56509e/8bed4c7031273ffa93085ece6b56509e.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/02/Bikeman-2018.jpg",ไบค์แมน ศักรินทร์ตูดหมึก BIKEMAN (2018)
+https://037hd3.vanlong.stream/drive//hls/a9c08c8f69c1f08152266e4b75fcb6c4/a9c08c8f69c1f08152266e4b75fcb6c4.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/I7WOdIqdhS2UrsZjVuk.jpg",SuckSeed: Huay Khan Thep (2011) ห่วยขั้นเทพ
+https://037hd2.vanlong.stream/drive//hls/46ff2d3b082d3d0973e962357ec8975c/46ff2d3b082d3d0973e962357ec8975c.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/bGJnyXyeJG3riWoRQla.jpg",The Billionaire (2011) ท็อป ซีเคร็ต วัยรุ่นพันล้าน
+https://037hd7.vanlong.stream/drive//hls/53b4ff87d4169da164edf0f8d18496e6/53b4ff87d4169da164edf0f8d18496e6.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/08/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%97%E0%B9%89%E2%80%A6%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B8%94%E0%B8%B9%E0%B8%94-Gravity-of-Love-2018.jpg",รักแท้…แพ้แรงดึงดูด GRAVITY OF LOVE (2018)
+https://037hd6.vanlong.stream/drive//hls/978d26cff8ce0a30076c50c65dc746eb/978d26cff8ce0a30076c50c65dc746eb.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/08/%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87-%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99-Friend-Zone-2019.jpg",ระวัง..สิ้นสุดทางเพื่อน FRIEND ZONE (2019)
+https://037hd1.vanlong.stream/drive//hls/5b73f410af56d1da9608633e05992709/5b73f410af56d1da9608633e05992709.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.thmovieshd.com/wp-content/uploads/2019/10/The-Presence-2018.jpg",The Presence (2018) ส่องส่งผี
+http://43.255.241.165:1935/thai/Sog-song-pee-Th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/07/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-2019-Krasue-Siam.jpg",กระสือสยาม (2019) KRASUE-SIAM
+http://43.255.241.165:1935/thai/Sisters-th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/06/pod9om3nrijIGDpC4uJ9-o.jpg",แสงกระสือ (2019) KRASUE: INHUMAN KISS
+http://43.255.241.165:1935/thai/Krasue-Inhuman-Kiss-TH.mp4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/07/Ghost-Wife-2018.jpg",นารถ GHOST WIFE (2018)
+http://43.255.241.165:1935/thai/Ghost-Wife-Th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/06/Reside-2018-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B9%88.jpg",RESIDE (2018) สิงสู่
+http://43.255.241.165:1935/thai/Reside-TH.mp4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/05/HOMESTAY-2.jpg",HOMESTAY (2018) โฮมสเตย์
+http://43.255.241.165:1935/thai/Homestay-Th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/05/pfx44acexZzIFuARBkd-o.jpg",The Pool (2018) นรก 6 เมตร
+http://43.255.241.165:1935/thai/The-Pool-TH.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/08/App-War-2018.jpg",แอปชนแอป APP WAR (2018)
+http://43.255.241.165:1935/thai/App-War-Th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/07/Motel-Mist-2016.jpg",Motel Mist (2016) โรงแรมต่างดาว
+https://037hd4.vanlong.stream/drive//hls/43937ef3a97c5b16eb6f08f71407ca3c/43937ef3a97c5b16eb6f08f71407ca3c.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/sZtNx2tWtwPEhUKXD3n.jpg " ,NANG NAK (1999) นางนาก
+http://43.255.241.165:1935/thai/Nang-Nak-Th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Jandara-The-Finale-2013-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%97.png",JANDARA THE FINALE (2013) จันดารา ปัจฉิมบท
+http://43.255.241.165:1935/thai/Jan-Dara-The-Finale-Th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Jandara-The-Begining-2012-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9A%E0%B8%97.png",JANDARA THE BEGINING (2012) จันดารา ปฐมบท
+http://43.255.241.165:1935/thai/Jan-Dara-The-Beginning-Th.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/07/From-Bangkok-To-Mandalay-2016.jpg",ถึงคน..ไม่คิดถึง From Bangkok To Mandalay (2016)
+https://037hd6.vanlong.stream/drive//hls/5429957a8b73979929f3c5292d2cf36a/5429957a8b73979929f3c5292d2cf36a.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/06/thumb_1240.jpg",ละติจูดที่ 6 (2015) LATITUDE 6
+https://037hd4.vanlong.stream/drive//hls/5d5a029aaee02aff56dce55355bc0e18/5d5a029aaee02aff56dce55355bc0e18.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/05/Mor-Ram-Mania-2019.jpg",หมอลำมาเนีย เขย่าลูกคอรอให้เธอมารัก MOR-RAM-MANIA (2019)
+https://037hd2.vanlong.stream/drive//hls/150cfb35ed508775c10faaee3dde64f2/150cfb35ed508775c10faaee3dde64f2.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/itADFNsdLinE7Pg01DS.jpg",BUPPAH RAHTREE (2003) บุปผาราตรี 1
+https://037hd2.vanlong.stream/drive//hls/fbb625e4c218866ae552448d8e493ca7/fbb625e4c218866ae552448d8e493ca7.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/SbJc6I4T9RKMMMK2zPU.jpg",BUPPAH RAHTREE PHASE 2: RAHTREE RETURNS (2005) บุปผาราตรี เฟส 2
+https://037hd7.vanlong.stream/drive//hls/8729d8a3f809809290d40e7ce3f10e2a/8729d8a3f809809290d40e7ce3f10e2a.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/C5AleHr0vAg7TPOYG0S.jpg",BUPPAH RAHTREE 3.1 (2009) บุปผาราตรี 3.1
+https://www259.hlsmp4.com/token=nVg2hwmdL_J3_30KVL4fEQ/1570717730/119.76.0.0/6/9/19/5f5611e5907e0ad250d4626868602199-720p.mp4
+
+
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/ILZjwslAjwxv644Pr1S.jpg",BUPPAH RAHTREE 3.2 (2009) บุปผาราตรี 3.2
+https://037hd5.vanlong.stream/drive//hls/f319cf5af4883f28b96c1ea696690cd8/f319cf5af4883f28b96c1ea696690cd8.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/7zbOD8XIVBvec10nOck.jpg",BUPPAH ARIGATO (2016) บุปผาอาริกาโตะ
+https://1fgqfm7.oloadcdn.net/dl/l/0EUa-wJJbMTPzlj8/B4NbQ0vxbig/OP904058.mp4?mime=true
+
+
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/zWHtjRtwRws6wqDjzP8.jpg",POB NA PLUAK (2014) ปอบหน้าปลวก
+https://037hd3.vanlong.stream/drive//hls/5d728ab8689d6b466de65452a2dd0cd2/5d728ab8689d6b466de65452a2dd0cd2.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/zvTdUpJndcpSsRGDgcB.jpg",ART OF THE DEVIL 1 (2005) ลองของ
+https://037hd6.vanlong.stream/drive//hls/ec70c49e9b0be84ce010d5cb6d96c2cb/ec70c49e9b0be84ce010d5cb6d96c2cb.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/O4Dq3mWo1X5PIX29G3C.jpg",ART OF THE DEVIL 2 (2008) ลองของ 2
+https://037hd4.vanlong.stream/drive//hls/959b74167dc6a983bdcfdae6d2a817b6/959b74167dc6a983bdcfdae6d2a817b6.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/RIGIY5HTHa9BqZNv98D.jpg", A LITTLE THING CALLED LOVE (2010) สิ่งเล็กเล็กที่เรียกว่า…รัก
+https://037hd1.vanlong.stream/drive//hls/be3945fad4a32c6ea54c2cd6dd67f4c2/be3945fad4a32c6ea54c2cd6dd67f4c2.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/05/Ten-Years-Thailand-2018.jpg",TEN YEARS THAILAND (2018) เท็นเยียร์ไทยแลนด์
+https://037hd6.vanlong.stream/drive//hls/6000292e907d48cc98035dd831b6e3fb/6000292e907d48cc98035dd831b6e3fb.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/03/DpoSqWzUwAAwSVr.jpg", ผีโทรศัพท์ (2018) VIRAL
+https://037hd1.vanlong.stream/drive//hls/7c939b40326421fdef024fecf1542c57/7c939b40326421fdef024fecf1542c57.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/03/2017-Dok-Fah-Mha-Jazz.jpg",ดอกฟ้า หมาแจ๊ส (2017) DOK-FAH-MHA-JAZZ
+https://037hd1.vanlong.stream/drive//hls/140f76b4882a0bc86c726a588167cc80/140f76b4882a0bc86c726a588167cc80.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/06/%E0%B8%AE%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%9E%E0%B8%87-Hug-Paeng-The-Movie-2018.jpg",ฮักแพง (Hug Paeng The Movie) 2018
+https://037hd3.vanlong.stream/drive//hls/08118bd7282dd3224473eab20a63bb88/08118bd7282dd3224473eab20a63bb88.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/01/Slumboy-Soi-Teeed.jpg",สลัมบอย ซอยตื๊ด (2017) SLUMBOY SOI TEEED
+https://037hd2.vanlong.stream/drive//hls/a8c4f20e116c5fd496daa745ff8e2ee6/a8c4f20e116c5fd496daa745ff8e2ee6.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/01/%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%A5%E0%B8%B2-2017-Malila-The-Farewell-Flower.jpg",มะลิลา (2017) MALILA THE FAREWELL FLOWER
+https://edge-ns1.leoplayer1.com/drive//hls/303474c312b3ae0e8f6bf6d48d7555b1/303474c312b3ae0e8f6bf6d48d7555b1.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/12/13445e04e23a3c89ac2cf180acfb35b0.jpg" ,น้อง.พี่.ที่รัก (2018) BROTHER OF THE YEAR
+https://037hd6.vanlong.stream/drive//hls/18f092eb18934648fbee60b9df1c368c/18f092eb18934648fbee60b9df1c368c.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/Rn8ycbel1ScKsvjXWRP.jpg",3 A.M. 3D (2012) ตีสาม
+https://037hd1.vanlong.stream/drive//hls/d730db90cba57f684fae46a16675f4ac/d730db90cba57f684fae46a16675f4ac.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/A2bQH2Rbxuu2zDL5eR2.jpg",3AM PART 2 (2014) ตีสามคืนสาม
+https://edge-ns2.leoplayer1.com/drive//hls/2ac5dcf9383323408d8da7b63fe99a27/2ac5dcf9383323408d8da7b63fe99a27.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/11/1541171152_SVbhR.jpg",ตีสาม 3AM Part 3 (Aftershock) (2018)
+https://037hd5.vanlong.stream/drive//hls/874cc457b2a0f4938f7d5c16900fd76a/874cc457b2a0f4938f7d5c16900fd76a.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/10/Toot-Too-Ku-Chart-2018.jpg",ตุ๊ดตู่กู้ชาติ TOOT TOO KU CHART (2018)
+https://037hd5.vanlong.stream/drive//hls/d5dd65bc6ff7836975fad0b148a3de09/d5dd65bc6ff7836975fad0b148a3de09.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/10/7-Days-2018.jpg",เรารักกัน จันทร์-อาทิตย์ 7 DAYS (2018)
+https://037hd8.vanlong.stream/drive//hls/02e48a0c7348ce528de6cadd2215ce60/02e48a0c7348ce528de6cadd2215ce60.m3u8
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/10/2215-Cheua-Ba-Kla-Kao-2018.jpg", 2215 เชื่อ บ้า กล้า ก้าว 2215 CHEUA BA KLA KAO (2018) (วิ่งแบบพี่ตูน)
+https://037hd1.vanlong.stream/drive//hls/b7509a31c7dad01d21c9213691c432ea/b7509a31c7dad01d21c9213691c432ea.m3u8
+
+
+Movie จีน
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Master-of-the-Nine-Dragon-Fist-Wong-Ching-Ho-2019.png",MASTER OF THE NINE DRAGON FIST WONG CHING-HO (2019) ราชาแห่งกำปั้นมังกรเก้าวงศ์ ชิง-โฮ
+https://037hd5.vanlong.stream/drive//hls/1d0e1ac0b50ee414472d467f938a72f2/1d0e1ac0b50ee414472d467f938a72f2.m3u8
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Master-of-the-White-Crane-Fist-Wong-Yan-lam-2019.png",Master of the White Crane Fist Wong Yan-lam (2019) กำปั้นหยานหยานลำ นกกระเรียนขาว
+https://037hd4.vanlong.stream/drive//hls/35c65fe9fe74e90961162ff6cb63e6e4/35c65fe9fe74e90961162ff6cb63e6e4.m3u8
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Sword-Master-2016-%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2.png" ,SWORD MASTER (2016) ดาบปราบเทวดา
+https://slave4.iplayers.co/drive//hls/79f2d2911ad42eb710edd2e4459f79ac/79f2d2911ad42eb710edd2e4459f79ac.m3u8
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://watchnung.com/cover/1570962174.jpg" ,House of Flying Daggers จอมใจบ้านมีดบิน (2004)
+https://cdn1.cdn9x.com/7ut84oeq/480p.m3u8
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://watchnung.com/cover/1561263980.jpg" ,The Last Emperor จักรพรรดิโลกไม่ลืม (1987)
+https://cdn4.cdn9x.com/74mp6n02/480p.m3u8
+
+
+Movie เกาหลี
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Parasite-2019-%E0%B8%8A%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95-170x250.png",PARASITE (2019) ชนชั้นปรสิต 
+http://43.255.241.165:1935/asia/Parasite-ST.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/The-Odd-Family-Zombie-on-Sale-2019-Sub-TH.jpg", THE ODD FAMILY: ZOMBIE ON SALE (2019) ครอบครัวสุดเพี้ยน เกรียนสู้ซอมบี้
+https://037hd2.vanlong.stream/drive//hls/48a453ef8566a1bdfe7d52a9ddd5615f/48a453ef8566a1bdfe7d52a9ddd5615f.m3u8
+EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Parasite-2019-%E0%B8%8A%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95-170x250.png",PARASITE (2019) ชนชั้นปรสิต 
+http://43.255.241.165:1935/asia/Parasite-ST.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://superseriesthai.com/uploads/5692952f439cf3938b8e0c5a94788d17.jpg", miss baek (2108)
+http://43.255.241.165:1935/asia/Miss-baek-ST.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Train-to-Busan-2016-%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.png",TRAIN TO BUSAN (2016) ด่วนนรก ซอมบี้คลั่ง
+https://slave5.iplayers.co/drive//hls/028032a7417a28e8a9393cc81371fc99/028032a7417a28e8a9393cc81371fc99.m3u8
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Take-Point-2018-%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%81.png",TAKE POINT (2018) ภารกิจลับท้านรก 
+https://slave9.iplayers.co/drive//hls/160cf767a271dcd369a9ee41c85f9a12/160cf767a271dcd369a9ee41c85f9a12.m3u8
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Along-with-the-Gods-2-The-Last-49-Days-2018-%E0%B8%9D%E0%B9%88%E0%B8%B2-7-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2-2.png",ALONG WITH THE GODS 2 THE LAST 49 DAYS (2018) ฝ่า 7 นรกไปกับพระเจ้า 2
+https://slave10.iplayers.co/drive//hls/644ebeb4b03336253c3d49377451f996/644ebeb4b03336253c3d49377451f996.m3u8
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Along-With-the-Gods-The-Two-Worlds-2017-%E0%B8%9D%E0%B9%88%E0%B8%B2-7-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2.png",ALONG WITH THE GODS THE TWO WORLDS (2017) ฝ่า 7 นรกไปกับพระเจ้า
+https://slave1.iplayers.co/drive//hls/8e54a4ff9521792fc16f8ea69c52560a/8e54a4ff9521792fc16f8ea69c52560a.m3u8
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/The-Witch-Part-1-The-Subversion-2018-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.png",THE WITCH PART 1 THE SUBVERSION (2018) 
+https://slave10.iplayers.co/drive//hls/9518d47376497de4d23581058361e479/9518d47376497de4d23581058361e479.m3u8
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Hit-and-Run-Squad-2019.png",HIT AND RUN SQUAD (2019) 
+https://slave3.iplayers.co/drive//hls/fcd8fad5fd6737267a5733cd0837aa05/fcd8fad5fd6737267a5733cd0837aa05.m3u8
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Door-Lock-2018.png",DOOR LOCK (2018) 
+https://slave3.iplayers.co/drive//hls/e8fcd48fa19f1776e754f4c0e2240514/e8fcd48fa19f1776e754f4c0e2240514.m3u8
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/08/7a5a8db2480884c999878978958c2fc2.jpg",Keys to the Heart พี่หมัดหนัก กับน้องอัจฉริยะสุดป่วน
+https://slave1.movie2uhd.com/drive//hls/f3a0d3510dfdf885b690ef07280d8afb/f3a0d3510dfdf885b690ef07280d8afb.m3u8
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/08/17e391c763d09f8f66a095cc70690f50.jpg",Gonjiam Haunted Asylum กอนเจียม สถานผีดุ
+https://rip.movie365-hd.com/drive//hls/f57e21b1254d4d1637a2729b78f6cac3/f57e21b1254d4d1637a2729b78f6cac3.m3u8
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/08/db5e9f7c1aff3b1a8e6d3fe36839fe44.jpg",Be with You ปาฏิหาริย์ สัญญารัก ฤดูฝน
+https://slave1.movie2uhd.com/drive//hls/63d4c68775fa99e930beedc78f7d42e1/63d4c68775fa99e930beedc78f7d42e1.m3u8
+
+
+
+
+SERIES
+
+
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP1
+https://edge-ns1.leoplayer1.com/hls/0602749d9e3049cbb15ca41ed90edb65/0602749d9e3049cbb15ca41ed90edb65.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP2
+https://edge-ns1.leoplayer1.com/hls/6bf51230e1f87cd3d4f242a1e65fedfc/6bf51230e1f87cd3d4f242a1e65fedfc.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP3
+https://edge-ns1.leoplayer1.com/hls/d60d235ab6b03493283cc7868c71a085/d60d235ab6b03493283cc7868c71a085.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP4
+https://edge-ns2.leoplayer1.com/hls/507da4f523cd420cd3f776af3f955292/507da4f523cd420cd3f776af3f955292.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP5
+https://edge-ns1.leoplayer1.com/hls/1f12f197a08815969b4082173c855b4f/1f12f197a08815969b4082173c855b4f.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP6
+https://edge-ns2.leoplayer1.com/hls/f395d376737ca20232bd3966e57d7b2f/f395d376737ca20232bd3966e57d7b2f.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP7
+https://edge-ns1.leoplayer1.com/hls/50369641664848ec40a660d221fd7e21/50369641664848ec40a660d221fd7e21.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP8
+https://edge-ns1.leoplayer1.com/hls/314a3c2ab705c15da7262fabbde401f4/314a3c2ab705c15da7262fabbde401f4.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP9
+https://edge-ns1.leoplayer1.com/hls/6f105e79114c15c77e49b1a65b880553/6f105e79114c15c77e49b1a65b880553.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP10
+https://edge-ns1.leoplayer1.com/hls/6689ac687814a5220b886c7243151d63/6689ac687814a5220b886c7243151d63.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP1
+https://edge-ns2.leoplayer1.com/hls/b91a5cce09689fd2abb5f275fea56de3/b91a5cce09689fd2abb5f275fea56de3.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP2
+https://edge-ns2.leoplayer1.com/hls/9003e4734890544837cad8e055b243a1/9003e4734890544837cad8e055b243a1.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP3
+https://edge-ns1.leoplayer1.com/hls/3c2eb6be4465f47de84abd41d1925607/3c2eb6be4465f47de84abd41d1925607.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP4
+https://edge-ns1.leoplayer1.com/hls/cb459721bd92614ea873a1dcf6c14498/cb459721bd92614ea873a1dcf6c14498.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP5
+https://edge-ns2.leoplayer1.com/hls/e2ccc31db797fc4f1ae00f1f88427e0c/e2ccc31db797fc4f1ae00f1f88427e0c.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP6
+https://edge-ns2.leoplayer1.com/hls/f9b10d25deca049b6a64259e97a4eb66/f9b10d25deca049b6a64259e97a4eb66.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP7
+https://edge-ns2.leoplayer1.com/hls/c005d2fbf4ff0385730a81dd102d73ca/c005d2fbf4ff0385730a81dd102d73ca.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP8
+https://edge-ns1.leoplayer1.com/hls/fe34ce61548d8897cdfbc52eb4cd2351/fe34ce61548d8897cdfbc52eb4cd2351.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep1
+https://slave9.iplayers.co/drive//hls/b7a4eb63089af664d297ab496b8c8de3/b7a4eb63089af664d297ab496b8c8de3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep2
+https://slave13.iplayers.co/drive//hls/57f02897b393de023a93bf398e570b19/57f02897b393de023a93bf398e570b19.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep3
+https://slave7.iplayers.co/drive//hls/914291f83f40ae61cbb73c6d79409d5e/914291f83f40ae61cbb73c6d79409d5e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep4
+https://slave13.iplayers.co/drive//hls/3f275cdd9b37a54bab81e0fc9930ef3c/3f275cdd9b37a54bab81e0fc9930ef3c.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep5
+https://slave9.iplayers.co/drive//hls/0c95c2ee8fb95868906b7ef4cd276633/0c95c2ee8fb95868906b7ef4cd276633.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep6
+https://slave13.iplayers.co/drive//hls/b3745754205fd0831a68d1d59a29afdf/b3745754205fd0831a68d1d59a29afdf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep7
+https://slave12.iplayers.co/drive//hls/dcc7ca9fb8ac94864566e7c6d91f27e9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep8
+https://slave9.iplayers.co/drive//hls/95163f9bc3c1c29543749896ffdb7db7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep9
+https://slave8.iplayers.co/drive//hls/f7c06172d8b2fcd6258b31425f93de9a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep10
+https://slave8.iplayers.co/drive//hls/d9dc69c8606a8b3792a6c3c67a7724cf.m3u8
+
+The Lies Within ep1
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep1
+https://stream-cdn-m.anime-live.com/drive//hls/3d89764e4aec03fc74809916c6d84ca6/3d89764e4aec03fc74809916c6d84ca6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep2
+https://stream-cdn-m.anime-live.com/drive//hls/6d2e22b073a0725622b8c162b55e8949/6d2e22b073a0725622b8c162b55e8949.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep3
+https://stream-cdn-m.anime-live.com/drive//hls/
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep4
+https://stream-cdn-m.anime-live.com/drive//hls/
+
+Strangers From Hell
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep1
+https://stream-cdn-m.anime-live.com/drive//hls/f4f82850783e54e0f82bc3846c712609/f4f82850783e54e0f82bc3846c712609.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep2
+https://sv4.7series.co/02NEW/01K/09Sep62/StrangersFromHellEP02.mp4
+
+
+#EXTINF:-1  tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep3
+https://stream-cdn-m.anime-live.com/drive//hls/f5650a6f18a19f95248437a17fd2e6ef/f5650a6f18a19f95248437a17fd2e6ef.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg"  group-title="SERIES",Strangers From Hell ep4
+https://stream-cdn-m.anime-live.com/drive//hls/48a1e6a221c4d3dc77f67514f0d0f4d0/48a1e6a221c4d3dc77f67514f0d0f4d0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep5
+https://stream-cdn-m.anime-live.com/drive//hls/7f81e1e5c7e940a146619b25be4000b9/7f81e1e5c7e940a146619b25be4000b9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep6
+https://stream-cdn-m.anime-live.com/drive//hls/43848f6ccdc4c9135d109cc6d087034f/43848f6ccdc4c9135d109cc6d087034f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep7
+https://stream-cdn-m.anime-live.com/drive//hls/13c6ef2cd0f8a22422b9aa975e297453/13c6ef2cd0f8a22422b9aa975e297453.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep8
+https://stream-cdn-m.anime-live.com/drive//hls/4088c8156fbf7f017ecd6b80884216e5/4088c8156fbf7f017ecd6b80884216e5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep9
+https://stream-cdn-m.anime-live.com/drive//hls/0e576d5c0be6ebc3bc87b02301764eec/0e576d5c0be6ebc3bc87b02301764eec.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep10
+https://stream-cdn-m.anime-live.com/drive//hls/e8f3a2e7db1ae30821a6c0b753543757/e8f3a2e7db1ae30821a6c0b753543757.m3u8
+
+
+chernoChernobyl 
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/48cf6c334f372297bd8207d28a9be1c2.jpg" group-title="SERIES", chernoChernobyl ep1
+https://stream-cdn-m.anime-live.com/drive//hls/e4060c9a320f48ae50f22ab753bcaf1d/e4060c9a320f48ae50f22ab753bcaf1d.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/48cf6c334f372297bd8207d28a9be1c2.jpg" group-title="SERIES", chernoChernobyl ep2
+https://stream-cdn-m.anime-live.com/drive//hls/af675c8d0274572082bd8a1468db855b/af675c8d0274572082bd8a1468db855b.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/48cf6c334f372297bd8207d28a9be1c2.jpg" group-title="SERIES", chernoChernobyl ep3
+https://stream-cdn-m.anime-live.com/drive//hls/ffa6696b0639f2da67a2d06efa8afcdd/ffa6696b0639f2da67a2d06efa8afcdd.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/48cf6c334f372297bd8207d28a9be1c2.jpg" group-title="SERIES", chernoChernobyl ep4
+https://stream-cdn-m.anime-live.com/drive//hls/5e176ce8970a1763666851403feecf1f/5e176ce8970a1763666851403feecf1f.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/48cf6c334f372297bd8207d28a9be1c2.jpg" group-title="SERIES", chernoChernobyl ep5
+https://stream-cdn-m.anime-live.com/drive//hls/dd2010c1f3f08b3054ad637753ab8292/dd2010c1f3f08b3054ad637753ab8292.m3u8
+
+Watchmen
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen-Season-1
+https://slave9.iplayers.co/drive//hls/bba11edfbe64f8bd8d547b5061851cbb.m3u8

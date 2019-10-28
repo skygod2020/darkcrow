@@ -311,7 +311,9 @@ https://live.we-play.tv/live/samruajlok/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg" group-title=" Thailand Channels", MYSCIHD
 https://live.dufree4k.net/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels", OUTDOOR CHANNEL
-https://live.we-play.tv/live/outdoor/playlist.m3u8
+ttps://live.we-play.tv/live/outdoor/playlist.m3u8
+EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels",FOOD NETWORK
+https://live.we-play.tv/live/foodnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg" group-title=" Thailand Channels",ไก่ชนเงินล้าน

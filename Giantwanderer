@@ -176,7 +176,7 @@ http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title=" Thailand Channels",TVN
 https://live.we-play.tv/live/tvn/playlist.m3u8
-#EXTINF:0  tvg-logo="tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title=" Thailand Channels",True-X-Zyte
+#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title=" Thailand Channels",True-X-Zyte
 https://live.we-play.tv/live/xzyte/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/kbs-world.jpg" group-title=" Thailand Channels",KBSWORLD
 https://live.we-play.tv/live/kbs/playlist.m3u8

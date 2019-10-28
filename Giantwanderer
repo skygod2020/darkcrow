@@ -98,15 +98,15 @@ http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-tsport7.png"  group-title=" Thailand Channels",Truesport7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RBWC2019.jpg" group-title=" Thailand Channels",RUGBY
-https://live.youlive-cdn.com/RugbyWorldCup/chunklist.m3u8
+https://live.dufree4k.net/RugbyWorldCup/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.gif" group-title=" Thailand Channels",NFL
-https://live.youlive-cdn.com/02_NFLNetwork_720p/chunklist.m3u8
+https://live.dufree4k.net/02_NFLNetwork_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title=" Thailand Channels",Tennis
-http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title=" Thailand Channels",NBA TV
-http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
+https://live.dufree4k.net/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/golf.png" group-title=" Thailand Channels",Golf channel
-http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
+https://live.dufree4k.net/02_golfhd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6RKisov.png" group-title=" Thailand Channels", FIGHT SPORTS
 http://210.210.155.35/session/ff497da2-e836-11e9-9eca-b9f8b17817da/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/kix.png" group-title=" Thailand Channels",KIX

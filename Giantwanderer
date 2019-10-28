@@ -176,9 +176,9 @@ http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title=" Thailand Channels",TVN
 https://live.we-play.tv/live/tvn/playlist.m3u8
-#EXTINF:0  tvg-logo="tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title=" Thailand Channels",True-X-Zyte
+#EXTINF:0  tvg-logo="tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title=" Thailand Channels",True-X-Zyte
 https://live.we-play.tv/live/xzyte/playlist.m3u8
-#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title=" Thailand Channels",KBSWORLD
+#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/kbs-world.jpg" group-title=" Thailand Channels",KBSWORLD
 https://live.we-play.tv/live/kbs/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-entertainment.jpg" group-title=" Thailand Channels", BLUEANT ENTERTAINMENT
 https://live.we-play.tv/live/blue-ent/playlist.m3u8
@@ -312,7 +312,7 @@ https://live.we-play.tv/live/samruajlok/playlist.m3u8
 https://live.dufree4k.net/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels", OUTDOOR CHANNEL
 ttps://live.we-play.tv/live/outdoor/playlist.m3u8
-#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels",FOOD NETWORK
+#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/food-network.jpg" group-title=" Thailand Channels",FOOD NETWORK
 https://live.we-play.tv/live/foodnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
@@ -559,9 +559,6 @@ http://191.96.77.3/4kmovie/4K_2160/Kingsman-the-golden-circle-2017-4k.265.hevc.2
 #EXTINF:-1 group-title="Movie_4K",Starship Troopers: Traitor of Mars (2017) สงครามหมื่นขา ล่าล้างจักรวาล จอมกบฏดาวอังคาร
 http://191.96.77.3/4kmovie/4K_2160/Starship.troopers.traitor.of.mars.2017.2160p.265.hevc.mkv
 
-#EXTINF:-1 group-title="Movie_4K",Gintama (2017) กินทามะ ซามูไร เพี้ยนสารพัด
-http://191.96.77.3/4kmovie/4K_2018/Gintama.2017.1080p.265.hevc.mkv
-
 #EXTINF:-1 group-title="Movie_4K",Jumanji welcome to the jungle 2017
 http://191.96.77.3/4kmovie/4K_2018/Jumanji.welcome.to.the.jungle.2017.1080p.265.hevc.mkv
 
@@ -575,7 +572,18 @@ http://191.96.77.3/4kmovie/4K_2018/The.wall.2017.1080p.265.hevc.mkv
 http://191.96.77.3/4kmovie/4K_2018/Beyond.skyline.2017.1080p.265.hevc.mkv
 
 
- 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Gintama-1-2017-%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0-1-%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94-170x250.png",GINTAMA 1 (2017)
+https://slave13.iplayers.co/drive//hls/47ef5835f0679ae9d3a7a91d0b8b6e41.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Gintama-2-2018-%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0-2-%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94-170x250.png",GINTAMA 2 (2018 )
+https://slave7.iplayers.co/drive//hls/3492423eac02407386db7dc28d361953.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/47-Meters-Down-1-2017-47-%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-poster-170x250.png",47 ดิ่งลึกเฉียดนรก
+https://slave12.iplayers.co/drive//hls/cc7166fb5062a8b680307b1d63bfcc4c.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/47-Meters-Down-Uncaged-2019-47-%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-poster-movie-170x250.png",47 ดิ่งลึกสุดนรก 2
+https://slave9.iplayers.co/drive//hls/903785f16312596fd4444891c790bb89.m3u8
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Johnny-English-1-2003-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%81..%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-170x250.png",พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก สายลับกลับมาป่วน 1
 https://slave13.iplayers.co/drive//hls/ea218d440ff2ab7a10778f1fde473393.m3u8
 
@@ -931,7 +939,15 @@ http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Concert_Chang.Music.Connection
 #EXTINF:-1 group-title="คอนเสิร์ต "tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494332074.jpg",จ๊ะ คันหู อัลบั้ม หนูเอาอยู่
 http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u8
 
+
+
 MOVIES 2019
+
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Rattlesnake-2019-%E0%B8%87%E0%B8%B9%E0%B8%9E%E0%B8%B4%E0%B8%A9-170x250.png" group-title="MOVIES 2019",RATTLESNAKE (2019) งูพิษ [ซับไทย]
+https://slave9.iplayers.co/drive//hls/8ea351686e2f3d4a5b555b7eb7356d27.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Manikarnika-The-Queen-of-Jhansi-2019-170x250.png" group-title="MOVIES 2019",MANIKARNIKA THE QUEEN OF JHANSI (2019)
+https://slave7.iplayers.co/drive//hls/1be12e0be7a4d8f1a57559bc9bea6372.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Stuber-2019-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B9%8B%E0%B8%87%E0%B9%84%E0%B8%9B%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%88%E0%B8%A3.png" group-title="MOVIES 2019",Stuber (2019) เรียกเก๋งไปจับโจร [ซับไทย]
 https://slave7.iplayers.co/drive//hls/241ea79cf0f1ad95167ddecfeb18df1a.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/3-from-Hell-2019.png" group-title="MOVIES 2019",3 from Hell (2019) 
@@ -1260,6 +1276,8 @@ https://cdn4.cdn9x.com/74mp6n02/480p.m3u8
 
 Movie เกาหลี
 
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Metamorphosis-2019-%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%87-170x250.png",METAMORPHOSIS (2019) ปีศาจเปลี่ยนหน้า
+https://slave8.iplayers.co/drive//hls/b980e0d686e8fd7f7d60dd336e0b4425.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Parasite-2019-%E0%B8%8A%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95-170x250.png",PARASITE (2019) ชนชั้นปรสิต 
 http://43.255.241.165:1935/asia/Parasite-ST.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/The-Odd-Family-Zombie-on-Sale-2019-Sub-TH.jpg", THE ODD FAMILY: ZOMBIE ON SALE (2019) ครอบครัวสุดเพี้ยน เกรียนสู้ซอมบี้
@@ -1367,6 +1385,14 @@ https://slave8.iplayers.co/drive//hls/f7c06172d8b2fcd6258b31425f93de9a.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep10
 https://slave8.iplayers.co/drive//hls/d9dc69c8606a8b3792a6c3c67a7724cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep11
+https://slave13.iplayers.co/drive//hls/98d56dfe02e6de0f361253743abca9ce.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep12
+https://slave7.iplayers.co/drive//hls/772b608513d8257bcbb8d76335d16b40.m3u8
+
+
 
 The Lies Within ep1
 

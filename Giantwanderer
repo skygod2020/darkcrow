@@ -48,49 +48,49 @@ http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1
-https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2
-https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title=" Thailand Channels", PremierHD3
-https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title=" Thailand Channels", PremierHD4
-https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title=" Thailand Channels", PremierHD5
-https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxsport1.png"  group-title=" Thailand Channels", Fox Sport1
-https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
+https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title=" Thailand Channels", Fox Sport2
-https://tv.xpeer-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://live.dufree4k.net/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title=" Thailand Channels", Fox Sport3
-https://tv.xpeer-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://live.dufree4k.net/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title=" Thailand Channels", SkynetsportHD
-https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+https://live.dufree4k.net/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title=" Thailand Channels", Skynetsport1
-https://tv.xpeer-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png"  group-title=" Thailand Channels", Skynetsport2
-https://tv.xpeer-cdn.com/03_skynetsport2_480p/chunklist.m3u8
+https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png"  group-title=" Thailand Channels", Skynetsport3
-https://tv.xpeer-cdn.com/03_skynetsport3_480p/chunklist.m3u8
+https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title=" Thailand Channels", Skynetsport4
-https://tv.xpeer-cdn.com/03_skynetsport4_480p/chunklist.m3u8
+https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title=" Thailand Channels", Skynetsport5
-https://tv.xpeer-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title=" Thailand Channels", Skynetsport6
-https://tv.xpeer-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title=" Thailand Channels", Bein1
-https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
+https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title=" Thailand Channels", Bein2
 https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/tsphd1.png" group-title=" Thailand Channels",  True Sport HD1
-https://tv.xpeer-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/tsphd2.png" group-title=" Thailand Channels", True Sport HD2
-https://tv.xpeer-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/tsphd3.png" group-title=" Thailand Channels", True Sport HD3
-https://tv.xpeer-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tsphd4.png" group-title=" Thailand Channels", True Sport HD4
-https://live.youlive-cdn.com/02_2sporthd4_720p/chunklist.m3u8
+https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg" group-title=" Thailand Channels",Truesport 2
-https://live.youlive-cdn.com/02_sport2_480p/chunklist.m3u8
+https://live.dufree4k.net/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-tsport5.png"  group-title=" Thailand Channels",Truesport5
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-tsport6.png"  group-title=" Thailand Channels",Truesport6

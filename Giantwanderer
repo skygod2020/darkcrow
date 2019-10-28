@@ -32,7 +32,7 @@ http://27.254.130.64/live01/ch7.m3u8?p=m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title=" Thailand Channels",GMM
 http://27.254.130.64/live01/ch11.m3u8?p=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1046.gif" tvg-name="MONO29 HD" group-title=" Thailand Channels",MONO29
-http://27.254.130.64/live01/ch3.m3u8?p=m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch51.gif" tvg-name="NATION TV HD"  group-title=" Thailand Channels",NATION TV HD
 http://27.254.130.64/live01/ch8.m3u8?p=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title=" Thailand Channels",CHANNEL 2 HD

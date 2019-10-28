@@ -246,8 +246,6 @@ http://bit.ly/2lM1iDF
 https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg" group-title=" Thailand Channels",zeenang
 https://live.dufree4k.net/02_Zee_Nung_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20190710115540375048648.jpg" group-title=" Thailand Channels",Drama Thai
-https://edge1a.v2h-cdn.com/appt4/TVB.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thrill.png" group-title=" Thailand Channels",Thrill
 https://live.dufree4k.net/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg"group-title=" Thailand Channels",CCM

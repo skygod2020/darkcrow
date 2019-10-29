@@ -295,11 +295,11 @@ https://live.we-play.tv/live/disasia/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg" group-title=" Thailand Channels", DiscoveryScience
 https://www.livedoomovie.com/02_DiscoveryScience/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD_TH
-https://live.we-play.tv/live/natgeo/playlist.m3u8
+https://live.dufree4k.net/02_NatGeoHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD
 https://live.dufree4k.net/02_NatGeoHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild_TH
-https://live.we-play.tv/live/natwild/playlist.m3u8
+https://live.dufree4k.net/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild
 https://live.dufree4k.net/02_NatGeoWild_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natpeople.png" group-title=" Thailand Channels", NatPeople
@@ -307,7 +307,7 @@ https://live.dufree4k.net/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/animalplanet.png" group-title=" Thailand Channels", AnimalPlanet
 https://live.dufree4k.net/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg" group-title=" Thailand Channels", สำรวจโลก
-https://live.we-play.tv/live/samruajlok/playlist.m3u8
+https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg" group-title=" Thailand Channels", MYSCIHD
 https://live.dufree4k.net/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels", OUTDOOR CHANNEL

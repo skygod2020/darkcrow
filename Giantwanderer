@@ -311,7 +311,7 @@ https://live.we-play.tv/live/samruajlok/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg" group-title=" Thailand Channels", MYSCIHD
 https://live.dufree4k.net/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels", OUTDOOR CHANNEL
-ttps://live.we-play.tv/live/outdoor/playlist.m3u8
+https://live.we-play.tv/live/outdoor/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/food-network.jpg" group-title=" Thailand Channels",FOOD NETWORK
 https://live.we-play.tv/live/foodnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้

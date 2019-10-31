@@ -41,12 +41,12 @@ http://27.254.130.64/live01/ch8.m3u8?p=m3u8
 http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" tvg-name="CHANNEL 8 HD"  group-title=" Thailand Channels",8 HD
 http://27.254.130.64/live02/ch2.m3u8?p=m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/TPTV.png" group-title=" Thailand Channels",TPTV
-http://bit.ly/2njo7iy
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg" group-title=" Thailand Channels",Channel8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg" group-title=" Thailand Channels",Thai CCTV
 http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title=" Thailand Channels" , NHK_WORLD_TV
+https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1
@@ -369,6 +369,8 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mo
 http://bit.ly/2mAZ9ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fantv.jpg" group-title="MUSIC",FANTV
 https://live.dufree4k.net/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="" group-title="MUSIC",Wish_Channel
+https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg" group-title="MUSIC",TRUE MUSIC HD
 https://live.we-play.tv/live/truemusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg"group-title="MUSIC",แสงจันทร์ ทีวี

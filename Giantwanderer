@@ -45,7 +45,7 @@ http://27.254.130.64/live02/ch2.m3u8?p=m3u8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg" group-title=" Thailand Channels",Thai CCTV
 http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title=" Thailand Channels" , NHK_WORLD_TV
+#EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/4/NHK_WORLD_TV_LOGO_webready.jpg" group-title=" Thailand Channels" , NHK_WORLD_TV
 https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 
 
@@ -369,7 +369,7 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mo
 http://bit.ly/2mAZ9ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fantv.jpg" group-title="MUSIC",FANTV
 https://live.dufree4k.net/02_FANMUSICHD_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="" group-title="MUSIC",Wish_Channel
+#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Wish_Channel.png" group-title="MUSIC",Wish_Channel
 https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg" group-title="MUSIC",TRUE MUSIC HD
 https://live.we-play.tv/live/truemusic/chunks.m3u8

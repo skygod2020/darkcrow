@@ -126,15 +126,15 @@ https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport2.jpg" group-title=" Thailand Channels",BTSPORTHD2
 https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title=" Thailand Channels",BTSPORTHD3
-https://live.we-play.tv/live/btsport3/playlist.m3u8
+https://vip.we-play.tv/live/btsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title=" Thailand Channels",astrosport1hd
-https://live.we-play.tv/live/astro1/playlist.m3u8
+https://vip.we-play.tv/live/astro1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title=" Thailand Channels",astrosport2hd
-https://live.we-play.tv/live/astro2/playlist.m3u8
+https://vip.we-play.tv/live/astro2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title=" Thailand Channels",astrosport3hd
-https://live.we-play.tv/live/astro3/playlist.m3u8
+https://vip.we-play.tv/live/astro3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",astrosport4hd
-https://live.we-play.tv/live/astro4/playlist.m3u8
+https://vip.we-play.tv/live/astro4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1.png" group-title=" Thailand Channels",ARENA SPORT 1
 https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/rs-arena1_480/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2.png" group-title=" Thailand Channels",ARENA SPORT 2
@@ -156,11 +156,11 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-sporttv5.jpg" group-title=" Thailand Channels",SPORTTV5
 https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mutv.jpg" group-title=" Thailand Channels",MUTV
-https://live.we-play.tv/live/mutv/playlist.m3u8
+https://vip.we-play.tv/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title=" Thailand Channels",LFCTV
-https://live.we-play.tv/live/lfctv/playlist.m3u8
+https://vip.we-play.tv/live/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/eurosport.jpg" group-title=" Thailand Channels",EUROSPORT
-https://live.we-play.tv/live/eurosport/playlist.m3u8
+https://vip.we-play.tv/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 2 (UHD)
@@ -177,13 +177,15 @@ http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 
 
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title=" Thailand Channels",TVN
-https://live.we-play.tv/live/tvn/playlist.m3u8
+https://vip.we-play.tv/live/tvn/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title=" Thailand Channels",True-X-Zyte
-https://live.we-play.tv/live/xzyte/playlist.m3u8
+https://vip.we-play.tv/live/xzyte/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/kbs-world.jpg" group-title=" Thailand Channels",KBSWORLD
-https://live.we-play.tv/live/kbs/playlist.m3u8
+https://vip.we-play.tv/live/kbs/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-entertainment.jpg" group-title=" Thailand Channels", BLUEANT ENTERTAINMENT
-https://live.we-play.tv/live/blue-ent/playlist.m3u8
+https://vip.we-play.tv/live/blue-ent/playlist.m3u8
+#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-entertainment.jpg" group-title=" Thailand Channels", BLUEANT EXTREAME
+https://vip.we-play.tv/live/blue-ex/playlist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title=" Thailand Channels", HBO HD
 https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title=" Thailand Channels", HBO Hit
@@ -193,9 +195,9 @@ https://live.dufree4k.net/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbofam.png"  group-title=" Thailand Channels",HBO FAMILY
 https://live.dufree4k.net/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg"  group-title=" Thailand Channels",PARAMOUNT CHANNEL
-https://live.we-play.tv/live/paramount/playlist.m3u8
+https://vip.we-play.tv/live/paramount/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title=" Thailand Channels", CINEMAX
-https://live.we-play.tv/live/cinemax/playlist.m3u8
+https://vip.we-play.tv/live/cinemax/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxactionmovie.png" group-title=" Thailand Channels", FoxActionHD_TH
 https://live.dufree4k.net/02_FoxActionHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxactionmovie.png" group-title=" Thailand Channels", FoxActionHD
@@ -217,7 +219,7 @@ https://live.dufree4k.net/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxcrime.png" group-title=" Thailand Channels", FoxCrimeHD
 https://live.dufree4k.net/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/fox-life.jpg"  group-title=" Thailand Channels",  FOXlife HD TH
-https://live.we-play.tv/live/fox-life/playlist.m3u8
+https://vip.we-play.tv/live/fox-life/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/red.png" group-title=" Thailand Channels", RedbyHBO
 https://live.dufree4k.net/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/axn.png" group-title=" Thailand Channels", AXN HD
@@ -264,7 +266,7 @@ http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg" group-title=" Thailand Channels",UpMovie
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title=" Thailand Channels",hi-def1
-https://live.we-play.tv/live/hi-def1/playlist.m3u8
+https://vip.we-play.tv/live/hi-def1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS"group-title=" Thailand Channels",  MOVIES 4 ( ENG SUB)
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title=" Thailand Channels",  MOVIES 5 ( ENG SUB)
@@ -299,7 +301,7 @@ https://live.dufree4k.net/02_NatGeoHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD
 https://live.dufree4k.net/02_NatGeoHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild_TH
-https://live.dufree4k.net/02_NatGeoWild_TH_720p/chunklist.m3u8
+https://vip.we-play.tv/live/natwild/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild
 https://live.dufree4k.net/02_NatGeoWild_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natpeople.png" group-title=" Thailand Channels", NatPeople
@@ -311,9 +313,9 @@ https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg" group-title=" Thailand Channels", MYSCIHD
 https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels", OUTDOOR CHANNEL
-https://live.we-play.tv/live/outdoor/playlist.m3u8
+https://vip.we-play.tv/live/outdoor/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/food-network.jpg" group-title=" Thailand Channels",FOOD NETWORK
-https://live.we-play.tv/live/foodnetwork/playlist.m3u8
+https://vip.we-play.tv/live/foodnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg" group-title=" Thailand Channels",ไก่ชนเงินล้าน
@@ -330,7 +332,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truesparkjump.jpg" group-title=" Thailand Channels",TRUESPARKJUMP
-https://live.we-play.tv/live/sparkjump/playlist.m3u8
+https://vip.we-play.tv/live/sparkjump/playlist.m3u8
 #EXTINF:0 group-title=" Thailand Channels", CartoonNetwork
 https://live.dufree4k.net/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1 group-title=" Thailand Channels",BOOMERANG
@@ -338,17 +340,17 @@ https://live.dufree4k.net/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg" group-title=" Thailand Channels",GANG CRRTOON
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title=" Thailand Channels",ANIPLUS
-https://live.we-play.tv/live/aniplus/playlist.m3u8
+https://vip.we-play.tv/live/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animax.jpg" group-title=" Thailand Channels",ANIMAX
-https://live.we-play.tv/live/animax/playlist.m3u8
+https://vip.we-play.tv/live/animax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title=" Thailand Channels",CARTOON CLUB HD
 http://bit.ly/2mvUudR
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/nickelodeon.jpg" group-title=" Thailand Channels",Nickelodeon
-https://live.we-play.tv/live/nickelodeon/playlist.m3u8
+https://vip.we-play.tv/live/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png" group-title=" Thailand Channels",Nick Jr 
 https://www.livedoomovie.com/02_Nick_Jr_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/disneych.jpg" group-title=" Thailand Channels",DISNEY CHANNEL
-https://live.we-play.tv/live/disneych/playlist.m3u8
+https://vip.we-play.tv/live/disneych/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/disneyxd.png" group-title=" Thailand Channels", DisneyXD
 https://live.dufree4k.net/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15PDypUsJbQf-RYabsF_7U4oUrtx458QIKX9_Fa7oeuMD_QAwoId71g" group-title=" Thailand Channels",Disney Junior
@@ -372,7 +374,7 @@ https://live.dufree4k.net/02_FANMUSICHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Wish_Channel.png" group-title="MUSIC",Wish_Channel
 https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg" group-title="MUSIC",TRUE MUSIC HD
-https://live.we-play.tv/live/truemusic/chunks.m3u8
+https://vip.we-play.tv/live/truemusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg"group-title="MUSIC",แสงจันทร์ ทีวี
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c935025484281.5634604b1311b.png" group-title="MUSIC",  MiX Music

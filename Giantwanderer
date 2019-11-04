@@ -2,23 +2,23 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-ch3.png" group-title=" Thailand Channels",3HD
-http://27.254.130.64/live01/ch0.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" tvg-name=" TV5 HD"  group-title=" Thailand Channels",TV5 HD
-http://27.254.130.64/live01/ch6.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-ch7.png" group-title=" Thailand Channels",7HD
-http://27.254.130.64/live01/ch1.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" tvg-name="MCOT HD" group-title=" Thailand Channels",MCOT HD
-http://27.254.130.64/live02/ch7.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD" group-title=" Thailand Channels",TPBS HD
 http://27.254.130.64/live02/ch0.m3u8?p=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" tvg-name="PPTV HD"  group-title=" Thailand Channels",PPTV HD
-http://27.254.130.64/live01/ch2.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/thairath.png"tvg-name="THAIRATH TV HD" group-title=" Thailand Channels",THAIRATH HD
-http://27.254.130.64/live01/ch9.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif" tvg-name="ONE HD" group-title=" Thailand Channels",ONE HD
-http://27.254.130.64/live01/ch10.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1026.gif" tvg-name="AMARIN TV HD" group-title=" Thailand Channels",AMARIN HD
-http://27.254.130.64/live01/ch13.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nbt.png" group-title=" Thailand Channels",NBT 
 http://27.254.130.64/live01/ch14.m3u8?p=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" tvg-name="NEW TV HD"  group-title=" Thailand Channels",NEW TV HD

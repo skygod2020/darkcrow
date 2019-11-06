@@ -1070,7 +1070,7 @@ https://edge-ns2.leoplayer1.com/hls/1405f6fd968bb299195f4ce38a61db9c/1405f6fd968
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/06/X-Men-Dark-Phoenix-2019.jpeg" group-title="MOVIES 2019",X-MEN: DARK PHOENIX (2019) X-เม็น ดาร์ก ฟีนิกซ์
 https://edge-ns1.leoplayer1.com/hls/0142cf6164e984a2122fcee6a32578af/0142cf6164e984a2122fcee6a32578af.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Divine-Fury-2019-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87.png" group-title="MOVIES 2019", THE DIVINE FURY (2019) มือนรกพระเจ้าคลั่ง
-https://edge-ns1.leoplayer1.com/hls/0e25f4cab45f124ed09c5f72d1c30d4e/0e25f4cab45f124ed09c5f72d1c30d4e.playlist.m3u8
+https://slave4.iplayers.co/drive//hls/d77af7e98d904797631e1c705d6b702e.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2019/08/the-furies-movie-poster.jpg?ssl=1" group-title="MOVIES 2019",The Furies (2019)
 http://43.255.241.165:1935/farang/The-Furies-ST.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/08/Crawl-2019-%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%A2%E0%B9%89%E0%B8%B3.png" 
@@ -1734,6 +1734,10 @@ https://load-cdn-2.anime-live.com/drive//hls/7c75a6557b2a2d06407af4fe87e57524/7c
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.5
 https://load-cdn-2.anime-live.com/drive//hls/7fcc13d07b191108f452d23d4c5ab011/7fcc13d07b191108f452d23d4c5ab011.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.6
+https://stream-cdn-m.anime-live.com/drive//hls/962c5758c1a838c09e9f9da0b8fa3cef/962c5758c1a838c09e9f9da0b8fa3cef.m3u8
+
 
 
 

@@ -1740,6 +1740,18 @@ https://stream-cdn-m.anime-live.com/drive//hls/962c5758c1a838c09e9f9da0b8fa3cef/
 
 
 
+ดาบมังกรหยก
+
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.1
+https://load-cdn-3.anime-live.com/drive//hls/4419093f2918817e129c939fbceccfdc/4419093f2918817e129c939fbceccfdc.m3u8
+
+EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019  Ep.2
+https://stream-cdn-m.anime-live.com/drive/hls/ee1ee560e6d8f03dbdb2965563fe54e5/ee1ee560e6d8f03dbdb2965563fe54e5.m3u8
+
+EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019  Ep.3
+https://load-cdn-5.anime-live.com/drive/hls/4532dc61aac43c460b4a4450e213c3e0/4532dc61aac43c460b4a4450e213c3e0.m3u8
+
 
 Watchmen
 
@@ -1747,7 +1759,11 @@ Watchmen
 https://slave9.iplayers.co/drive//hls/bba11edfbe64f8bd8d547b5061851cbb.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.2
-https://slave12.iplayers.co/drive//hls/edb52115304468621df5b944387cc255.m3u8
+https://slave7.iplayers.co/drive//hls/edb52115304468621df5b944387cc255.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.3
+https://slave9.iplayers.co/drive//hls/0d26a2476415a5777199c291c60f7991.m3u8
+
 
 
 

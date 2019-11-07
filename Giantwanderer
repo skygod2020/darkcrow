@@ -1001,6 +1001,8 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 2019
 
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Serenity-2019-170x250.png" group-title="MOVIES 2019",SERENITY (2019) ซับไทย
+https://slave9.iplayers.co/drive//hls/edbba3fc90652d90efd1fb813ffbff1d.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Dora-and-the-Lost-City-of-Gold-2019-%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E2%80%8B%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D-poster-170x250.png" group-title="MOVIES 2019",ดอร่าและเมืองทองคำที่สาบสูญ
 https://slave9.iplayers.co/drive//hls/edbba3fc90652d90efd1fb813ffbff1d.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Paradise-Hills-2019-%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-170x250.png" group-title="MOVIES 2019",PARADISE HILLS (2019) สวรรค์ซ้อนนรก
@@ -1123,7 +1125,7 @@ MOVIE THAI
 
 
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Only-Mom-2019-%E0%B8%A1%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B2-170x250.png",มาร-ดา
-https://slave13.iplayers.co/drive//hls/4a2c36b3cb70f4841ae3903c5c6086e3.m3u8
+https://slave11.iplayers.co/drive//hls/c9f9b4d2eba854130ad6627e798faa19.m3u8
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Blood-Valentine-2020-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%86%E0%B9%88%E0%B8%B2-170x250.png",สวยรหัสฆ่า
 https://slave8.iplayers.co/drive//hls/02682ba542e2d8fad6ca249adbad1c05.m3u8
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Dead-Dumpster-2019-ภารกิจศพป่วน-170x250.png",ภารกิจศพป่วน
@@ -1341,8 +1343,11 @@ https://cdn4.cdn9x.com/74mp6n02/480p.m3u8
 
 Movie เกาหลี
 
+
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Tune-in-for-Love-2019-%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%88-170x250.jpg",คลื่นรักสื่อใจ [ซับไทย]
+https://slave9.iplayers.co/drive//hls/7fe2b6d0e48aeb6db38daa7c1863afb7.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Metamorphosis-2019-%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%87-170x250.png",METAMORPHOSIS (2019) ปีศาจเปลี่ยนหน้า
-https://slave8.iplayers.co/drive//hls/b980e0d686e8fd7f7d60dd336e0b4425.m3u8
+https://slave8.iplayers.co/drive//hls/8a2b57c34231cead39f30e2e31399605.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Parasite-2019-%E0%B8%8A%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95-170x250.png",PARASITE (2019) ชนชั้นปรสิต 
 http://43.255.241.165:1935/asia/Parasite-ST.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/The-Odd-Family-Zombie-on-Sale-2019-Sub-TH.jpg", THE ODD FAMILY: ZOMBIE ON SALE (2019) ครอบครัวสุดเพี้ยน เกรียนสู้ซอมบี้
@@ -1818,6 +1823,7 @@ https://ota.cdnwatch.com/data10/30-10-2019/SapaiTKO-Disc2-30-Oct-2019_HD.mp4/ind
 https://ota.cdnwatch.com/data10/31-10-2019/SaPaiTKO-Disc3-31-Oct-2019_HD.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.viu.com/ott/th/v1/imgprocess/reduceImage.php?p=30&img=https://d2anahhhmp1ffz.cloudfront.net/1915774836/1fd06686fdc48bb3d261f6cdf9c17fab0a92ad1c" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 4
+https://ota.cdnwatch.com/data10/06-11-2019/SapaiTKO-Disc2-6-Nov-2019_HD.mp4/index.m3u8
 
 
 His Dark Material Season 1

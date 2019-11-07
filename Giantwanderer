@@ -1804,7 +1804,7 @@ SEE SEASON 1 (2019)
 https://slave8.iplayers.co/drive//hls/75835713e17f75118091f7bd3ebc0c5c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP2
-
+https://plus2.iplayers.co/hls/75835713e17f75118091f7bd3ebc0c5c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP3
 https://slave8.iplayers.co/drive//hls/b4f2973bcff09a87e0ddfa6bb1a58665.m3u8
@@ -1824,6 +1824,19 @@ https://ota.cdnwatch.com/data10/31-10-2019/SaPaiTKO-Disc3-31-Oct-2019_HD.mp4/ind
 
 #EXTINF:-1 tvg-logo="https://www.viu.com/ott/th/v1/imgprocess/reduceImage.php?p=30&img=https://d2anahhhmp1ffz.cloudfront.net/1915774836/1fd06686fdc48bb3d261f6cdf9c17fab0a92ad1c" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 4
 https://ota.cdnwatch.com/data10/06-11-2019/SapaiTKO-Disc2-6-Nov-2019_HD.mp4/index.m3u8
+
+
+
+VOICE สัมผัสเสียงมรณะ
+
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 1
+https://ota.cdnwatch.com/data10/04-11-2019/Voive-Disc1-4-Nov-2019_HD.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 2
+https://ota.cdnwatch.com/data10/05-11-2019/Voice-Disc2-5-Nov-2019_HD.mp4/index.m3u8
+
+
 
 
 His Dark Material Season 1

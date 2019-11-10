@@ -998,7 +998,15 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 2019
 
 
-#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Late-Night-2019-170x250.png" group-title="Late Night (2019) ซับไทย
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Let-It-Snow-2019-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7-170x250.png" group-title="MOVIES 2019",Let It Snow 2019
+https://slave4.iplayers.co/drive//hls/88d67c82c23bf387313b03fce69013a6.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Paradise-Beach-2019-%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B8%8B%E0%B9%8C-%E0%B8%9A%E0%B8%B5%E0%B8%8A-170x250.png" group-title="MOVIES 2019",Paradise Beach 2019
+https://slave5.iplayers.co/drive//hls/e451e08a19be6f6a29f68929363274e9.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Wonder-Woman-Bloodlines-2019-170x250.jpg" group-title="MOVIES 2019",WonderWoman Bloodlines 2019
+https://slave5.iplayers.co/drive//hls/8146054a33412f04fbd0b08c8d7609ec.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/American-Woman-2019-170x250.png" group-title="MOVIES 2019",American Woman (2019) ซับไทย
+https://slave10.iplayers.co/drive//hls/96d2b88195ea9a0e23fe6d0390421c86.m3u8
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Late-Night-2019-170x250.png" group-title="MOVIES 2019",Late Night (2019) ซับไทย
 https://slave4.iplayers.co/drive//hls/183ea09531eeb47d1b5a773d34ffcf9d.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Serenity-2019-170x250.png" group-title="MOVIES 2019",SERENITY (2019) ซับไทย
 https://slave11.iplayers.co/drive//hls/c9f9b4d2eba854130ad6627e798faa19.m3u8
@@ -1748,6 +1756,9 @@ https://slave7.iplayers.co/drive//hls/772b608513d8257bcbb8d76335d16b40.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep13
 https://load-cdn-2.anime-live.com/drive//hls/98f42e31ab8900a43bee9f87c6855f97/98f42e31ab8900a43bee9f87c6855f97.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep14
+https://slave13.iplayers.co/drive//hls/4fae4a0d40250894cd89e7e8108537b2.m3u8
+
 
 
 My County:The New Age
@@ -1773,7 +1784,8 @@ https://load-cdn-2.anime-live.com/drive//hls/224e0ffb91f862bfef754ec68e83d20f/22
 https://load-cdn-2.anime-live.com/drive//hls/9305c9326a62d871b53d545f77141bfa/9305c9326a62d871b53d545f77141bfa.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 10
 https://load-cdn-2.anime-live.com/drive//hls/751465e7c985e3fef4faeb998cfb6a8b/751465e7c985e3fef4faeb998cfb6a8b.m3u8
-
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 11
+https://load-cdn-2.anime-live.com/drive/hls/fcb1eb620e70f0eeb91e4e453254545d/fcb1eb620e70f0eeb91e4e453254545d.m3u8
 
 
 

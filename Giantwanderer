@@ -721,10 +721,12 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Extraordinary-Adventures-of-Adele-Blanc-Sec-2010-%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99-5-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2-170x250.png",พลังอะเดลข้ามขอบฟ้าโค่น 5 อภิมหาภัย
+https://slave5.iplayers.co/drive//hls/c1e94237d82eca081d258aed8ff76907.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/10/The-Death-and-Return-of-Superman-2019.png",ความตายและการกลับมาของซูเปอร์แมน
 https://037hd1.vanlong.stream/drive//hls/4db0b6b3eefffb2f5995df2449842254/4db0b6b3eefffb2f5995df2449842254.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Let-It-Snow-2019-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A4%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7-170x250.png" ,Let It Snow 2019
-https://slave4.iplayers.co/drive//hls/88d67c82c23bf387313b03fce69013a6.m3u8
+https://037hd6.vanlong.stream/drive//hls/67e01c9964332b176827acf7ee6a7ca0/67e01c9964332b176827acf7ee6a7ca0.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Paradise-Beach-2019-%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%94%E0%B8%8B%E0%B9%8C-%E0%B8%9A%E0%B8%B5%E0%B8%8A-170x250.png" ,Paradise Beach 2019
 https://slave5.iplayers.co/drive//hls/5f4afe1ff3a3d9fb684507da77b7d8b9.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Wonder-Woman-Bloodlines-2019-170x250.jpg",WonderWoman Bloodlines 2019
@@ -757,6 +759,9 @@ https://slave8.iplayers.co/drive//hls/d5fe7ad32d7ddfaaebf7c42c27d627f4.m3u8
 https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Eli-2019-%E0%B8%AD%E0%B8%B5%E0%B9%84%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%87.png",ELI (2019) อีไล จิตต้องขัง [ซับไทย]
 https://slave12.iplayers.co/drive//hls/5059ae104297ed80d48169a61d81cb22.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/Tumbbad-2018.jpg",Tumbbad (2018) คำสาปแห่งทุมบ์บาด
+https://037hd7.vanlong.stream/drive//hls/74a802d3984c4308041851fdc45ba84c/74a802d3984c4308041851fdc45ba84c.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ip-Man-1-2008-%E0%B8%A2%E0%B8%B4%E0%B8%9B%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%87%E0%B8%9F%E0%B8%B9-%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B8%9A%E0%B8%95%E0%B8%B2-170x250.png",IP MAN 1 (2008) ยิปมันจ้าวกังฟู สู้ยิบตา
 https://slave9.iplayers.co/drive//hls/3af1831ff09fd5d44247996e1113ed03.m3u8
@@ -1720,6 +1725,10 @@ https://load-cdn-2.anime-live.com/drive//hls/e6c89bb8b83ba9b61f9601046eeed5af/e6
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep8
 https://load-cdn-2.anime-live.com/drive//hls/2ae3a72a57c21afdadc4aa6efc09d11c/2ae3a72a57c21afdadc4aa6efc09d11c.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep9
+https://load-cdn-3.anime-live.com/drive/hls/e270ace7b74a9bfbe436211ab57e5d2e/e270ace7b74a9bfbe436211ab57e5d2e.m3u8
+
+
 
 
 catch the ghost
@@ -1765,6 +1774,11 @@ https://load-cdn-2.anime-live.com/drive/hls//f2da9224b007369f0bffd0b8b8d29a79/f2
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.6
 https://stream-cdn-m.anime-live.com/drive/hls/c63033b94de5e04e7ff2efd1a4f37a3e/c63033b94de5e04e7ff2efd1a4f37a3e.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.7
+https://stream-cdn-m.anime-live.com/drive/hls/74c5d9919d269d3c6565a62958417be5/74c5d9919d269d3c6565a62958417be5.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.8
+https://stream-cdn-m.anime-live.com/drive/hls/1d5578ce42bcda7f2284da022ba92f59/1d5578ce42bcda7f2284da022ba92f59.m3u8
 
 
 
@@ -1778,8 +1792,17 @@ https://load-cdn-2.anime-live.com/drive//hls/4419093f2918817e129c939fbceccfdc/44
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.2
 https://load-cdn-2.anime-live.com/drive//hls/ee1ee560e6d8f03dbdb2965563fe54e5/ee1ee560e6d8f03dbdb2965563fe54e5.m3u8
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019  Ep.3
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.3
 https://load-cdn-2.anime-live.com/drive/hls//4532dc61aac43c460b4a4450e213c3e0/4532dc61aac43c460b4a4450e213c3e0.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.4
+https://stream-cdn-m.anime-live.com/drive/hls/f5acda5d9a69d7ca59fdaaefc4bda7be/f5acda5d9a69d7ca59fdaaefc4bda7be.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.5
+https://stream-cdn-m.anime-live.com/drive/hls/fd762d87a2872430cf1e274ef9768922/fd762d87a2872430cf1e274ef9768922.m3u8
+
+
+
 
 
 Watchmen

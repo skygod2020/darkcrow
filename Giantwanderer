@@ -158,15 +158,15 @@ https://live.we-play.tv/live/astro3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",astrosport4hd
 https://live.we-play.tv/live/astro4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1.png" group-title=" Thailand Channels",ARENA SPORT 1
-https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/rs-arena1_480/chunks.m3u8
+http://185.71.66.51:8000/Mauritania/Mauritania/55117
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2.png" group-title=" Thailand Channels",ARENA SPORT 2
-https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/rs-arena2_480/chunks.m3u8
+http://185.71.66.51:8000/Mauritania/Mauritania/55116
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3.png" group-title=" Thailand Channels",ARENA SPORT 3
-https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/rs-arena3_480/chunks.m3u8
+http://185.71.66.51:8000/Mauritania/Mauritania/55099
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oKLqSYI.png" group-title=" Thailand Channels",ARENA SPORT 4
-https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
+http://185.71.66.51:8000/Mauritania/Mauritania/55114
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2UJb01J.png" group-title=" Thailand Channels",ARENA SPORT 5
-https://sportbar.biz/lba/123/g7/ar5sport.m3u8
+http://185.71.66.51:8000/Mauritania/Mauritania/55113
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title=" Thailand Channels",SPORTTV1
 https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title=" Thailand Channels",SPORTTV2
@@ -181,8 +181,10 @@ https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
 https://live.we-play.tv/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title=" Thailand Channels",LFCTV
 https://live.we-play.tv/live/lfctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/eurosport.jpg" group-title=" Thailand Channels",EUROSPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title=" Thailand Channels",EUROSPORT 1
 http://185.71.66.51:8000/Mauritania/Mauritania/12104
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title=" Thailand Channels",EUROSPORT 2
+http://185.71.66.51:8000/Mauritania/Mauritania/12105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 2 (UHD)

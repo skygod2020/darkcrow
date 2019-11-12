@@ -300,6 +300,8 @@ http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 http://27.254.149.109:8081/live/movie3.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/iy/180723045313.jpg" group-title=" Thailand Channels",UpMovie
 http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Thailand Channels",Cinema Thai
+http://203.154.243.89:2037
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title=" Thailand Channels",hi-def1
 https://live.we-play.tv/live/hi-def1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS"group-title=" Thailand Channels",  MOVIES 4 ( ENG SUB)

@@ -725,6 +725,10 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Kill-Chain-2019-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-170x250.png",โคตรโจรอันตราย
+https://slave12.iplayers.co/drive//hls/c77a0fdf9d397235290fb56f37402d57.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Angel-Has-Fallen-2019-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-hd-170x250.png", ผ่ายุทธการ ดับแผนอหังการ์
+https://slave13.iplayers.co/drive//hls/b8ad7c750b5a75d7922d209e82e5f980.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Extraordinary-Adventures-of-Adele-Blanc-Sec-2010-%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%A5%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99-5-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2-170x250.png",พลังอะเดลข้ามขอบฟ้าโค่น 5 อภิมหาภัย
 https://slave5.iplayers.co/drive//hls/c1e94237d82eca081d258aed8ff76907.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/10/The-Death-and-Return-of-Superman-2019.png",ความตายและการกลับมาของซูเปอร์แมน
@@ -763,6 +767,31 @@ https://slave8.iplayers.co/drive//hls/d5fe7ad32d7ddfaaebf7c42c27d627f4.m3u8
 https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Eli-2019-%E0%B8%AD%E0%B8%B5%E0%B9%84%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%87.png",ELI (2019) อีไล จิตต้องขัง [ซับไทย]
 https://slave12.iplayers.co/drive//hls/5059ae104297ed80d48169a61d81cb22.m3u8
+
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-Episode-I-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A0%E0%B8%B2%E0%B8%84-1-%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B9%89%E0%B8%99-170x250.png", สตาร์วอร์ส ภาค 1 ภัยซ่อนเร้น
+https://slave6.iplayers.co/drive//hls/a261d5520614da80fabbec51f6b29392.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-Episode-II-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A0%E0%B8%B2%E0%B8%84-2-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%99%E0%B8%88%E0%B8%B9%E0%B9%88%E0%B9%82%E0%B8%88%E0%B8%A1-170x250.png", สตาร์วอร์ส ภาค 2 กองทัพโคลนจู่โจม
+https://slave10.iplayers.co/drive//hls/e61e4ed57523c03ba045f83b2a0a78f0.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-Episode-III-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A0%E0%B8%B2%E0%B8%84-3-%E0%B8%8B%E0%B8%B4%E0%B8%98%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-170x250.png", สตาร์วอร์ส ภาค 3 ซิธชำระแค้น
+https://slave2.iplayers.co/drive//hls/3eab34f04a84dd78ea4a324039d9cce5.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-4-A-New-Hope-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A0%E0%B8%B2%E0%B8%84-4-170x250.png", สตาร์วอร์ส ภาค 4 ความหวังใหม่
+https://slave2.iplayers.co/drive//hls/32638abcd97ec45ba708675abdd426db.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-5-The-Empire-Strikes-Back-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A0%E0%B8%B2%E0%B8%84-5-170x250.png", สตาร์วอร์ส ภาค 5 จักรวรรดิโต้กลับ
+https://slave5.iplayers.co/drive//hls/89abf350dc4f990b7e0a37460da07f7f.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-6-Return-of-the-Jedi-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%A0%E0%B8%B2%E0%B8%84-6-170x250.png", สตาร์วอร์ส ภาค 6 การกลับมาของเจได
+https://slave10.iplayers.co/drive//hls/8f41de29e037d50658078d76501d892c.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-7-The-Force-Awakens-2015-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-7-170x250.png", สตาร์วอร์ส ภาค 7 พลังที่ตื่นขึ้น
+https://slave2.iplayers.co/drive//hls/3aa4361ab9d2cdca3577d682f3d245b6.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-8-The-Last-Jedi-2017-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-8-170x250.png", สตาร์วอร์ส ภาค 8 เจไดคนสุดท้าย
+https://slave10.iplayers.co/drive//hls/d4834bfe384d3305fe7b03d41f110cae.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/Tumbbad-2018.jpg",Tumbbad (2018) คำสาปแห่งทุมบ์บาด
 https://037hd7.vanlong.stream/drive//hls/74a802d3984c4308041851fdc45ba84c/74a802d3984c4308041851fdc45ba84c.m3u8
@@ -1730,8 +1759,10 @@ https://load-cdn-2.anime-live.com/drive//hls/e6c89bb8b83ba9b61f9601046eeed5af/e6
 https://load-cdn-2.anime-live.com/drive//hls/2ae3a72a57c21afdadc4aa6efc09d11c/2ae3a72a57c21afdadc4aa6efc09d11c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep9
-https://load-cdn-3.anime-live.com/drive/hls/e270ace7b74a9bfbe436211ab57e5d2e/e270ace7b74a9bfbe436211ab57e5d2e.m3u8
+https://load-cdn-3.anime-live.com/drive//hls/e270ace7b74a9bfbe436211ab57e5d2e/e270ace7b74a9bfbe436211ab57e5d2e.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep10
+https://stream-cdn-m.anime-live.com/drive//hls/2b6c95b169b2805cd75bec14134ebe85/2b6c95b169b2805cd75bec14134ebe85.m3u8
 
 
 
@@ -1957,6 +1988,10 @@ His Dark Material Season 1
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP1
 https://slave3.iplayers.co/drive//hls/de2865b1cef04e952853b2b315d8998c.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP2
+https://slave5.iplayers.co/drive//hls/e2b2c43062d7b017e63d9490fa962280.m3u8
+
 
 
 

@@ -725,6 +725,7 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Kill-Chain-2019-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-170x250.png",โคตรโจรอันตราย
 https://slave12.iplayers.co/drive//hls/c77a0fdf9d397235290fb56f37402d57.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Angel-Has-Fallen-2019-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-hd-170x250.png", ผ่ายุทธการ ดับแผนอหังการ์
@@ -1274,6 +1275,10 @@ https://037hd1.vanlong.stream/drive//hls/b7509a31c7dad01d21c9213691c432ea/b7509a
 
 
 Movie จีน
+
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/The-Untamed-The-Living-Dead-2019.jpeg",ปรมาจารย์ลัทธิมาร ชีวิตแห่งความตาย
+https://037hd5.vanlong.stream/drive//hls/52f289da4095068456ac6dd1af946898/52f289da4095068456ac6dd1af946898.m3u8
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Master-of-the-Nine-Dragon-Fist-Wong-Ching-Ho-2019.png",MASTER OF THE NINE DRAGON FIST WONG CHING-HO (2019) ราชาแห่งกำปั้นมังกรเก้าวงศ์ ชิง-โฮ
 https://037hd5.vanlong.stream/drive//hls/1d0e1ac0b50ee414472d467f938a72f2/1d0e1ac0b50ee414472d467f938a72f2.m3u8

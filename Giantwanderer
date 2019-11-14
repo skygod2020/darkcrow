@@ -182,9 +182,9 @@ https://live.we-play.tv/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title=" Thailand Channels",LFCTV
 https://live.we-play.tv/live/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title=" Thailand Channels",EUROSPORT 1
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/40.ts
+http://185.71.66.51:8000/Mauritania/Mauritania/12104
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title=" Thailand Channels",EUROSPORT 2
-http://144.76.76.113:8000/live/Stalker/0mJcEm3USC/97.ts
+http://185.71.66.51:8000/Mauritania/Mauritania/12105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 2 (UHD)
@@ -726,6 +726,10 @@ MOVIES
 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Fast-And-Furious-Hobbs-and-Shaw-2019-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%AE%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B9%8C-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%8A%E0%B8%AD%E0%B8%A7%E0%B9%8C-170x250.png",เร็วแรงทะลุนรกฮ็อบส์แอนด์ชอว์
+https://slave8.iplayers.co/drive//hls/cac05cd6dfee1e55e4d8dfd9db1bef66.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/I-Am-Mother-2019-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%81%E0%B8%A1%E0%B9%88-170x250.png",หุ่นเหล็กโลกเรียกแม่
+https://slave10.iplayers.co/drive//hls/18d4a3364a9b2ae20a98a417b4f6734f.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Kill-Chain-2019-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2-170x250.png",โคตรโจรอันตราย
 https://slave12.iplayers.co/drive//hls/c77a0fdf9d397235290fb56f37402d57.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Angel-Has-Fallen-2019-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-hd-170x250.png", ผ่ายุทธการ ดับแผนอหังการ์
@@ -1278,7 +1282,7 @@ Movie จีน
 
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/The-Untamed-The-Living-Dead-2019.jpeg",ปรมาจารย์ลัทธิมาร ชีวิตแห่งความตาย
-https://037hd5.vanlong.stream/drive//hls/52f289da4095068456ac6dd1af946898/52f289da4095068456ac6dd1af946898.m3u8
+https://p2p_sv4.dufree4k.net/hls/7af9e8fe902e34a36cce03e12ae93224/7af9e8fe902e34a36cce03e12ae93224.playlist.m3u8
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/09/Master-of-the-Nine-Dragon-Fist-Wong-Ching-Ho-2019.png",MASTER OF THE NINE DRAGON FIST WONG CHING-HO (2019) ราชาแห่งกำปั้นมังกรเก้าวงศ์ ชิง-โฮ
 https://037hd5.vanlong.stream/drive//hls/1d0e1ac0b50ee414472d467f938a72f2/1d0e1ac0b50ee414472d467f938a72f2.m3u8
@@ -1957,7 +1961,8 @@ https://p2p_sv1.dufree4k.net/hls/86a977be7768799159ae758eb0a52ec7/86a977be776879
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 5
 https://p2p_sv3.dufree4k.net/hls/99a018a63dee4139afc1ef7ffa9fad5a/99a018a63dee4139afc1ef7ffa9fad5a.playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 6
+https://ota.cdnwatch.com/data10/13-11-2019/SapaiTKO-Disc6-13-Nov-2019_HD.mp4/index.m3u8
 
 
 VOICE สัมผัสเสียงมรณะ
@@ -1997,6 +2002,13 @@ https://slave3.iplayers.co/drive//hls/de2865b1cef04e952853b2b315d8998c.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP2
 https://slave5.iplayers.co/drive//hls/e2b2c43062d7b017e63d9490fa962280.m3u8
 
+
+
+Starwar The-Mandalorian Season-1
+
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP1
+https://slave12.iplayers.co/drive//hls/1565ec28ca536f5818daa3a2c888e8d6.m3u8
 
 
 

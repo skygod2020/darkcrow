@@ -725,7 +725,8 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Gemini-Man-2019-เจมิไน-แมน-170x250.png",Gemini Man (2019) เจมิไน แมน
+https://slave11.iplayers.co/drive//hls/fe6bc63f8f39529fb1f59ca5b38a3d6c.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Fast-And-Furious-Hobbs-and-Shaw-2019-%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%A7-%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%AE%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B9%8C-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%8A%E0%B8%AD%E0%B8%A7%E0%B9%8C-170x250.png",เร็วแรงทะลุนรกฮ็อบส์แอนด์ชอว์
 https://slave8.iplayers.co/drive//hls/cac05cd6dfee1e55e4d8dfd9db1bef66.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/I-Am-Mother-2019-%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B9%81%E0%B8%A1%E0%B9%88-170x250.png",หุ่นเหล็กโลกเรียกแม่
@@ -1972,7 +1973,14 @@ https://p2p_sv1.dufree4k.net/hls/86a977be7768799159ae758eb0a52ec7/86a977be776879
 https://p2p_sv3.dufree4k.net/hls/99a018a63dee4139afc1ef7ffa9fad5a/99a018a63dee4139afc1ef7ffa9fad5a.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 6
-https://ota.cdnwatch.com/data10/13-11-2019/SapaiTKO-Disc6-13-Nov-2019_HD.mp4/index.m3u8
+https://p2p_sv4.dufree4k.net/hls/23902960a9cb0bacce91801e2f58941f/23902960a9cb0bacce91801e2f58941f.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 7
+https://ota.cdnwatch.com/data10/14-11-2019/SaPaiTKO-Disc5-14-Nov-2019_HD.mp4/index.m3u8
+
+
+
+
 
 
 VOICE สัมผัสเสียงมรณะ
@@ -1989,6 +1997,43 @@ https://p2p_sv4.dufree4k.net/hls/7d76d53fa52e4e160df9b8c5981ada7d/7d76d53fa52e4e
 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 4
 https://p2p_sv5.dufree4k.net/hls/adf9b8de3067889757164a54b8ab8206/adf9b8de3067889757164a54b8ab8206.playlist.m3u8
+
+
+
+
+เคว้ง (2019) The Stranded
+
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/เคว้ง-2019-The-Stranded-EP-1-7-170x250.png" group-title="SERIES",เคว้ง ตอนที่ 1
+https://slave4.iplayers.co/drive//hls/7bb5484757baafe494837c629bd37781.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/เคว้ง-2019-The-Stranded-EP-1-7-170x250.png" group-title="SERIES",เคว้ง ตอนที่ 2
+https://slave9.iplayers.co/drive//hls/7f6631706997867f86085dd90f4c8ca5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/เคว้ง-2019-The-Stranded-EP-1-7-170x250.png" group-title="SERIES",เคว้ง ตอนที่ 3
+https://slave4.iplayers.co/drive//hls/fbde0f5242e33ff61e3bb1e99b63c467.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/เคว้ง-2019-The-Stranded-EP-1-7-170x250.png" group-title="SERIES",เคว้ง ตอนที่ 4
+https://ok.ru/videoembed/1539126987457?b=8743292
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/เคว้ง-2019-The-Stranded-EP-1-7-170x250.png" group-title="SERIES",เคว้ง ตอนที่ 5
+https://slave1.iplayers.co/drive//hls/9bed6f7d3d6a73414fb0bd416b56f9f3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/เคว้ง-2019-The-Stranded-EP-1-7-170x250.png" group-title="SERIES",เคว้ง ตอนที่ 6
+https://slave5.iplayers.co/drive//hls/4622875c9962404befd2afb865e799b7.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/เคว้ง-2019-The-Stranded-EP-1-7-170x250.png" group-title="SERIES",เคว้ง ตอนที่ 7
+https://slave8.iplayers.co/drive//hls/da7b85fb0e65e5570a16171109175706.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 

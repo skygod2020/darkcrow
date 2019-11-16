@@ -276,8 +276,6 @@ http://bit.ly/2lRnInc
 https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190218201201images.jpg" group-title=" Thailand Channels",Cool Channel
 http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg" group-title=" Thailand Channels",zeenang
-https://live.dufree4k.net/02_Zee_Nung_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thrill.png" group-title=" Thailand Channels",Thrill
 https://live.dufree4k.net/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg"group-title=" Thailand Channels",CCM
@@ -287,6 +285,14 @@ http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.jpg" group-title=" Thailand Channels",JKN
 https://live.dufree4k.net/02_JKN_480p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg" group-title=" Thailand Channels",Zeenang
+https://live.dufree4k.net/02_Zee_Nung_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeClassic.png" group-title=" Thailand Channels",ZEE Bollywood
+https://www.livedoomovie.com/02_Zee_Classic_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ztv-LOGO.png" group-title=" Thailand Channels",Zee TV HD
+https://livedoomovie.com/02_Zee_TV_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" group-title=" Thailand Channels",star plus
 http://iliketot.dyndns.tv/7c75ad89c1cc417aa0f066133c0a2333.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
@@ -725,6 +731,11 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Art-of-Self-Defense-2019-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%87-170x250.png",ยอดวิชาคาราเต้สุดป่วง
+https://slave9.iplayers.co/drive//hls/65ac306379b7f019965609e343d0d82b.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Gemini-Man-2019-%E0%B9%80%E0%B8%88%E0%B8%A1%E0%B8%B4%E0%B9%84%E0%B8%99-%E0%B9%81%E0%B8%A1%E0%B8%99-170x250.png",เจมิไน แมน
+https://slave9.iplayers.co/drive//hls/af749b8bede9e9c195d046471867e76b.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Earthquake-Bird-2019-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-170x250.png",รอยปริศนาในลางร้าย
 https://037hd5.vanlong.stream/drive//hls/7e853ad69c528f9d427465e53bfde511/7e853ad69c528f9d427465e53bfde511.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Klaus-2019-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA-170x250.png",มหัศจรรย์ตำนานคริสต์มาส
@@ -1284,6 +1295,9 @@ https://037hd1.vanlong.stream/drive//hls/b7509a31c7dad01d21c9213691c432ea/b7509a
 Movie จีน
 
 
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Jade-Dynasty-2019-กระบี่เทพสังหาร-170x250.png" ,กระบี่เทพสังหาร
+https://slave8.iplayers.co/drive//hls/0f2752d5293e9adbe5616f2e8bb5fe4b.m3u8
+
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/The-Untamed-The-Living-Dead-2019.jpeg",ปรมาจารย์ลัทธิมาร ชีวิตแห่งความตาย
 https://p2p_sv4.dufree4k.net/hls/7af9e8fe902e34a36cce03e12ae93224/7af9e8fe902e34a36cce03e12ae93224.playlist.m3u8
 
@@ -1295,8 +1309,10 @@ https://037hd4.vanlong.stream/drive//hls/35c65fe9fe74e90961162ff6cb63e6e4/35c65f
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Sword-Master-2016-%E0%B8%94%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2.png" ,SWORD MASTER (2016) ดาบปราบเทวดา
 https://slave4.iplayers.co/drive//hls/79f2d2911ad42eb710edd2e4459f79ac/79f2d2911ad42eb710edd2e4459f79ac.m3u8
+
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://watchnung.com/cover/1570962174.jpg" ,House of Flying Daggers จอมใจบ้านมีดบิน (2004)
 https://cdn1.cdn9x.com/7ut84oeq/480p.m3u8
+
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://watchnung.com/cover/1561263980.jpg" ,The Last Emperor จักรพรรดิโลกไม่ลืม (1987)
 https://cdn4.cdn9x.com/74mp6n02/480p.m3u8
 
@@ -1915,7 +1931,7 @@ https://slave8.iplayers.co/drive//hls/b4f2973bcff09a87e0ddfa6bb1a58665.m3u8
 https://slave7.iplayers.co/drive//hls/0d32a76161336ed3a40a4a556f6b9f6b.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP.5
-
+https://slave9.iplayers.co/drive//hls/75835713e17f75118091f7bd3ebc0c5c.m3u8
 
 
 

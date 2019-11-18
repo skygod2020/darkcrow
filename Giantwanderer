@@ -1762,7 +1762,8 @@ https://load-cdn-2.anime-live.com/drive//hls/9305c9326a62d871b53d545f77141bfa/93
 https://load-cdn-2.anime-live.com/drive//hls/751465e7c985e3fef4faeb998cfb6a8b/751465e7c985e3fef4faeb998cfb6a8b.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 11
 https://load-cdn-2.anime-live.com/drive/hls/fcb1eb620e70f0eeb91e4e453254545d/fcb1eb620e70f0eeb91e4e453254545d.m3u8
-
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 12
+https://load-cdn-2.anime-live.com/drive/hls/735c9859fe1f5374ee736ac5659fdf62/735c9859fe1f5374ee736ac5659fdf62.m3u8
 
 
 
@@ -1798,6 +1799,10 @@ https://load-cdn-3.anime-live.com/drive//hls/e270ace7b74a9bfbe436211ab57e5d2e/e2
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep10
 https://stream-cdn-m.anime-live.com/drive//hls/2b6c95b169b2805cd75bec14134ebe85/2b6c95b169b2805cd75bec14134ebe85.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep11
+https://stream-cdn-m.anime-live.com/drive/hls/87d3f92fe14176b238cf1f552c31a5dc/87d3f92fe14176b238cf1f552c31a5dc.m3u8
+
 
 
 
@@ -1855,6 +1860,12 @@ https://stream-cdn-m.anime-live.com/drive/hls/74c5d9919d269d3c6565a62958417be5/7
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.8
 https://stream-cdn-m.anime-live.com/drive/hls/1d5578ce42bcda7f2284da022ba92f59/1d5578ce42bcda7f2284da022ba92f59.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.9
+https://load-cdn-2.anime-live.com/drive/hls/9e264e4c1dec1f7aa06f3c040ad824f5/9e264e4c1dec1f7aa06f3c040ad824f5.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.10
+https://stream-cdn-m.anime-live.com/drive/hls/5eeae6010cba8dbe5b44edbd1051b26e/5eeae6010cba8dbe5b44edbd1051b26e.m3u8
 
 
 
@@ -1915,6 +1926,9 @@ https://p2p_sv1.dufree4k.net/hls/ad5cdb0de71d928c8554374990183022/ad5cdb0de71d92
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/Batwoman-2.jpg" group-title="SERIES" ,BATWOMAN SEASON 1 (2019) EP.5
 https://p2p_sv5.dufree4k.net/hls/b27cf4dfa2d9d2216fb1a91bfc1a640c/b27cf4dfa2d9d2216fb1a91bfc1a640c.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/Batwoman-2.jpg" group-title="SERIES" ,BATWOMAN SEASON 1 (2019) EP.6
+https://p2p_sv4.dufree4k.net/hls/403c38458bb209efaf646908fee4a3b3/403c38458bb209efaf646908fee4a3b3.playlist.m3u8
 
 
 

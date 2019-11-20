@@ -793,6 +793,8 @@ https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 https://slave4.iplayers.co/drive//hls/ddc7aa7df5edc876ebd4ccce025295ff.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Chronicles-of-Riddick-2004-ริดดิค-2-170x250.png", ริดดิค 2
 https://slave2.iplayers.co/drive//hls/8886e458e97d7f570ac6630f5a0a2f4d.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Riddick-3-2013-ริดดิก-3-170x250.png", ริดดิค 3
+https://slave13.iplayers.co/drive//hls/08a76e12667960fc70c4d0ad84f01052.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Last-Witch-Hunter-2015-เพชรฆาตแม่มด-170x250.png", เพชรฆาตแม่มด
 https://slave11.iplayers.co/drive//hls/06c74915879ff262c67c8ed45f5bea94.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ghost-in-the-Shell-2017-โกสต์-อิน-เดอะ-เชลล์-170x250.png", Ghost in the Shell (2017)
@@ -1860,7 +1862,7 @@ https://load-cdn-6.anime-live.com/drive/hls/3e402504c62f3a002aa5c99e2f0ec893/3e4
 https://load-cdn-6.anime-live.com/drive/hls/537340905cf2106c8d07621ea13f3432/537340905cf2106c8d07621ea13f3432.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.9
-
+https://load-cdn-2.anime-live.com/drive/hls/590b4b46569c4dbe77edb6e01aff50a5/590b4b46569c4dbe77edb6e01aff50a5.m3u8
 
 
 
@@ -2116,6 +2118,10 @@ https://p2p_sv5.dufree4k.net/hls/adf9b8de3067889757164a54b8ab8206/adf9b8de306788
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 5
 https://ota.cdnwatch.com/data10/18-11-2019/Voive-Disc5-18-Nov-2019_HD.mp4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 6
+https://p2p_sv1.dufree4k.net/hls/9fe100c70a5942246666eb5bb0707044/9fe100c70a5942246666eb5bb0707044.playlist.m3u8
+
+
 
 
 
@@ -2154,6 +2160,10 @@ https://p2p_sv4.livedoomovie.com/hls/f883d0d2476db37bea38033de9745286/f883d0d247
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/38ddb547d3eb4187c299e99cef67a03c.jpg" group-title="SERIES" ,Treadstone Season 1 EP.2
 https://p2p_sv1.livedoomovie.com/hls/e80361811ca09332dbac2ba367a81268/e80361811ca09332dbac2ba367a81268.playlist.m3u8
 
+EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/38ddb547d3eb4187c299e99cef67a03c.jpg" group-title="SERIES" , Treadstone Season 1 EP.3
+https://p2p_sv1.livedoomovie.com/hls/4d192d76536640b2f2558b6b454835c3/4d192d76536640b2f2558b6b454835c3.playlist.m3u8
+
+
 
 
 His Dark Material Season 1
@@ -2164,6 +2174,9 @@ https://slave3.iplayers.co/drive//hls/de2865b1cef04e952853b2b315d8998c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.2
 https://slave5.iplayers.co/drive//hls/e2b2c43062d7b017e63d9490fa962280.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.3
+https://p2p_sv2.dufree4k.net/hls/2ac2a33cbe746531bf673af9bbc1c1a8/2ac2a33cbe746531bf673af9bbc1c1a8.playlist.m3u8
 
 
 
@@ -2176,6 +2189,8 @@ https://slave12.iplayers.co/drive//hls/1565ec28ca536f5818daa3a2c888e8d6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.2
 https://slave4.iplayers.co/drive//hls/5ac8ba96e8383d1100b0bfc850d3d250.m3u8
+
+
 
 
 

@@ -799,8 +799,6 @@ https://slave13.iplayers.co/drive//hls/08a76e12667960fc70c4d0ad84f01052.m3u8
 https://slave11.iplayers.co/drive//hls/06c74915879ff262c67c8ed45f5bea94.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ghost-in-the-Shell-2017-โกสต์-อิน-เดอะ-เชลล์-170x250.png", Ghost in the Shell (2017)
 https://slave1.iplayers.co/drive//hls/2040cc13b8af445126523d3fa4ace161.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Oblivion-2013-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B8%A1-170x250.png", Oblivion (2013) อุบัติการณ์โลกลืม
-https://slave1.iplayers.co/drive//hls/5d5e44ffda147029d55250232780bf14.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/05/The-Mule-2018-เดอะ-มิวล-170x250.png", The Mule (2018)
 https://slave10.iplayers.co/drive//hls/35fc811955cf667aa602a40311e99655.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Snowpiercer-2013-ยึดด่วน-วันสิ้นโลก-170x250.png", Snowpiercer (2013) ยึดด่วน วันสิ้นโลก
@@ -2160,7 +2158,7 @@ https://p2p_sv4.livedoomovie.com/hls/f883d0d2476db37bea38033de9745286/f883d0d247
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/38ddb547d3eb4187c299e99cef67a03c.jpg" group-title="SERIES" ,Treadstone Season 1 EP.2
 https://p2p_sv1.livedoomovie.com/hls/e80361811ca09332dbac2ba367a81268/e80361811ca09332dbac2ba367a81268.playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/38ddb547d3eb4187c299e99cef67a03c.jpg" group-title="SERIES" , Treadstone Season 1 EP.3
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/38ddb547d3eb4187c299e99cef67a03c.jpg" group-title="SERIES" , Treadstone Season 1 EP.3
 https://p2p_sv1.livedoomovie.com/hls/4d192d76536640b2f2558b6b454835c3/4d192d76536640b2f2558b6b454835c3.playlist.m3u8
 
 

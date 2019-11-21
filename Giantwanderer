@@ -602,22 +602,19 @@ http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Enders.Game.2013.4K.T
 #EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1494866350.jpg",สัตว์มหัศจรรย์: อาชญากรรมของกรินเดลวัลด์
 http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Fantastic.Beasts.And.Where.To.Find.Them.2016.4K.TH.mp4/index.m3u8
 
-#EXTINF:-1 group-title="Movie_4K",Kingsman: The Golden Circle (2017) คิงส์แมน รวมพลังโคตรพยัคฆ์
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/QrvgDJQM6IJKve0oU9H.jpg",Kingsman: The Golden Circle (2017) คิงส์แมน รวมพลังโคตรพยัคฆ์
 http://191.96.77.3/4kmovie/4K_2160/Kingsman-the-golden-circle-2017-4k.265.hevc.2160p.mkv
 
-#EXTINF:-1 group-title="Movie_4K",Starship Troopers: Traitor of Mars (2017) สงครามหมื่นขา ล่าล้างจักรวาล จอมกบฏดาวอังคาร
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/cE4nlGeX7NBnzGWcv7I.jpg",Starship Troopers: Traitor of Mars (2017) สงครามหมื่นขา ล่าล้างจักรวาล จอมกบฏดาวอังคาร
 http://191.96.77.3/4kmovie/4K_2160/Starship.troopers.traitor.of.mars.2017.2160p.265.hevc.mkv
 
-#EXTINF:-1 group-title="Movie_4K",Jumanji welcome to the jungle 2017
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/eegsO2SBOy1z1yev9vO.jpg",Jumanji welcome to the jungle 2017
 http://191.96.77.3/4kmovie/4K_2018/Jumanji.welcome.to.the.jungle.2017.1080p.265.hevc.mkv
 
-#EXTINF:-1 group-title="Movie_4K",Meters Down 2017
-http://191.96.77.3/4kmovie/4K_2018/47.meters.down.2017.1080p.265.hevc.mkv
-
-#EXTINF:-1 group-title="Movie_4K",The Wall 2017
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.037hdd.com/wp-content/uploads/2019/06/The-Wall-2017.jpg",The Wall 2017
 http://191.96.77.3/4kmovie/4K_2018/The.wall.2017.1080p.265.hevc.mkv
 
-#EXTINF:-1 group-title="Movie_4K",Beyond skyline 2017
+#EXTINF:-1 group-title="Movie_4K"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/tschFcBfKC91g7Zc9YD.jpg",Beyond skyline 2017
 http://191.96.77.3/4kmovie/4K_2018/Beyond.skyline.2017.1080p.265.hevc.mkv
 
 
@@ -1093,7 +1090,7 @@ http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1514359480.jpg",security โคตรยาม อันตราย
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
 
-#EXTINF:-1, group-title="Movie"tvg-logo="https://lh5.googleusercontent.com/proxy/rwzltIBPdSqvoEZWxYICkHcgOlQnDnlKOFCv_RArxs-cQkph3zrmAy2RnY9hrxzPm2tBpTLch-JajZMbTlNEs8l1_15JpCB0VUyIZ24XXleZ2n14HAN_QefZ5_dbhMkXpgDisBTAT7oz=w321-h458-nc",Dejavu
+#EXTINF:-1, group-title="Movie"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/5FfvKgEalbGWhD6lUit.jpg",Dejavu
 https://glus-st.mthcdn.com/stream/video02/2018/07/19/1531992148/1531992148_720.mp4
 
 #EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWqubmh0Np1kluHz_iC7MschurNQc16kiB091RC8K8AQZQv3W",i Spit On Your Grave1
@@ -1102,13 +1099,13 @@ https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514472978/1514472978_720.m
 #EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk_nv45iyoK5sKnYzK79U6N28fyq-hYZ1WG4RMgsiokzV4iqFp_7G9TjVOIA",i Spit On Your Grave2
 https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514473017/1514473017_720.mp4
 
-#EXTINF:-1, group-title="Movie"tvg-logo="https://lh5.googleusercontent.com/proxy/KyCmPJjgHjoFm4vuLJshhlav3k-1LI4FmL7lAF2ZK1nBzJbIGeRmnIHEF11Dh8pxz-lRSSGHBahM1f4UoAdIAuBcFFPVvtvO5EdE_Cx-y4PxOTEdk9nSSaNFKKbzQ5Sja6Kpy5zrT83HutOdyhz-JTB772nBOwaSY13x5bEjsZ49wlAX7NFLajiDegAnx4XnfWVMWQ8nlOxgsBq6tTz1t7JHFzmwrY3giW-KLrK3I1fbm5sgRNQ45A4pOXSnmFFgEeW2b7CSLxdRjCw6J3ZOhC7XRMg6hvv2UpKT6d2S93YTly0NOMJ-stkGA0W-6ciiptwzjm3lz6WexLJvnNmpmw=w230-h327-nc",i Spit On Your Grave3
+#EXTINF:-1, group-title="Movie"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/gweiBTcmUukOdMT4Cvj.jpg",i Spit On Your Grave3
 https://glus-st.mthcdn.com/stream/video02/2017/12/28/1514480073/1514480073_720.mp4
 
 #EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkR_6XkgmJNdYmZuTa7STTtbbsVHBUSJVRhOSmxW5wN-g1xCmCVjA7r2yl",Suicide Squad
 https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515652416/1515652416_720.mp4
 
-#EXTINF:-1, group-title="Movie"tvg-logo="https://lh5.googleusercontent.com/proxy/emE4c1hR6EuCPndHnQFUc-e12XI2Fptb8DQ2OZiBXAVeGziomZGep3eYwxv8G9brdBxCwKMvd9k4ojHTdX-IcShrjJgP0S2F-NsLVWNUk8Tjkxc3ScJ4gAlnHxjDGH4NIEFgOg71tA=w300-h450-nc",Green Lantern
+#EXTINF:-1, group-title="Movie"tvg-logo="https://www.037hdd.com/wp-content/uploads/2018/04/SOMsbBAvTKhy9aXDsuf.jpg",Green Lantern
 https://glus-st.mthcdn.com/stream/video02/2018/01/14/1515908100/1515908100_720.mp4
 
 #EXTINF:-1, group-title="Movie"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBq1QT_A03SO9K8t-cmEUnksCkcVibJbs_1zqu27OpZifAnCc_Q",MadMax FuryRoad
@@ -1120,13 +1117,7 @@ https://glus-st.mthcdn.com/stream/video02/2018/04/16/1523867634/1523867634_720.m
 #EXTINF:-1 group-title="Movie"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT33GrJj_0muoqph8n4xfHkJoXG41Bro40iSO5RsXGt5kADZJZAvA",kingsman2
 https://glus-st.mthcdn.com/stream/video02/2017/12/03/1512283514/1512283514_720.mp4
 
-#EXTINF:-1 group-title="Movie"tvg-logo="https://doonungdee.online/cover/1532060159.jpg",Next
-https://glus-st.mthcdn.com/stream/video02/2018/07/18/1531908815/1531908815_720.mp4
 
-#EXTINF:-1 group-title="Movie"tvg-logo=",White Tiger (2012) เบลืยติกร์ สงครามรถถังประจัญบาน
-https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513678037/1513678037_360.mp4
-#EXTINF:-1 group-title="Movie"tvg-logo="https://onlinemini-hd.com/wp-content/uploads/2015/08/Transformers-4-202x289.jpg",Transformers 4: Age of Extinction มหาวิบัติยุคสุญพันธุ์
-https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-6-Fallout-2018-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-6-%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C.png" ,MISSION IMPOSSIBLE 6 FALLOUT (2018) มิชชั่น อิมพอสซิเบิ้ล 6 ฟอลล์เอาท์
 https://slave5.iplayers.co/drive//hls/5d25e026507c4409777f475141613874/5d25e026507c4409777f475141613874.m3u8

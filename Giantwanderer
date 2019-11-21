@@ -2146,7 +2146,10 @@ https://p2p_sv3.dufree4k.net/hls/99a018a63dee4139afc1ef7ffa9fad5a/99a018a63dee41
 https://p2p_sv4.dufree4k.net/hls/23902960a9cb0bacce91801e2f58941f/23902960a9cb0bacce91801e2f58941f.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 7
-https://ota.cdnwatch.com/data10/14-11-2019/SaPaiTKO-Disc5-14-Nov-2019_HD.mp4/index.m3u8
+https://p2p_sv5.dufree4k.net/hls/96212d6f51cf983041928831411edef4/96212d6f51cf983041928831411edef4.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 8
+https://p2p_sv3.dufree4k.net/hls/0b58ef21434ebfa5e2f7a8e9267f7ffc/0b58ef21434ebfa5e2f7a8e9267f7ffc.playlist.m3u8
 
 
 
@@ -2169,7 +2172,7 @@ https://p2p_sv4.dufree4k.net/hls/7d76d53fa52e4e160df9b8c5981ada7d/7d76d53fa52e4e
 https://p2p_sv5.dufree4k.net/hls/adf9b8de3067889757164a54b8ab8206/adf9b8de3067889757164a54b8ab8206.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 5
-https://ota.cdnwatch.com/data10/18-11-2019/Voive-Disc5-18-Nov-2019_HD.mp4/index.m3u8
+https://p2p_sv4.dufree4k.net/hls/9035efad502e06fe1903a24660f8130a/9035efad502e06fe1903a24660f8130a.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 6
 https://p2p_sv1.dufree4k.net/hls/9fe100c70a5942246666eb5bb0707044/9fe100c70a5942246666eb5bb0707044.playlist.m3u8

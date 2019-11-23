@@ -2004,6 +2004,10 @@ https://slave9.iplayers.co/drive//hls/0d26a2476415a5777199c291c60f7991.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.4
 https://slave6.iplayers.co/drive//hls/f95bed1d8d692fe937d0d73af82b6122.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.5
+https://slave12.iplayers.co/drive//hls/5a43c94700aa5a72e46deca2a476ccd0.m3u8
+
+
 
 
 
@@ -2049,7 +2053,8 @@ https://slave7.iplayers.co/drive//hls/0d32a76161336ed3a40a4a556f6b9f6b.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP.5
 https://p2p_sv1.dufree4k.net/hls/b1a8154a2adf12732d0444a588285ede/b1a8154a2adf12732d0444a588285ede.playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP.6
+https://p2p_sv5.livedoomovie.com/hls/0cb1136edcb2ad36faf46b566e0b3590/0cb1136edcb2ad36faf46b566e0b3590.playlist.m3u8
 
 
 
@@ -2099,6 +2104,9 @@ https://p2p_sv3.livedoomovie.com/hls/b1fba09d70ab9e980b7e5a896b20ec99/b1fba09d70
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.5
 https://p2p_sv1.livedoomovie.com/hls/7d7aedfb667449ba3dbfba172fda3327/7d7aedfb667449ba3dbfba172fda3327.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.6
+https://p2p_sv3.livedoomovie.com/hls/afde050c87b5265cf97c7751f93e6a67/afde050c87b5265cf97c7751f93e6a67.playlist.m3u8
 
 
 
@@ -2251,9 +2259,12 @@ Starwar The-Mandalorian Season 1
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.1
 https://slave12.iplayers.co/drive//hls/1565ec28ca536f5818daa3a2c888e8d6.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.2
 https://slave4.iplayers.co/drive//hls/5ac8ba96e8383d1100b0bfc850d3d250.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.3
+https://slave4.iplayers.co/drive//hls/5ac8ba96e8383d1100b0bfc850d3d250.m3u8
+
 
 
 

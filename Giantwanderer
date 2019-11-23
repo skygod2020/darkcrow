@@ -729,6 +729,10 @@ MOVIES
 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Goldfinch-2019-170x250.png", The Goldfinch (2019) ซับไทย
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Cross-Rise-Of-The-Villains-2019-170x250.png", Cross Rise Of The Villains (2019)
+https://slave3.iplayers.co/drive//hls/9d77f48c862fa8827eb34df39e21a8cd.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Midsommar-2019-เทศกาลสยอง-hd-170x250.png",Midsommar (2019) เทศกาลสยอง ซับไทย
 https://slave12.iplayers.co/drive//hls/eddfba7a68a8bfc93c50800242828413.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Only-The-Cat-Knows-2019-เจ้าเหมียวจิบิ-หายไปไหนนะ-170x250.png",Only The Cat Knows (2019) เจ้าเหมียวจิบิ หายไปไหนนะ ซับไทย
@@ -791,6 +795,14 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Brian-Banks-2018-170x250.png", Brian Banks (2018) ซับไทย
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Next-Three-Days-2010-แผนอัจฉริยะ-แหกด่านหนีนรก-170x250.png", The Next Three Days แผนอัจฉริยะ แหกด่านหนีนรก
+https://slave9.iplayers.co/drive//hls/3cc3e30705495d3750ccbab1ce427174.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Tomorrowland-2015-ผจญแดนอนาคต-170x250.png", Tomorrowland (2015) ผจญแดนอนาคต
+https://slave4.iplayers.co/drive//hls/9e240bcbe31d80e285455e11b866ceba.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Snowden-2016-สโนว์เดน-อัจฉริยะจารกรรมเขย่ามหาอำนาจ-170x250.png", Snowden (2016) สโนว์เดน อัจฉริยะจารกรรม
+https://slave1.iplayers.co/drive//hls/a995d54922667b241783f7442d615dff.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Riddick-1-Pitch-Black-%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B4%E0%B8%84-1-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-170x250.png", ริดดิค 1 ฝูงค้างคาวฉลาม สยองจักรวาล
 https://slave4.iplayers.co/drive//hls/ddc7aa7df5edc876ebd4ccce025295ff.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Chronicles-of-Riddick-2004-ริดดิค-2-170x250.png", ริดดิค 2
@@ -893,10 +905,6 @@ https://slave3.iplayers.co/drive//hls/d847bd8d75b970f9f198ac14ca625211.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Frozen-2013-ผจญภัยแดนคำสาปราชินีหิมะ-170x250.png",Frozen (2013) ผจญภัยแดนคำสาปราชินีหิมะ
 https://slave13.iplayers.co/drive//hls/81151beee84c27be5f24bb984e618a4d.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.hd2liveplus.com/uploads/categories/categories_1530273446.jpg",Pacific Rim:Uprising 2018:แปซิฟิค ริม ปฏิวัติพลิกโลก
 http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Pacific.rim.uprising.2018.FullHD.TH.mp4/index.m3u8
@@ -1117,8 +1125,6 @@ https://glus-st.mthcdn.com/stream/video02/2018/04/16/1523867634/1523867634_720.m
 #EXTINF:-1 group-title="Movie"tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT33GrJj_0muoqph8n4xfHkJoXG41Bro40iSO5RsXGt5kADZJZAvA",kingsman2
 https://glus-st.mthcdn.com/stream/video02/2017/12/03/1512283514/1512283514_720.mp4
 
-
-
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-6-Fallout-2018-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-6-%E0%B8%9F%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B9%8C.png" ,MISSION IMPOSSIBLE 6 FALLOUT (2018) มิชชั่น อิมพอสซิเบิ้ล 6 ฟอลล์เอาท์
 https://slave5.iplayers.co/drive//hls/5d25e026507c4409777f475141613874/5d25e026507c4409777f475141613874.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-5-Rogue-Nation-2015-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-5-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%AD%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%87-5.png" ,MISSION IMPOSSIBLE 5 ROGUE NATION (2015) มิชชั่น อิมพอสซิเบิ้ล 5 ปฏิบัติการรัฐอำพราง
@@ -1131,6 +1137,8 @@ https://slave5.iplayers.co/drive//hls/1434f1695ee25e3fc11138f2ba73a872/1434f1695
 https://slave4.iplayers.co/drive//hls/dc20b180a1afa5808d134f80cb21fcec/dc20b180a1afa5808d134f80cb21fcec.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/07/Mission-Impossible-1-1996-%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%AD%E0%B8%AA%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B9%89%E0%B8%A5-1.png" ,MISSION IMPOSSIBLE 1 มิชชั่น อิมพอสซิเบิ้ล 1
 https://slave5.iplayers.co/drive//hls/cb254f71fa2f2caf1f9c24ce45090be7/cb254f71fa2f2caf1f9c24ce45090be7.m3u8
+
+
 
 
 MOVIE THAI
@@ -1780,6 +1788,10 @@ https://load-cdn-2.anime-live.com/drive//hls/98f42e31ab8900a43bee9f87c6855f97/98
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep14
 https://slave13.iplayers.co/drive//hls/4fae4a0d40250894cd89e7e8108537b2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Vagabond-2019-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%81.png" group-title="SERIES",VAGABOND (2019) ep15
+
+
+
 
 
 My County:The New Age
@@ -1858,6 +1870,7 @@ https://load-cdn-2.anime-live.com/drive/hls/f1bc4fbf8b3e30fa7fb4f8d94b4f23d4/f1b
 
 catch the ghost
 
+
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.1
 https://load-cdn-2.anime-live.com/drive//hls/84c3d8ddfb46532577a03b72c653e6cc/84c3d8ddfb46532577a03b72c653e6cc.m3u8
 
@@ -1887,6 +1900,8 @@ https://load-cdn-2.anime-live.com/drive/hls/590b4b46569c4dbe77edb6e01aff50a5/590
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.10
 https://load-cdn-3.anime-live.com/drive/hls/7f701fd8de59a60c445f6a35b983c390/7f701fd8de59a60c445f6a35b983c390.m3u8
+
+
 
 
 Hotel Del Luna
@@ -1991,6 +2006,7 @@ https://p2p_sv3.dufree4k.net/hls/4d140a1a1c170b191c8a4a3a8cdb95a7/4d140a1a1c170b
 
 
 Watchmen
+
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.1
 https://slave9.iplayers.co/drive//hls/bba11edfbe64f8bd8d547b5061851cbb.m3u8
@@ -2263,7 +2279,7 @@ https://slave12.iplayers.co/drive//hls/1565ec28ca536f5818daa3a2c888e8d6.m3u8
 https://slave4.iplayers.co/drive//hls/5ac8ba96e8383d1100b0bfc850d3d250.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.3
-https://slave4.iplayers.co/drive//hls/5ac8ba96e8383d1100b0bfc850d3d250.m3u8
+
 
 
 

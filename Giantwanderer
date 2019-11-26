@@ -729,6 +729,14 @@ MOVIES
 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-1-1982-แรมโบ้-1-170x250.png", แรมโบ้ 1
+https://slave12.iplayers.co/drive//hls/857f9324fbe42809a8749938c29499df.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-2-1985-แรมโบ้-2-170x250.png", แรมโบ้ 2
+https://slave7.iplayers.co/drive//hls/c92d61b344cc980537df7f1fb703328b.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-3-1988-แรมโบ้-3-170x250.png", แรมโบ้ 3
+https://slave9.iplayers.co/drive//hls/9793a8555ae4215afa2321f7db54952c.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-4-2008-แรมโบ้-4-170x250.png", แรมโบ้ 4
+https://slave12.iplayers.co/drive//hls/b04155ba0613279fd615b5ede61099fe.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-5-Last-Blood-2019-แรมโบ้-5-นักรบคนสุดท้าย-170x250.png", Rambo 5 Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย
 https://slave7.iplayers.co/drive//hls/f9b935925a94f7726406e572ed1027cc.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Overcomer-2019-ซับไทย-170x250.png", Overcomer (2019) ซับไทย

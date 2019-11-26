@@ -1882,6 +1882,10 @@ https://load-cdn-2.anime-live.com/drive/hls/f1bc4fbf8b3e30fa7fb4f8d94b4f23d4/f1b
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep13
 https://stream-cdn-m.anime-live.com/drive/hls/57fd2b7939c6a8dba87ed44df2879e19/57fd2b7939c6a8dba87ed44df2879e19.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep14
+https://load-cdn-2.anime-live.com/drive/hls/cbc427e5adfdd700c57f6b87d57df154/cbc427e5adfdd700c57f6b87d57df154.m3u8
+
+
 
 
 catch the ghost
@@ -1953,8 +1957,11 @@ https://load-cdn-2.anime-live.com/drive/hls/9e264e4c1dec1f7aa06f3c040ad824f5/9e2
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.10
 https://stream-cdn-m.anime-live.com/drive/hls/5eeae6010cba8dbe5b44edbd1051b26e/5eeae6010cba8dbe5b44edbd1051b26e.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.11
+https://load-cdn-4.anime-live.com/drive/hls/e2f644aaef256c92c05e5b7db60f3ad2/e2f644aaef256c92c05e5b7db60f3ad2.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.12
+https://stream-cdn-m.anime-live.com/drive/hls/df4917542f272cf2c3af456a72dec6be/df4917542f272cf2c3af456a72dec6be.m3u8
 
 
 The Tale of Nokdu (2019)

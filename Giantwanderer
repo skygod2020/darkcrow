@@ -803,8 +803,16 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
+
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Alice-in-Wonderland-2010-อลิซ-ในแดนมหัศจรรย์-hd-170x250.png", Alice in Wonderland (2010) อลิซ ในแดนมหัศจรรย์
-https://slave1.iplayers.co/drive//hls/a24bdf94e270fb7bce4e22c46f59e6d3.m3u8
+https://slave1.iplayers.co/drive//hls/808c0ee60f35fb35df48851509f8ef70.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Alice-Through-the-Looking-Glass-2016-อลิซ-ผจญมหัศจรรย์เมืองกระจก-170x250.png", Alice Through the Looking Glass (2016) อลิซ ผจญมหัศจรรย์เมืองกระจก
+https://slave7.iplayers.co/drive//hls/e45d2a4352d0ffa4a430d5d9bbc761c9.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Allied-2016-สายลับพันธมิตร-170x250.png", Allied (2016) สายลับพันธมิตร
+https://slave8.iplayers.co/drive//hls/2246041e612a17e580e5915889fd1bc6.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Looper-2012-ทะลุเวลา-อึดล่าอึด-170x250.png", Looper (2012) ทะลุเวลา อึดล่าอึด
+https://slave13.iplayers.co/drive//hls/616b3cdded352c40b28e634bf5978392.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/American-Ultra-2015-พยัคฆ์ร้ายสายซี๊ดดดด-170x250.png", พยัคฆ์ร้ายสายซี๊ดดดด (2015)
 https://slave13.iplayers.co/drive//hls/cbada08eda543ac8a55fc4dd1a64a132.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Death-Wish-2018-นักฆ่าโคตรอึด-170x250.png", Death Wish (2018) นักฆ่าโคตรอึด

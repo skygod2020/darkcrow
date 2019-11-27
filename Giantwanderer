@@ -1498,6 +1498,12 @@ https://edge-ns1.leoplayer1.com/hls/314a3c2ab705c15da7262fabbde401f4/314a3c2ab70
 https://edge-ns1.leoplayer1.com/hls/6f105e79114c15c77e49b1a65b880553/6f105e79114c15c77e49b1a65b880553.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/The-Dark-Crystal-Age-of-Resistance-Series-2019-Netflix-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B1%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2.jpg" group-title="SERIES",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP10
 https://edge-ns1.leoplayer1.com/hls/6689ac687814a5220b886c7243151d63/6689ac687814a5220b886c7243151d63.playlist.m3u8
+
+
+
+Carnival row
+
+
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP1
 https://edge-ns2.leoplayer1.com/hls/b91a5cce09689fd2abb5f275fea56de3/b91a5cce09689fd2abb5f275fea56de3.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP2
@@ -1514,6 +1520,51 @@ https://edge-ns2.leoplayer1.com/hls/f9b10d25deca049b6a64259e97a4eb66/f9b10d25dec
 https://edge-ns2.leoplayer1.com/hls/c005d2fbf4ff0385730a81dd102d73ca/c005d2fbf4ff0385730a81dd102d73ca.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.xn--72czp5e5a8b.online/wp-content/uploads/2019/09/Carnival-Row-Season-1.jpg" group-title="SERIES", CARNIVAL ROW SEASON 1 (2019) EP8
 https://edge-ns1.leoplayer1.com/hls/fe34ce61548d8897cdfbc52eb4cd2351/fe34ce61548d8897cdfbc52eb4cd2351.playlist.m3u8
+
+
+
+Tom Clancys Jack Ryan : Season 01
+
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.1
+https://p2p_sv5.livedoomovie.com/hls/e63264d3d07f6a1a58254da463b200aa/e63264d3d07f6a1a58254da463b200aa.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.2
+https://p2p_sv3.livedoomovie.com/hls/b31a96977b0b337822ae0950426c81f8/b31a96977b0b337822ae0950426c81f8.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.3
+https://p2p_sv3.livedoomovie.com/hls/ca0ddee1afd7e8b3c0d48b9c9795b554/ca0ddee1afd7e8b3c0d48b9c9795b554.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.4
+https://p2p_sv1.livedoomovie.com/hls/662d8e97c2e54978f8ded61283316d65/662d8e97c2e54978f8ded61283316d65.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.5
+https://p2p_sv3.livedoomovie.com/hls/9db690f658acd2a05947ed1fced3646c/9db690f658acd2a05947ed1fced3646c.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.6
+https://p2p_sv1.livedoomovie.com/hls/175d1f49ec52d5b038177d2726b582cd/175d1f49ec52d5b038177d2726b582cd.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.7
+https://p2p_sv2.livedoomovie.com/hls/51304231510321bc60304552cec77822/51304231510321bc60304552cec77822.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/0/0ae27f03bf2accf92f4e7db70c748952.jpg" group-title="SERIES", Jack Ryan : Season 01 EP.8
+https://p2p_sv1.livedoomovie.com/hls/a396747dd6a7a7369984edf5af55aa6a/a396747dd6a7a7369984edf5af55aa6a.playlist.m3u8
+
+
+
+Tom Clancys Jack Ryan : Season 02
+
+
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.1
+https://p2p_sv3.livedoomovie.com/hls/e9c3e78377c4e2817cdd17c6dbfa63e0/e9c3e78377c4e2817cdd17c6dbfa63e0.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.2
+https://p2p_sv3.livedoomovie.com/hls/4ec53a79fce225435022da0850479a1c/4ec53a79fce225435022da0850479a1c.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.3
+https://p2p_sv3.livedoomovie.com/hls/1d8e93df950958a6aeca521f33bf2c80/1d8e93df950958a6aeca521f33bf2c80.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.4
+https://p2p_sv1.livedoomovie.com/hls/be827cdb3087a3f3c897aba6baca29a5/be827cdb3087a3f3c897aba6baca29a5.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.5
+https://p2p_sv1.livedoomovie.com/hls/e188a0dbdb1f219dfc1a76322ec41e05/e188a0dbdb1f219dfc1a76322ec41e05.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.6
+https://p2p_sv3.livedoomovie.com/hls/9bc45a930d14e45a8bb252e4af53353a/9bc45a930d14e45a8bb252e4af53353a.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.7
+https://p2p_sv3.livedoomovie.com/hls/5b20ccb2f8566f5a799d20ccc019e7e3/5b20ccb2f8566f5a799d20ccc019e7e3.playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/f/f7386c0ebf45fc12f10c0a3c83898c00.jpg" group-title="SERIES", Jack Ryan : Season 02 EP.8
+https://p2p_sv5.livedoomovie.com/hls/ba4519020aa27e58d72df39655ecdafa/ba4519020aa27e58d72df39655ecdafa.playlist.m3u8
 
 
 
@@ -1661,7 +1712,7 @@ Strangers From Hell
 https://stream-cdn-m.anime-live.com/drive//hls/f4f82850783e54e0f82bc3846c712609/f4f82850783e54e0f82bc3846c712609.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep2
-https://sv4.7series.co/02NEW/01K/09Sep62/StrangersFromHellEP02.mp4
+https://load-cdn-6.anime-live.com/drive//hls/940ef882f91a9f21ee3e64fb8867efc3/940ef882f91a9f21ee3e64fb8867efc3.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep3

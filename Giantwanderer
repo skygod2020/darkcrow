@@ -729,6 +729,10 @@ MOVIES
 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Super-Monsters-Save-Christmas-2019-อสูรน้อยวัยป่วนพิทักษ์คริสต์มาส-170x250.png", Super Monsters Save Christmas (2019) อสูรน้อยวัยป่วนพิทักษ์คริสต์มาส
+https://slave10.iplayers.co/drive//hls/2fa58b4b445ebece4bc247f044a0f547.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Knight-Before-Christmas-2019-อัศวินก่อนวันคริสต์มาส-170x250.png", The Knight Before Christmas (2019) อัศวินก่อนวันคริสต์มาส [ซับไทย]
+https://slave3.iplayers.co/drive//hls/a486f0740ebb43af920f6ab0223befd7.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-1-1982-แรมโบ้-1-170x250.png", แรมโบ้ 1
 https://slave12.iplayers.co/drive//hls/857f9324fbe42809a8749938c29499df.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-2-1985-แรมโบ้-2-170x250.png", แรมโบ้ 2
@@ -743,8 +747,6 @@ https://slave7.iplayers.co/drive//hls/f9b935925a94f7726406e572ed1027cc.m3u8
 https://slave5.iplayers.co/drive//hls/8a3c566c1bd8660beac1e8cd1c5dafcb.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Once-Upon-a-Time-in-Hollywood-2019-กาลครั้งหนึ่งในฮอลลีวู้ด-170x250.png", Once Upon a Time in Hollywood (2019) กาลครั้งหนึ่งในฮอลลีวู้ด [ซับไทย]
 https://slave10.iplayers.co/drive//hls/ded87673e56cdae3b4f0bffdb4eff09f.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Knight-Before-Christmas-2019-อัศวินก่อนวันคริสต์มาส-170x250.png", The Knight Before Christmas (2019) อัศวินก่อนวันคริสต์มาส [ซับไทย]
-https://slave3.iplayers.co/drive//hls/a486f0740ebb43af920f6ab0223befd7.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Goldfinch-2019-170x250.png", The Goldfinch (2019) ซับไทย
 https://p2p_sv1.livedoomovie.com/hls/b13bb997b90a598200806bcdf129d663/b13bb997b90a598200806bcdf129d663.playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Cross-Rise-Of-The-Villains-2019-170x250.png", Cross Rise Of The Villains (2019)
@@ -811,8 +813,14 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
-
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ballerina-2016-บัลเลริน่า-สาวน้อยเขย่งฝัน-170x250.png",บัลเลริน่าสาวน้อยเขย่งฝัน
+https://slave12.iplayers.co/drive//hls/266a7bdba6352c1caaca32e97a23fe80.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Into-The-Storm-2014-โคตรพายุมหาวิบัติกินเมือง-170x250.png", Into The Storm (2014) โคตรพายุมหาวิบัติกินเมือง
+https://slave3.iplayers.co/drive//hls/0e6abd8fd1e04ec04439aa5c29bd5b9d.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Jack-Ryan-Shadow-Recruit-2014-แจ็ค-ไรอัน-สายลับไร้เงา-170x250.png",  แจ็ค ไรอัน สายลับไร้เงา (2014)
+https://slave8.iplayers.co/drive//hls/cedd62daebeff613e0327a6c59217996.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Central-Intelligence-2016-คู่สืบ-คู่แสบ-170x250.png", Central Intelligence (2016) คู่สืบ คู่แสบ
+https://slave13.iplayers.co/drive//hls/7ef13ec4561b772338524c2ca2ac458f.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Alice-in-Wonderland-2010-อลิซ-ในแดนมหัศจรรย์-hd-170x250.png", Alice in Wonderland (2010) อลิซ ในแดนมหัศจรรย์
 https://slave1.iplayers.co/drive//hls/808c0ee60f35fb35df48851509f8ef70.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Alice-Through-the-Looking-Glass-2016-อลิซ-ผจญมหัศจรรย์เมืองกระจก-170x250.png", Alice Through the Looking Glass (2016) อลิซ ผจญมหัศจรรย์เมืองกระจก

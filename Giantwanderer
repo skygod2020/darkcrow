@@ -50,69 +50,82 @@ https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1
-https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
+https://livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1 Backup 1
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1 Backup 2
 https://tvrealtime.com/live/BEIN1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2 
-https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+https://livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2 Backup 1
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2 Backup 2
 https://tvrealtime.com/live/BEIN2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title=" Thailand Channels", PremierHD3
-https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
+https://livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title=" Thailand Channels", PremierHD3 Backup 1
 http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title=" Thailand Channels", PremierHD3 Backup 2
 https://tvrealtime.com/live/BEIN3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title=" Thailand Channels", PremierHD4
-https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
+https://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title=" Thailand Channels", PremierHD4 Backup 1
 http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title=" Thailand Channels", PremierHD4 Backup 2
 https://tvrealtime.com/live/BEIN4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title=" Thailand Channels", PremierHD5
-https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
+https://livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title=" Thailand Channels", PremierHD5 Backup 1
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title=" Thailand Channels", PremierHD5 Backup 2
 https://tvrealtime.com/live/BEIN5/chunks.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxsport1.png"  group-title=" Thailand Channels", Fox Sport1
-https://live.dufree4k.net/02_foxsport_720p/chunklist.m3u8
+https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title=" Thailand Channels", Fox Sport2
-https://live.dufree4k.net/02_FoxSport2_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title=" Thailand Channels", Fox Sport3
-https://live.dufree4k.net/02_FoxSport3_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title=" Thailand Channels", SkynetsportHD
-https://live.dufree4k.net/03_skynetsporthd_720p/chunklist.m3u8
+https://livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title=" Thailand Channels", Skynetsport1
-https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
+https://livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png"  group-title=" Thailand Channels", Skynetsport2
-https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
+https://livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png"  group-title=" Thailand Channels", Skynetsport3
-https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
+https://livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title=" Thailand Channels", Skynetsport4
-https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
+https://livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title=" Thailand Channels", Skynetsport5
-https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
+https://livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title=" Thailand Channels", Skynetsport6
-https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
+https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title=" Thailand Channels", Bein1
-https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
+https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title=" Thailand Channels", Bein2
-https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title=" Thailand Channels", BEIN SPORTS 1 Arab HD
+https://vip.we-play.tv/live/bein1inter/playlist.m3u8
+EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title=" Thailand Channels", BEIN SPORTS 2 Arab HD
+https://vip.we-play.tv/live/bein2inter/playlist.m3u8
+EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title=" Thailand Channels", BEIN SPORTS 3 Arab HD
+https://vip.we-play.tv/live/bein3inter/playlist.m3u8
+EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title=" Thailand Channels", BEIN SPORTS 4 Arab 
+https://vip.we-play.tv/live/bein4inter/playlist.m3u8
+EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein5.jpg" group-title=" Thailand Channels", BEIN SPORTS 5 Arab 
+https://vip.we-play.tv/live/bein5inter/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title=" Thailand Channels",  True Sport HD1
-https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
+https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title=" Thailand Channels", True Sport HD2
-https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
+https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title=" Thailand Channels", True Sport HD3
 https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title=" Thailand Channels", True Sport HD4
-https://live.dufree4k.net/02_2sporthd4_720p/chunklist.m3u8
+https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title=" Thailand Channels",Truesport 2
-https://live.dufree4k.net/02_sport2_480p/chunklist.m3u8
+https://livedoomovie.com/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title=" Thailand Channels",Truesport 5
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title=" Thailand Channels",Truesport 6
@@ -120,17 +133,17 @@ http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title=" Thailand Channels",Truesport 7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RBWC2019.jpg" group-title=" Thailand Channels",RUGBY
-https://live.dufree4k.net/RugbyWorldCup/chunklist.m3u8
+https://livedoomovie.com/RugbyWorldCup/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.gif" group-title=" Thailand Channels",NFL
-https://live.dufree4k.net/02_NFLNetwork_720p/chunklist.m3u8
+https://livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title=" Thailand Channels",Tennis
-https://live.dufree4k.net/02_TennisHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title=" Thailand Channels",Tennis Backup
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title=" Thailand Channels",NBA TV
-https://live.dufree4k.net/02_nbahd_720p/chunklist.m3u8
+https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/golf.png" group-title=" Thailand Channels",Golf channel
-https://live.dufree4k.net/02_golfhd_720p/chunklist.m3u8
+https://livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6RKisov.png" group-title=" Thailand Channels", FIGHT SPORTS
 http://210.210.155.35/session/ff497da2-e836-11e9-9eca-b9f8b17817da/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/kix.png" group-title=" Thailand Channels",KIX
@@ -144,9 +157,9 @@ http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/j4AmdT/5012.png" group-title=" Thailand Channels",adsport4
 http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport1.jpg" group-title=" Thailand Channels",BTSPORTHD1
-https://live.dufree4k.net/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport2.jpg" group-title=" Thailand Channels",BTSPORTHD2
-https://live.dufree4k.net/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title=" Thailand Channels",BTSPORTHD3
 https://vip.we-play.tv/live/btsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title=" Thailand Channels",astrosport1hd
@@ -168,15 +181,15 @@ http://185.71.66.51:8000/Mauritania/Mauritania/55114
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2UJb01J.png" group-title=" Thailand Channels",ARENA SPORT 5
 http://185.71.66.51:8000/Mauritania/Mauritania/55113
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title=" Thailand Channels",SPORTTV1
-https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
+https://livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title=" Thailand Channels",SPORTTV2
-https://live.dufree4k.net/02_SPORTTV_2_720p/chunklist.m3u8
+https://livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv3.jpg"  group-title=" Thailand Channels",SPORTTV3
-https://live.dufree4k.net/02_SPORTTV_3_720p/chunklist.m3u8
+https://livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv4.jpg" group-title=" Thailand Channels",SPORTTV4
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-sporttv5.jpg" group-title=" Thailand Channels",SPORTTV5
-https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
+https://livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mutv.jpg" group-title=" Thailand Channels",MUTV
 https://vip.we-play.tv/live/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title=" Thailand Channels",LFCTV
@@ -215,55 +228,55 @@ https://vip.we-play.tv/live/blue-ent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/rtl_extreme.png" group-title=" Thailand Channels",BLUEANT EXTREME
 https://vip.we-play.tv/live/blue-ext/playlist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title=" Thailand Channels", HBO HD
-https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title=" Thailand Channels", HBO Hit
-https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
+https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbosig.png" group-title=" Thailand Channels", HBOSignature
-https://live.dufree4k.net/02_HBOSignature_720p/chunklist.m3u8
+https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbofam.png"  group-title=" Thailand Channels",HBO FAMILY
-https://live.dufree4k.net/02_HBOFamily_720p/chunklist.m3u8
+https://livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg"  group-title=" Thailand Channels",PARAMOUNT CHANNEL
 https://vip.we-play.tv/live/paramount/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title=" Thailand Channels", CINEMAX
 https://vip.we-play.tv/live/cinemax/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxactionmovie.png" group-title=" Thailand Channels", FoxActionHD_TH
-https://live.dufree4k.net/02_FoxActionHD_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxactionmovie.png" group-title=" Thailand Channels", FoxActionHD
-https://live.dufree4k.net/02_FoxActionHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxp-thai.png" group-title=" Thailand Channels", FoxMovies_TH
-https://live.dufree4k.net/02_FoxMoviesTH_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxp-thai.png" group-title=" Thailand Channels", FoxMovies
-https://live.dufree4k.net/02_FoxMoviesHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title=" Thailand Channels", FoxFamilyHD_TH
-https://live.dufree4k.net/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title=" Thailand Channels", FoxFamilyHD
-https://live.dufree4k.net/02_FoxFamilyHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title=" Thailand Channels", FoxThai_TH
-https://live.dufree4k.net/02_FoxThai_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title=" Thailand Channels", FoxThai
-https://live.dufree4k.net/02_FoxThai_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxcrime.png" group-title=" Thailand Channels", FoxCrimeHD_TH
-https://live.dufree4k.net/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxcrime.png" group-title=" Thailand Channels", FoxCrimeHD
-https://live.dufree4k.net/02_FoxCrimeHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/fox-life.jpg"  group-title=" Thailand Channels",  FOXlife HD TH
 http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/red.png" group-title=" Thailand Channels", RedbyHBO
-https://live.dufree4k.net/02_RedbyHBO_720p/chunklist.m3u8
+https://livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/axn.png" group-title=" Thailand Channels", AXN HD
-https://live.dufree4k.net/02_AXNHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/warner.png" group-title=" Thailand Channels", WarnerTV HD
-https://vip.we-play.tv/live/warner/playlist.m3u8
+https://livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/fxhd.png" group-title=" Thailand Channels", FXThailand
-https://live.dufree4k.net/02_FXThailand_720p/chunklist.m3u8
+https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg" group-title=" Thailand Channels", True Film Asia
 https://vip.we-play.tv/live/truefilmasia/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title=" Thailand Channels", True Asian Series HD
 https://vip.we-play.tv/live/trueasianhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title=" Thailand Channels", TrueFilmHD1
-https://vip.we-play.tv/live/truefilmhd/playlist.m3u8
+https://livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg" group-title=" Thailand Channels", TrueFilmHD2
-https://vip.we-play.tv/live/truefilmhd2/playlist.m3u8
+https://livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9AVj65.jpg"  group-title=" Thailand Channels",Series
 http://bit.ly/2lYo7nW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KEbokdx.jpg"  group-title=" Thailand Channels",M Channel
@@ -281,16 +294,16 @@ https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190218201201images.jpg" group-title=" Thailand Channels",Cool Channel
 http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thrill.png" group-title=" Thailand Channels",Thrill
-https://live.dufree4k.net/02_Thrill_720p/chunklist.m3u8
+https://livedoomovie.com/02_Thrill_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201804041103021708743536.jpg"group-title=" Thailand Channels",CCM
-https://live.dufree4k.net/02_CCM_720p/chunklist.m3u8
+https://livedoomovie.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg" group-title=" Thailand Channels",CTB 
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.jpg" group-title=" Thailand Channels",JKN
-https://live.dufree4k.net/02_JKN_480p/chunklist.m3u8
+https://livedoomovie.com/02_JKN_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg" group-title=" Thailand Channels",Zeenang
-https://live.dufree4k.net/02_Zee_Nung_720p/chunklist.m3u8
+https://livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeClassic.png" group-title=" Thailand Channels",ZEE Bollywood
 https://www.livedoomovie.com/02_Zee_Classic_720p/chunklist.m3u8
@@ -327,38 +340,38 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title=" Thailand Channels",  Star China TH
 https://www.livedoomovie.com/02_SCM_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0168.png"group-title=" Thailand Channels", NHANG_DUNK
-https://live.dufree4k.net/02_NHANG_DUNK_720p/chunklist.m3u8
+https://livedoomovie.com/02_NHANG_DUNK_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title=" Thailand Channels", MANGORN
-https://live.dufree4k.net/02_MANGORN_720p/chunklist.m3u8
+https://livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
 #EXTINF:0 group-title=" Thailand Channels", Comedy
 https://www.livedoomovie.com/02_Comedy_HD_720p/chunklist.m3u8
 
 
 
 #EXTINF:0 group-title=" Thailand Channels", HISTORY HD
-https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:0 group-title=" Thailand Channels", H2 HD
-https://live.dufree4k.net/02_H2HD_720p/chunklist.m3u8
+https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title=" Thailand Channels", DiscoveryChannel
-https://live.dufree4k.net/02_DiscoveryChannel/chunklist.m3u8
+https://livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg" group-title=" Thailand Channels", Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg" group-title=" Thailand Channels", DiscoveryScience
 https://www.livedoomovie.com/02_DiscoveryScience/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD_TH
-https://live.dufree4k.net/02_NatGeoHD_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD
-https://live.dufree4k.net/02_NatGeoHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_NatGeoHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild_TH
-https://live.dufree4k.net/02_NatGeoWild_TH_720p/chunklist.m3u8
+https://livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natwild.png" group-title=" Thailand Channels", NatGeoWild
-https://live.dufree4k.net/02_NatGeoWild_720p/chunklist.m3u8
+https://livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natpeople.png" group-title=" Thailand Channels", NatPeople
-https://live.dufree4k.net/02_NatPeopleHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/animalplanet.png" group-title=" Thailand Channels", AnimalPlanet
-https://live.dufree4k.net/02_AnimalPlanet/chunklist.m3u8
+https://livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg" group-title=" Thailand Channels", สำรวจโลก
-https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
+https://livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg" group-title=" Thailand Channels", MYSCIHD
 https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title=" Thailand Channels", OUTDOOR CHANNEL
@@ -385,7 +398,7 @@ https://vip.we-play.tv/live/sparkjump/playlist.m3u8
 #EXTINF:0 group-title=" Thailand Channels", CartoonNetwork
 https://vip.we-play.tv/live/cnhd/playlist.m3u8
 #EXTINF:-1 group-title=" Thailand Channels",BOOMERANG
-https://live.dufree4k.net/02_Boomerang_720p/chunklist.m3u8
+https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg" group-title=" Thailand Channels",GANG CRRTOON
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title=" Thailand Channels",ANIPLUS
@@ -401,15 +414,15 @@ https://www.livedoomovie.com/02_Nick_Jr_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/disneych.jpg" group-title=" Thailand Channels",DISNEY CHANNEL
 https://vip.we-play.tv/live/disneych/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/disneyxd.png" group-title=" Thailand Channels", DisneyXD
-https://live.dufree4k.net/02_DisneyXD_720p/chunklist.m3u8
+https://livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15PDypUsJbQf-RYabsF_7U4oUrtx458QIKX9_Fa7oeuMD_QAwoId71g" group-title=" Thailand Channels",Disney Junior
 https://vip.we-play.tv/live/disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v9cusKB.jpg" group-title=" Thailand Channels",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0126.png"group-title=" Thailand Channels", Baby_TV_HD
-https://live.dufree4k.net/02_Baby_TV_HD_720p/chunklist.m3u8
+https://livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png"group-title=" Thailand Channels", Miao_Mi
-https://live.dufree4k.net/02_Miao_Mi_720p/chunklist.m3u8
+https://livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vIQR1Fv.png"group-title=" Thailand Channels",POP Kids
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
@@ -419,7 +432,7 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fKQID35.jpg"   group-title="MUSIC",SABAIDEE TV 
 http://bit.ly/2mAZ9ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/sd-fantv.jpg" group-title="MUSIC",FANTV
-https://live.dufree4k.net/02_FANMUSICHD_720p/chunklist.m3u8
+https://livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Wish_Channel.png" group-title="MUSIC",Wish_Channel
 https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg" group-title="MUSIC",TRUE MUSIC HD

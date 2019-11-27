@@ -256,10 +256,14 @@ https://live.dufree4k.net/02_AXNHD_720p/chunklist.m3u8
 https://vip.we-play.tv/live/warner/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/fxhd.png" group-title=" Thailand Channels", FXThailand
 https://live.dufree4k.net/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg" group-title=" Thailand Channels", True Film Asia
+https://vip.we-play.tv/live/truefilmasia/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title=" Thailand Channels", True Asian Series HD
+https://vip.we-play.tv/live/trueasianhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title=" Thailand Channels", TrueFilmHD1
-https://live.dufree4k.net/02_TrueFilmHD1_720p/chunklist.m3u8
+https://vip.we-play.tv/live/truefilmhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg" group-title=" Thailand Channels", TrueFilmHD2
-https://live.dufree4k.net/02_TrueFilmHD2_720p/chunklist.m3u8
+https://vip.we-play.tv/live/truefilmhd2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9AVj65.jpg"  group-title=" Thailand Channels",Series
 http://bit.ly/2lYo7nW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KEbokdx.jpg"  group-title=" Thailand Channels",M Channel

@@ -104,17 +104,16 @@ https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title=" Thailand Channels", Bein2
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
-EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title=" Thailand Channels", BEIN SPORTS 1 Arab HD
-https://vip.we-play.tv/live/bein1inter/playlist.m3u8
-EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title=" Thailand Channels", BEIN SPORTS 2 Arab HD
-https://vip.we-play.tv/live/bein2inter/playlist.m3u8
-EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title=" Thailand Channels", BEIN SPORTS 3 Arab HD
-https://vip.we-play.tv/live/bein3inter/playlist.m3u8
-EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title=" Thailand Channels", BEIN SPORTS 4 Arab 
-https://vip.we-play.tv/live/bein4inter/playlist.m3u8
-EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein5.jpg" group-title=" Thailand Channels", BEIN SPORTS 5 Arab 
-https://vip.we-play.tv/live/bein5inter/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title=" Thailand Channels", BEIN SPORTS 1 Arab HD
+http://s.igiptv.com:8000/live/Hisham/hisham123/29.m3u8
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title=" Thailand Channels", BEIN SPORTS 2 Arab HD
+http://s.igiptv.com:8000/live/Hisham/hisham123/30.m3u
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title=" Thailand Channels", BEIN SPORTS 3 Arab HD
+http://s.igiptv.com:8000/live/Hisham/hisham123/31.m3u
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title=" Thailand Channels", BEIN SPORTS 4 Arab 
+http://s.igiptv.com:8000/live/Hisham/hisham123/32.m3u
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein5.jpg" group-title=" Thailand Channels", BEIN SPORTS 5 Arab 
+http://s.igiptv.com:8000/live/Hisham/hisham123/33.m3u
 
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title=" Thailand Channels",  True Sport HD1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -140,6 +139,8 @@ https://livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
 https://livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title=" Thailand Channels",Tennis Backup
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjA2MzY1NDA0MzA4ODE2/tennis-channel-logojpg.jpg" group-title=" Thailand Channels",|USA| Tennis Channel HD
+http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1734
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title=" Thailand Channels",NBA TV
 https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/golf.png" group-title=" Thailand Channels",Golf channel
@@ -745,7 +746,12 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ready-or-Not-2019-เกมพร้อมตาย-170x250.png", Ready or Not (2019) เกมพร้อมตาย [ซับไทย] 
+https://slave7.iplayers.co/drive//hls/e5f6bd7e0e70ded766733eaa967eab2e.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Art-of-Racing-in-the-Rain-2019-อุ่นไอหัวใจตูบ-170x250.png",The Art of Racing in the Rain (2019) อุ่นไอหัวใจตูบ
+https://slave4.iplayers.co/drive//hls/2a0cd630c7e413cd06a7b9c440aa006b.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Irishman-2019-คนใหญ่ไอริช-170x250.png", The Irishman (2019) คนใหญ่ไอริช
+https://slave9.iplayers.co/drive//hls/fc3f6b8b0e1ec2bcbcefcb6ff507c2f9.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Super-Monsters-Save-Christmas-2019-อสูรน้อยวัยป่วนพิทักษ์คริสต์มาส-170x250.png", Super Monsters Save Christmas (2019) อสูรน้อยวัยป่วนพิทักษ์คริสต์มาส
 https://slave10.iplayers.co/drive//hls/2fa58b4b445ebece4bc247f044a0f547.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Knight-Before-Christmas-2019-อัศวินก่อนวันคริสต์มาส-170x250.png", The Knight Before Christmas (2019) อัศวินก่อนวันคริสต์มาส [ซับไทย]
@@ -830,6 +836,8 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/A-Simple-Favor-2018-เพื่อนหาย-170x250.png",A Simple Favor (2018) เพื่อนหาย อย่าหา
+https://slave7.iplayers.co/drive//hls/9aaee25658b9eaa7a88dcda4e331a5f7.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ballerina-2016-บัลเลริน่า-สาวน้อยเขย่งฝัน-170x250.png",บัลเลริน่าสาวน้อยเขย่งฝัน
 https://slave12.iplayers.co/drive//hls/266a7bdba6352c1caaca32e97a23fe80.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Into-The-Storm-2014-โคตรพายุมหาวิบัติกินเมือง-170x250.png", Into The Storm (2014) โคตรพายุมหาวิบัติกินเมือง
@@ -1444,8 +1452,8 @@ https://cdn4.cdn9x.com/74mp6n02/480p.m3u8
 Movie เกาหลี
 
 
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Juror-8-2019-8-คนพิพากษา-170x250.png", Juror 8 (2019) 8 คนพิพากษา [ซับไทย]
-
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Extreme-Job-2019-ภารกิจทอดไก่-ซุ่มจับเจ้าพ่อ-170x250.png", Extreme Job (2019) ภารกิจทอดไก่ ซุ่มจับเจ้าพ่อ [ซับไทย]
+https://slave12.iplayers.co/drive//hls/e91d5ad8cdbdf66cb086dc17ae13a3ef.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Another-Child-2019-170x250.png",Another Child (2019) ซับไทย
 https://slave10.iplayers.co/drive//hls/8d57fce793a1540080f692fe4b8fd0c7.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Money-2019-เพราะอยากรวย-จึงต้องฉวยทางลัด-170x250.png",เพราะอยากรวย จึงต้องฉวยทางลัด [ซับไทย]
@@ -2157,6 +2165,9 @@ https://load-cdn-3.anime-live.com/drive/hls/7f701fd8de59a60c445f6a35b983c390/7f7
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.11
 https://load-cdn-2.anime-live.com/drive/hls/68ffeb8edfe4df87230b87f6967fa862/68ffeb8edfe4df87230b87f6967fa862.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.12
+https://load-cdn-6.anime-live.com/drive/hls/3750981f9dd8e639ae295acf04185787/3750981f9dd8e639ae295acf04185787.m3u8
+
 
 
 Hotel Del Luna
@@ -2283,6 +2294,12 @@ https://load-cdn-6.anime-live.com/drive/hls/b5dc03e472d7d5a229f7f0ddfecc5b9d/b5d
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.4
 https://stream-cdn-m.anime-live.com/drive/hls/da0a7b84e8d624e23fa0cec3974c6cfb/da0a7b84e8d624e23fa0cec3974c6cfb.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.5
+https://load-cdn-4.anime-live.com/drive/hls/8a596fc7de105367fad770bbd43ab19d/8a596fc7de105367fad770bbd43ab19d.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.6
+https://load-cdn-6.anime-live.com/drive/hls/c43cbc818c993ef49dfaa7201646799f/c43cbc818c993ef49dfaa7201646799f.m3u8
 
 
 
@@ -2483,6 +2500,8 @@ https://p2p_sv3.dufree4k.net/hls/0b58ef21434ebfa5e2f7a8e9267f7ffc/0b58ef21434ebf
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 9
 https://p2p_sv3.dufree4k.net/hls/1814eca44224fff4787d52d9ccbb2615/1814eca44224fff4787d52d9ccbb2615.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 10
+https://ota.cdnwatch.com/data10/27-11-2019/SapaiTKO-Disc6-27-Nov-2019_HD.mp4/index.m3u8
 
 
 

@@ -748,6 +748,9 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Farewell-Song-2019-เพลงรักเราสามคน-170x250.png", Farewell Song (2019) เพลงรักเราสามคน
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ready-or-Not-2019-เกมพร้อมตาย-170x250.png", Ready or Not (2019) เกมพร้อมตาย [ซับไทย] 
 https://slave7.iplayers.co/drive//hls/e5f6bd7e0e70ded766733eaa967eab2e.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Art-of-Racing-in-the-Rain-2019-อุ่นไอหัวใจตูบ-170x250.png",The Art of Racing in the Rain (2019) อุ่นไอหัวใจตูบ
@@ -2378,6 +2381,8 @@ https://p2p_sv1.dufree4k.net/hls/b1a8154a2adf12732d0444a588285ede/b1a8154a2adf12
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP.6
 https://p2p_sv5.livedoomovie.com/hls/0cb1136edcb2ad36faf46b566e0b3590/0cb1136edcb2ad36faf46b566e0b3590.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP.7
+https://slave7.iplayers.co/drive//hls/5b12b8f22bbf17c5e7c5a60657c3f530.m3u8
 
 
 

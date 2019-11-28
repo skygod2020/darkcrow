@@ -141,6 +141,8 @@ https://livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjA2MzY1NDA0MzA4ODE2/tennis-channel-logojpg.jpg" group-title=" Thailand Channels",|USA| Tennis Channel HD
 http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1734
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/smmtv.png" group-title=" Thailand Channels",SMM TV
+http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title=" Thailand Channels",NBA TV
 https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/golf.png" group-title=" Thailand Channels",Golf channel

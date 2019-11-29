@@ -841,9 +841,15 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Sleepless-2017-คืนเดือด-คนระห่ำ-170x250.png",Sleepless (2017) คืนเดือด คนระห่ำ
+https://slave8.iplayers.co/drive//hls/8cc5e7726b51d4cea46db5519fb0798e.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Mine-2016-ฝ่านรกแดนทะเลทราย-170x250.png",Mine (2016) ฝ่านรกแดนทะเลทราย [ซับไทย]
+https://slave12.iplayers.co/drive//hls/b3373456c9426feda9cad840f82435b4.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Point-Break-2015-ปล้นข้ามโคตร-170x250.png",Point Break (2015) ปล้นข้ามโคตร
+https://slave8.iplayers.co/drive//hls/24ab8e038766c266f7704bb28d0ade2d.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/A-Simple-Favor-2018-เพื่อนหาย-170x250.png",A Simple Favor (2018) เพื่อนหาย อย่าหา
 https://slave7.iplayers.co/drive//hls/9aaee25658b9eaa7a88dcda4e331a5f7.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ballerina-2016-บัลเลริน่า-สาวน้อยเขย่งฝัน-170x250.png",บัลเลริน่าสาวน้อยเขย่งฝัน
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ballerina-2016-บัลเลริน่า-สาวน้อยเขย่งฝัน-170x250.png",Ballerina (2016) บัลเลริน่า สาวน้อยเขย่งฝัน
 https://slave12.iplayers.co/drive//hls/266a7bdba6352c1caaca32e97a23fe80.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Into-The-Storm-2014-โคตรพายุมหาวิบัติกินเมือง-170x250.png", Into The Storm (2014) โคตรพายุมหาวิบัติกินเมือง
 https://slave3.iplayers.co/drive//hls/0e6abd8fd1e04ec04439aa5c29bd5b9d.m3u8

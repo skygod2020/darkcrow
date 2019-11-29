@@ -1459,6 +1459,8 @@ Movie เกาหลี
 
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Extreme-Job-2019-ภารกิจทอดไก่-ซุ่มจับเจ้าพ่อ-170x250.png", Extreme Job (2019) ภารกิจทอดไก่ ซุ่มจับเจ้าพ่อ [ซับไทย]
 https://slave12.iplayers.co/drive//hls/e91d5ad8cdbdf66cb086dc17ae13a3ef.m3u8
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/Juror-8-2019.jpg", Juror 8 (2019) แปดคนพิพากษา
+ https://edge-ns1.leoplayer1.com/drive//hls/f3f46b5cecb7c7c062465c00b8f8ad42/f3f46b5cecb7c7c062465c00b8f8ad42.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Another-Child-2019-170x250.png",Another Child (2019) ซับไทย
 https://slave10.iplayers.co/drive//hls/8d57fce793a1540080f692fe4b8fd0c7.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Money-2019-เพราะอยากรวย-จึงต้องฉวยทางลัด-170x250.png",เพราะอยากรวย จึงต้องฉวยทางลัด [ซับไทย]
@@ -2599,6 +2601,9 @@ https://slave5.iplayers.co/drive//hls/e2b2c43062d7b017e63d9490fa962280.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.3
 https://p2p_sv2.dufree4k.net/hls/2ac2a33cbe746531bf673af9bbc1c1a8/2ac2a33cbe746531bf673af9bbc1c1a8.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.3
+https://p2p_sv1.livedoomovie.com/hls/9e9fa6d18128f215b8116510f451b349/9e9fa6d18128f215b8116510f451b349.playlist.m3u8
 
 
 

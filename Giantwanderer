@@ -748,7 +748,8 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Report-2019-170x250.png", THE REPORT (2019) ซับไทย
+https://slave9.iplayers.co/drive//hls/d4c9c9e99d3868f82f5cb7625194f842.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Holiday-in-the-Wild-2019-ฉลองรักกับป่า-170x250.png", Holiday in the Wild (2019) ฉลองรักกับป่า
 https://slave1.iplayers.co/drive//hls/17639e13919fe1262a929c9264170c5d.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Holiday-Rush-2019-%E0%B8%AE%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%8A.png", Holiday Rush (2019) ฮอลิเดย์ รัช [ซับไทย]

@@ -182,15 +182,15 @@ https://live.we-play.tv/app/astro3/playlist.m3u8
 http://198.255.5.58:9981/stream/channelid/813529725?ticket=3C74E252214F77A024211400B28F00AD1A4597B0&profile=pass
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",astrosport4hd backup
 https://live.we-play.tv/app/astro4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO RIA
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_300.png" group-title=" Thailand Channels",ASTRO RIA
 http://198.255.5.58:9981/stream/channelid/1650442089?ticket=C508C71011C2BF215F5ED4ABC324E897E1C40420&profile=pass
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO Color
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" group-title=" Thailand Channels",ASTRO Color
 http://198.255.5.58:9981/stream/channelid/185332075?ticket=0644E749916747610A400399AAA60E2B34480115&profile=pass
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO WARNA
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title=" Thailand Channels",ASTRO WARNA
 http://198.255.5.58:9981/stream/channelid/546763327?ticket=1D3D982B97B3A1F1C099412A63368122E36B2A87&profile=pass
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO AEC
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title=" Thailand Channels",ASTRO AEC
 http://198.255.5.58:9981/stream/channelid/181897265?ticket=3ECCC62F9FA20D96180189585ADC698389CECC91&profile=pass
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO CITRA
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_300.png" group-title=" Thailand Channels",ASTRO CITRA
 http://198.255.5.58:9981/stream/channelid/1939886682?ticket=C552EF8ACA09B76FBB68CEE57F589949C49007AE&profile=pass
 
 

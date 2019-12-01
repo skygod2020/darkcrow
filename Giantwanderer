@@ -105,15 +105,15 @@ https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title=" Thailand Channels", BEIN SPORTS 1 Arab HD
-http://s.igiptv.com:8000/live/Hisham/hisham123/29.m3u8
+https://live.we-play.tv/app/bein1inter/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title=" Thailand Channels", BEIN SPORTS 2 Arab HD
-http://s.igiptv.com:8000/live/Hisham/hisham123/30.m3u8
+https://live.we-play.tv/app/bein2inter/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title=" Thailand Channels", BEIN SPORTS 3 Arab HD
-http://s.igiptv.com:8000/live/Hisham/hisham123/31.m3u8
+https://live.we-play.tv/app/bein3inter/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title=" Thailand Channels", BEIN SPORTS 4 Arab 
-http://s.igiptv.com:8000/live/Hisham/hisham123/32.m3u8
+https://live.we-play.tv/app/bein4inter/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein5.jpg" group-title=" Thailand Channels", BEIN SPORTS 5 Arab 
-http://s.igiptv.com:8000/live/Hisham/hisham123/33.m3u8
+https://live.we-play.tv/app/bein5inter/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title=" Thailand Channels",  True Sport HD1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -748,6 +748,10 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Atlantics-2019-แอตแลนติก-170x250.png", Atlantics (2019) แอตแลนติก [ซับไทย]
+https://slave7.iplayers.co/drive//hls/165e20fc5078ff4004b755c93256724e.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Abominable-2019-เอเวอเรสต์มนุษย์หิมะเพื่อนรัก-170x250.png", Abominable (2019) เอเวอเรสต์มนุษย์หิมะเพื่อนรัก
+https://slave9.iplayers.co/drive//hls/0e006c2c7c13281c17ea0222f50745cf.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Report-2019-170x250.png", THE REPORT (2019) ซับไทย
 https://slave9.iplayers.co/drive//hls/d4c9c9e99d3868f82f5cb7625194f842.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Holiday-in-the-Wild-2019-ฉลองรักกับป่า-170x250.png", Holiday in the Wild (2019) ฉลองรักกับป่า
@@ -846,6 +850,12 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Krampus-2015-แครมปัส-ปีศาจแสบป่วนวันหรรษา-170x250.png",Krampus (2015) แครมปัส ปีศาจแสบป่วนวันหรรษาำ
+https://slave11.iplayers.co/drive//hls/ece1688f5100239bc88440591a888908.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Earth-To-Echo-2014-เอคโค่-เพื่อนจักรกลทะลุจักรวา-170x250.png",Earth To Echo (2014) เอคโค่ เพื่อนจักรกลทะลุจักรวาล
+https://slave8.iplayers.co/drive//hls/8812f2d98325a741a636b6742b3cd4a7.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Space-Between-Us-2016-รักเราห่างแค่ดาวอังคาร-170x250.png",The Space Between Us (2016) รักเราห่างแค่ดาวอังคาร
+https://slave12.iplayers.co/drive//hls/7bb0c9763880e1271da786793f619169.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Sleepless-2017-คืนเดือด-คนระห่ำ-170x250.png",Sleepless (2017) คืนเดือด คนระห่ำ
 https://slave8.iplayers.co/drive//hls/8cc5e7726b51d4cea46db5519fb0798e.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Mine-2016-ฝ่านรกแดนทะเลทราย-170x250.png",Mine (2016) ฝ่านรกแดนทะเลทราย [ซับไทย]
@@ -1234,7 +1244,8 @@ https://slave5.iplayers.co/drive//hls/cb254f71fa2f2caf1f9c24ce45090be7/cb254f71f
 
 MOVIE THAI
 
-
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Pro-May-2019-โปรเม-อัจฉริยะต้องสร้าง-170x250.png",Pro May (2019) โปรเม อัจฉริยะต้องสร้าง
+https://slave3.iplayers.co/drive//hls/4bd9b0067003db9527de8733451824ad.m3u8
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Only-Mom-2019-%E0%B8%A1%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B2-170x250.png",มาร-ดา
 https://slave9.iplayers.co/drive//hls/c0d977a9fe8084c052cea3449f97cd33.m3u8
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Blood-Valentine-2020-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%86%E0%B9%88%E0%B8%B2-170x250.png",สวยรหัสฆ่า

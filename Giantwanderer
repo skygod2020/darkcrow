@@ -879,7 +879,13 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Krampus-2015-แครมปัส-ปีศาจแสบป่วนวันหรรษา-170x250.png",Krampus (2015) แครมปัส ปีศาจแสบป่วนวันหรรษาำ
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Mazinger-Z-Infinity-2017-มาชินก้า-Z-อินฟินิตี้-สงครามหุ่นเหล็กพิฆาต-170x250.png",Krampus (2015) มาชินก้า Z อินฟินิตี้ สงครามหุ่นเหล็กพิฆาต
+https://slave1.iplayers.co/drive//hls/c7a8f5471e6dbc342d7aa5dfb73ba992.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Walk-2015-ไต่ขอบฟ้าท้านรก-170x250.png",The Walk (2015) ไต่ขอบฟ้าท้านรก
+https://slave13.iplayers.co/drive//hls/66d5b5b5391cce50f2a52883d1a82d27.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Man-on-a-Ledge-2012-ระห่ำฟ้า-ท้านรก-170x250.png",Man on a Ledge (2012) ระห่ำฟ้า ท้านรก
+https://slave1.iplayers.co/drive//hls/03e107ae1a27c0d2b0ff605f5836e204.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Krampus-2015-แครมปัส-ปีศาจแสบป่วนวันหรรษา-170x250.png",Krampus (2015) แครมปัส ปีศาจแสบป่วนวันหรรษา
 https://slave11.iplayers.co/drive//hls/ece1688f5100239bc88440591a888908.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Earth-To-Echo-2014-เอคโค่-เพื่อนจักรกลทะลุจักรวา-170x250.png",Earth To Echo (2014) เอคโค่ เพื่อนจักรกลทะลุจักรวาล
 https://slave8.iplayers.co/drive//hls/8812f2d98325a741a636b6742b3cd4a7.m3u8
@@ -2188,6 +2194,9 @@ https://stream-cdn-m.anime-live.com/drive/hls/57fd2b7939c6a8dba87ed44df2879e19/5
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep14
 https://load-cdn-2.anime-live.com/drive/hls/cbc427e5adfdd700c57f6b87d57df154/cbc427e5adfdd700c57f6b87d57df154.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep15
+https://stream-cdn-m.anime-live.com/drive/hls/912a1e8a33c2ef374b857e2a69156225/912a1e8a33c2ef374b857e2a69156225.m3u8
+
 
 
 
@@ -2270,6 +2279,18 @@ https://load-cdn-4.anime-live.com/drive/hls/e2f644aaef256c92c05e5b7db60f3ad2/e2f
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.12
 https://stream-cdn-m.anime-live.com/drive/hls/df4917542f272cf2c3af456a72dec6be/df4917542f272cf2c3af456a72dec6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.13
+https://stream-cdn-m.anime-live.com/drive/hls/874006a433ded087a9be136e43cdc11b/874006a433ded087a9be136e43cdc11b.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.14
+https://stream-cdn-m.anime-live.com/drive/hls/b0b0cad02648e3fc1e5308665e216c77/b0b0cad02648e3fc1e5308665e216c77.m3u8
+
+
+
+
+
+
 
 
 The Tale of Nokdu (2019)
@@ -2495,6 +2516,19 @@ https://p2p_sv3.livedoomovie.com/hls/127a44fa0cfe655eb25e923cfe42fb4a/127a44fa0c
 
 
 
+SERVANT Season 1 
+
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b591fb5aa7e2668899a899bd56a247d6.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.7
+https://p2p_sv4.livedoomovie.com/hls/7330e7dcf55fe09dec8ff7b1a4651fa3/7330e7dcf55fe09dec8ff7b1a4651fa3.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b591fb5aa7e2668899a899bd56a247d6.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.7
+https://p2p_sv3.livedoomovie.com/hls/f41674378ca4e6a0ec80a72d31234e69/f41674378ca4e6a0ec80a72d31234e69.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b591fb5aa7e2668899a899bd56a247d6.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.7
+https://p2p_sv5.livedoomovie.com/hls/db7ac3fa05199f58ae1dc0cb42125643/db7ac3fa05199f58ae1dc0cb42125643.playlist.m3u8
+
+
 
 
 
@@ -2531,7 +2565,8 @@ https://p2p_sv3.dufree4k.net/hls/4d41f5940f71d690637b625b9b7e571c/4d41f5940f71d6
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 10
 https://p2p_sv2.dufree4k.net/hls/bfc1e7695cc268b9cf619ad6c949b035/bfc1e7695cc268b9cf619ad6c949b035.playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 11
+https://p2p_sv2.livedoomovie.com/hls/b75307392ee1a6269e106fb7837b508d/b75307392ee1a6269e106fb7837b508d.playlist.m3u8
 
 
 

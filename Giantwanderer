@@ -165,14 +165,36 @@ https://livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title=" Thailand Channels",BTSPORTHD3
 https://live.we-play.tv/app/btsport3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title=" Thailand Channels",astrosport1hd
+http://198.255.5.58:9981/stream/channelid/1967715841?ticket=2A6090F6F1B2ADE64EC02DED13B813373C17DAC5&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title=" Thailand Channels",astrosport1hd backup
 https://live.we-play.tv/app/astro1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title=" Thailand Channels",astrosport2hd
+http://198.255.5.58:9981/stream/channelid/1006895579?ticket=68CF54536A4A43FCB6A411A606DA0CF1869933DF&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title=" Thailand Channels",astrosport2hd backup
 https://live.we-play.tv/app/astro2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title=" Thailand Channels",astrosport3hd
+http://198.255.5.58:9981/stream/channelid/762672896?ticket=5ED95D47B0BFF4056748B6F2E1F3986E4BDD59EA&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title=" Thailand Channels",astrosport3hd backup
 https://live.we-play.tv/app/astro3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",astrosport4hd
+http://198.255.5.58:9981/stream/channelid/813529725?ticket=3C74E252214F77A024211400B28F00AD1A4597B0&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",astrosport4hd backup
 https://live.we-play.tv/app/astro4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO RIA
+http://198.255.5.58:9981/stream/channelid/1650442089?ticket=C508C71011C2BF215F5ED4ABC324E897E1C40420&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO Color
+http://198.255.5.58:9981/stream/channelid/185332075?ticket=0644E749916747610A400399AAA60E2B34480115&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO WARNA
+http://198.255.5.58:9981/stream/channelid/546763327?ticket=1D3D982B97B3A1F1C099412A63368122E36B2A87&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO AEC
+http://198.255.5.58:9981/stream/channelid/181897265?ticket=3ECCC62F9FA20D96180189585ADC698389CECC91&profile=pass
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",ASTRO CITRA
+http://198.255.5.58:9981/stream/channelid/1939886682?ticket=C552EF8ACA09B76FBB68CEE57F589949C49007AE&profile=pass
+
+
+
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1.png" group-title=" Thailand Channels",ARENA SPORT 1
 http://185.71.66.51:8000/Mauritania/Mauritania/55117
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2.png" group-title=" Thailand Channels",ARENA SPORT 2
@@ -381,6 +403,14 @@ https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
 https://live.we-play.tv/app/outdoor/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/food-network.jpg" group-title=" Thailand Channels",FOOD NETWORK
 https://live.we-play.tv/app/foodnetwork/playlist.m3u8
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title=" Thailand Channels",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0  tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title=" Thailand Channels",Foodie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title=" Thailand Channels",Food TV
+http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?
+
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg" group-title=" Thailand Channels",ไก่ชนเงินล้าน

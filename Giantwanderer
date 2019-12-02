@@ -777,6 +777,11 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/It-2017-อิท-โผล่จากนรก-poster.png",It (2017) อิท โผล่จากนรก
+https://slave10.iplayers.co/drive//hls/8c8bc258e540ab3cb43189e634fee5ec.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/It-Chapter-Two-2019-โผล่จากนรก-2.png",It Chapter Two (2019) โผล่จากนรก 2
+https://slave9.iplayers.co/drive//hls/6f5cbe746def5d856a42d40f1eb8134d.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/I-Lost-My-Body-2019-%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B.png", I Lost My Body (2019) ร่างกายที่หายไป [ซับไทย]
 https://slave13.iplayers.co/drive//hls/6441d2cb6520a2bef074dae78df36c56.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Atlantics-2019-แอตแลนติก-170x250.png", Atlantics (2019) แอตแลนติก [ซับไทย]
@@ -882,10 +887,9 @@ https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Krampus-2015-%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%A1%E0%B8%9B%E0%B8%B1%E0%B8%AA-%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B9%81%E0%B8%AA%E0%B8%9A%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2-170x250.png",Krampus (2015) มาชินก้า Z อินฟินิตี้ สงครามหุ่นเหล็กพิฆาต
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/A-Cinderella-Story-Christmas-Wish-2016-สาวน้อยซินเดอเรลล่า-คริสต์มาสปาฏิหาริย์.png",สาวน้อยซินเดอเรลล่า คริสต์มาสปาฏิหาริย์ [ซับไทย]
+https://slave12.iplayers.co/drive//hls/ce56e346f6abd37416deeb34a89d5412.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Mazinger-Z-Infinity-2017-มาชินก้า-Z-อินฟินิตี้-สงครามหุ่นเหล็กพิฆาต-170x250.png",มาชินก้า Z อินฟินิตี้ สงครามหุ่นเหล็กพิฆาต
 https://slave1.iplayers.co/drive//hls/c7a8f5471e6dbc342d7aa5dfb73ba992.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Walk-2015-ไต่ขอบฟ้าท้านรก-170x250.png",The Walk (2015) ไต่ขอบฟ้าท้านรก
 https://slave13.iplayers.co/drive//hls/66d5b5b5391cce50f2a52883d1a82d27.m3u8
@@ -991,6 +995,12 @@ https://slave2.iplayers.co/drive//hls/3aa4361ab9d2cdca3577d682f3d245b6.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-8-The-Last-Jedi-2017-%E0%B8%AA%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-8-170x250.png", สตาร์วอร์ส ภาค 8 เจไดคนสุดท้าย
 https://slave10.iplayers.co/drive//hls/d4834bfe384d3305fe7b03d41f110cae.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Rogue-One-A-Star-Wars-Story-2016-โร้ค-วัน.png",Rogue One A Star Wars Story (2016) โร้ค วัน
+https://slave5.iplayers.co/drive//hls/c9d183d44934af6f72e178c9b5e63417.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Han-Solo-A-Star-Wars-Story-2018-ฮาน-โซโล-ตำนาน-สตาร์วอร์ส.png",Han Solo A Star Wars Story (2018) ฮาน โซโล ตำนาน สตาร์วอร์ส
+https://slave2.iplayers.co/drive//hls/f58e0d852e8063bbb6709d92ee091ed2.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/Tumbbad-2018.jpg",Tumbbad (2018) คำสาปแห่งทุมบ์บาด
 https://slave8.iplayers.co/drive//hls/cf26003a2d0b7574f514330a8ce96a40.m3u8
@@ -2366,6 +2376,12 @@ https://load-cdn-2.anime-live.com/drive/hls/bf9f1f77e97a8f0bd80b68ce89389d2e/bf9
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.9
 https://load-cdn-5.anime-live.com/drive/hls/099f7aa3aefd38376a514cc8feddf464/099f7aa3aefd38376a514cc8feddf464.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.10
+https://load-cdn-6.anime-live.com/drive/hls/029f3cc9a2b87001026d73755488ec3e/029f3cc9a2b87001026d73755488ec3e.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.11
+https://load-cdn-4.anime-live.com/drive/hls/48404bfa222e64f590ced38745c5b906/48404bfa222e64f590ced38745c5b906.m3u8
+
 
 
 
@@ -2573,6 +2589,10 @@ https://p2p_sv2.dufree4k.net/hls/bfc1e7695cc268b9cf619ad6c949b035/bfc1e7695cc268
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 11
 https://p2p_sv2.livedoomovie.com/hls/b75307392ee1a6269e106fb7837b508d/b75307392ee1a6269e106fb7837b508d.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 12
+https://p2p_sv4.livedoomovie.com/hls/7a623d990e49901527b26f1daec9e3c4/7a623d990e49901527b26f1daec9e3c4.playlist.m3u8
+
 
 
 

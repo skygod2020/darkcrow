@@ -85,6 +85,16 @@ https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title=" Thailand Channels", Fox Sport3
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox1nl.jpg"  group-title=" Thailand Channels", Fox Sport1 NL
+https://live.we-play.tv/app/fox1nl/playlist.m3u8
+#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox2nl.jpg" group-title=" Thailand Channels", Fox Sport2 NL
+ttps://live.we-play.tv/app/fox2nl/playlist.m3u8
+#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox3nl.jpg" group-title=" Thailand Channels", Fox Sport3 NL
+ttps://live.we-play.tv/app/fox3nl/playlist.m3u8
+#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox4nl.jpg" group-title=" Thailand Channels", Fox Sport4 NL
+ttps://live.we-play.tv/app/fox4nl/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title=" Thailand Channels", SkynetsportHD
 https://livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title=" Thailand Channels", Skynetsport1

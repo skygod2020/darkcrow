@@ -220,9 +220,9 @@ https://live.we-play.tv/app/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title=" Thailand Channels",LFCTV
 https://live.we-play.tv/app/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title=" Thailand Channels",EUROSPORT 1
-https://live.we-play.tv/app/eurosport/playlist.m3u8
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2796.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title=" Thailand Channels",EUROSPORT 2
-http://185.71.66.51:8000/Mauritania/Mauritania/12105
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/1462.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 2 (UHD)

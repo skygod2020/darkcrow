@@ -131,8 +131,7 @@ http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title=" Thailand Channels",Truesport 7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/RBWC2019.jpg" group-title=" Thailand Channels",RUGBY
-https://livedoomovie.com/RugbyWorldCup/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/nfl-network.gif" group-title=" Thailand Channels",NFL
 https://live.we-play.tv/app/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title=" Thailand Channels",Tennis

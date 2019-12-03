@@ -896,6 +896,8 @@ https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Puncture-2011-ปิดช่องไวรัส-ฆ่าโลก-170x250.png",Puncture (2011) ปิดช่องไวรัส ฆ่าโลก
+https://slave8.iplayers.co/drive//hls/cf848047faf9e26ba77b6fd4813a5d3e.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/A-Cinderella-Story-Christmas-Wish-2016-สาวน้อยซินเดอเรลล่า-คริสต์มาสปาฏิหาริย์.png",สาวน้อยซินเดอเรลล่า คริสต์มาสปาฏิหาริย์ [ซับไทย]
 https://slave12.iplayers.co/drive//hls/ce56e346f6abd37416deeb34a89d5412.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Mazinger-Z-Infinity-2017-มาชินก้า-Z-อินฟินิตี้-สงครามหุ่นเหล็กพิฆาต-170x250.png",มาชินก้า Z อินฟินิตี้ สงครามหุ่นเหล็กพิฆาต
@@ -2397,23 +2399,38 @@ https://load-cdn-4.anime-live.com/drive/hls/48404bfa222e64f590ced38745c5b906/484
 joy of life 2019 หาญท้าชะตาฟ้า ปริศนายุทธจักร
 
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.1
-https://stream-cdn-m.anime-live.com/drive/hls/619880c5617f1bbb499af2f692ce3ff0/619880c5617f1bbb499af2f692ce3ff0.m3u8
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.1 TH
+https://stream-cdn-m.anime-live.com/drive/hls/3cd8324d8949d78918d0aaf54dc3f10d/3cd8324d8949d78918d0aaf54dc3f10d.m3u8
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.2
-https://load-cdn-2.anime-live.com/drive/hls/91c20ba8dcf2b8ad97c7990d7916ba9c/91c20ba8dcf2b8ad97c7990d7916ba9c.m3u8
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.2 TH
+https://load-cdn-2.anime-live.com/drive/hls/72d932e683ba7a4ccc54dae10ae7a886/72d932e683ba7a4ccc54dae10ae7a886.m3u8
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.3
-https://load-cdn-2.anime-live.com/drive/hls/b5dc03e472d7d5a229f7f0ddfecc5b9d/b5dc03e472d7d5a229f7f0ddfecc5b9d.m3u8
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.3 TH
+https://load-cdn-2.anime-live.com/drive/hls/691295dacf549ba8e31cb782d457e0be/691295dacf549ba8e31cb782d457e0be.m3u8
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.4
-https://stream-cdn-m.anime-live.com/drive/hls/da0a7b84e8d624e23fa0cec3974c6cfb/da0a7b84e8d624e23fa0cec3974c6cfb.m3u8
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.4 TH
+https://stream-cdn-m.anime-live.com/drive/hls/19a516a1932b55880bbc53bea6b8e07d/19a516a1932b55880bbc53bea6b8e07d.m3u8
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.5
-https://load-cdn-4.anime-live.com/drive/hls/8a596fc7de105367fad770bbd43ab19d/8a596fc7de105367fad770bbd43ab19d.m3u8
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.5 TH
+https://load-cdn-4.anime-live.com/drive/hls/fee2f16382777a135db85ab3d3bb9f9a/fee2f16382777a135db85ab3d3bb9f9a.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.6
 https://load-cdn-2.anime-live.com/drive/hls/c43cbc818c993ef49dfaa7201646799f/c43cbc818c993ef49dfaa7201646799f.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.7
+https://load-cdn-2.anime-live.com/drive/hls/81a0a79255cb28fc5fc8c1707ec85543/81a0a79255cb28fc5fc8c1707ec85543.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.8
+https://load-cdn-2.anime-live.com/drive/hls/c74723bf026b5c06a2c7f81f2925e42b/c74723bf026b5c06a2c7f81f2925e42b.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.9
+https://load-cdn-2.anime-live.com/drive/hls/6d97de2afc9802e9c72a9a00a66950f3/6d97de2afc9802e9c72a9a00a66950f3.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.10
+https://load-cdn-2.anime-live.com/drive/hls/dd55e98dfec82c1c0614d2891c854832/dd55e98dfec82c1c0614d2891c854832.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.11
+https://load-cdn-2.anime-live.com/drive/hls/a11ff0a2234eb89b6fefdeb8dee48734/a11ff0a2234eb89b6fefdeb8dee48734.m3u8
 
 
 
@@ -2439,6 +2456,9 @@ https://slave12.iplayers.co/drive//hls/5a43c94700aa5a72e46deca2a476ccd0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.6
 https://slave9.iplayers.co/drive//hls/1d1e70e271c79fe1337102587499b4eb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.7
+https://p2p_sv4.livedoomovie.com/hls/37c759f0609061e0dff1f9120e4324cc/37c759f0609061e0dff1f9120e4324cc.playlist.m3u8
 
 
 

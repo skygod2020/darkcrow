@@ -109,6 +109,8 @@ https://livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 https://livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title=" Thailand Channels", Skynetsport6
 https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kingufa.tv/wp-content/uploads/2019/04/chskynetsportplus.jpg" group-title=" Thailand Channels",SKYNETSPORT Plus
+https://leechviplink.ddnslive.com/app/skynetplus/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title=" Thailand Channels", Bein1
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title=" Thailand Channels", Bein2
@@ -150,6 +152,8 @@ https://livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjA2MzY1NDA0MzA4ODE2/tennis-channel-logojpg.jpg" group-title=" Thailand Channels",|USA| Tennis Channel HD
 http://iptv6.premium-stv.com:25461/SOURCEUSAPRO2/6288372425/1734
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707081423451786051871.jpg" group-title=" Thailand Channels",T-SPORT
+http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/t-sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/smmtv.png" group-title=" Thailand Channels",SMM TV
 http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title=" Thailand Channels",NBA TV
@@ -182,7 +186,7 @@ https://live.we-play.tv/app/astro1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title=" Thailand Channels",astrosport2hd
 http://198.255.5.58:9981/stream/channelid/1006895579?ticket=68CF54536A4A43FCB6A411A606DA0CF1869933DF&profile=pass
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title=" Thailand Channels",astrosport2hd backup
-https://live.we-play.tv/app/astro2/playlist.m3u8
+https://leechviplink.ddnslive.com/app/astro2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title=" Thailand Channels",astrosport3hd
 http://198.255.5.58:9981/stream/channelid/762672896?ticket=5ED95D47B0BFF4056748B6F2E1F3986E4BDD59EA&profile=pass
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title=" Thailand Channels",astrosport3hd backup
@@ -390,8 +394,6 @@ https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 https://livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/201907201150501230230057.jpg" group-title=" Thailand Channels", Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg" group-title=" Thailand Channels", DiscoveryScience
-https://www.livedoomovie.com/02_DiscoveryScience/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD_TH
 https://livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/natgeo.png" group-title=" Thailand Channels", NatGeoHD
@@ -417,8 +419,6 @@ https://live.we-play.tv/app/foodnetwork/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0  tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title=" Thailand Channels",Foodie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0  tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title=" Thailand Channels",Food TV
-http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg" group-title=" Thailand Channels",ไก่ชนเงินล้าน
@@ -479,7 +479,7 @@ https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-music.jpg" group-title="MUSIC",TRUE MUSIC HD
 https://live.we-play.tv/app/truemusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg"group-title="MUSIC",แสงจันทร์ ทีวี
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c935025484281.5634604b1311b.png" group-title="MUSIC",  MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Xljqj.png" group-title="MUSIC",  ONE

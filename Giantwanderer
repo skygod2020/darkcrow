@@ -23,8 +23,6 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist
 http://27.254.130.64/live01/ch14.m3u8?p=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" tvg-name="NEW TV HD"  group-title=" Thailand Channels",NEW TV HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/voicetv.jpg" group-title=" Thailand Channels",VoiceTV
-http://tiny.cc/p4pqdz
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/tnn24.jpg" group-title=" Thailand Channels",TNN24
 http://27.254.130.64/live01/ch5.m3u8?p=m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" tvg-name="TRUE4U HD" group-title=" Thailand Channels",TRUE4U

@@ -2789,8 +2789,11 @@ https://slave5.iplayers.co/drive//hls/e2b2c43062d7b017e63d9490fa962280.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.3
 https://p2p_sv2.dufree4k.net/hls/2ac2a33cbe746531bf673af9bbc1c1a8/2ac2a33cbe746531bf673af9bbc1c1a8.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.3
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.4
 https://p2p_sv1.livedoomovie.com/hls/9e9fa6d18128f215b8116510f451b349/9e9fa6d18128f215b8116510f451b349.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.5
+https://slave1.iplayers.co/drive//hls/a2423e5227067212451bc1a339cef10e.m3u8
 
 
 

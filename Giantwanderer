@@ -233,9 +233,9 @@ https://live.we-play.tv/app/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title=" Thailand Channels",LFCTV
 https://live.we-play.tv/app/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title=" Thailand Channels",EUROSPORT 1
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/2796.m3u8
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/7341.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title=" Thailand Channels",EUROSPORT 2
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/1462.m3u8
+http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/806.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 2 (UHD)
@@ -786,7 +786,10 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Jarhead-Law-Of-Return-2019-จาร์เฮด-พลระห่ำสงครามนรก-4-170x250.png", จาร์เฮด พลระห่ำสงครามนรก 4 (2019)
+https://slave11.iplayers.co/drive//hls/52595c7301a690bea2d9c6ceaa9fbffe.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Dead-Kids-2019-แผนร้ายไม่ตายดี-170x250.png",Dead Kids (2019) แผนร้ายไม่ตายดี
+https://slave12.iplayers.co/drive//hls/8a008dd7de9c0257b4bd51916c994179.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/It-2017-อิท-โผล่จากนรก-poster.png",It (2017) อิท โผล่จากนรก
 https://slave10.iplayers.co/drive//hls/8c8bc258e540ab3cb43189e634fee5ec.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/It-Chapter-Two-2019-โผล่จากนรก-2.png",It Chapter Two (2019) โผล่จากนรก 2
@@ -896,6 +899,13 @@ https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Paskal-2018-ปาสกัล-หน่วยพิฆาตทะเลโหด-170x250.png","Paskal (2018) ปาสกัล หน่วยพิฆาตทะเลโหด [ซับไทย]
+https://slave11.iplayers.co/drive//hls/852e0ded5576d98dec2563bcbab31efb.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Brink-2017-ฉะโคตรคน-ล่าโคตรทอง-170x250.png",The Brink (2017) ฉะโคตรคน ล่าโคตรทอง
+https://slave13.iplayers.co/drive//hls/885dc97cb051bb2b287eb0a4b04259b9.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Twenty-One-2008-21-เกมเดิมพันอัจฉริยะ-170x250.png",Twenty One 21 เกมเดิมพันอัจฉริยะ
+https://slave13.iplayers.co/drive//hls/8edea4318f2fe63d71a3906234f9c436.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Wolf-Creek-1-2005-หุบเขาสยองหวีดมรณะ-1-170x250.png",Wolf Creek หุบเขาสยองหวีดมรณะ 1
 https://slave9.iplayers.co/drive//hls/906c2fa0497c8ff0480410ed1d74a646.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Wolf-Creek-2-2013-หุบเขาสยองหวีดมรณะ-2-170x250.png",Wolf Creek หุบเขาสยองหวีดมรณะ 2

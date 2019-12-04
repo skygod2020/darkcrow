@@ -785,7 +785,7 @@ MOVIES
 
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Ad-Astra-2019-ภารกิจตะลุยดาว-170x250.png",Ad Astra (2019) ภารกิจตะลุยดาว
-
+https://slave8.iplayers.co/drive//hls/5caca6060e04fa459b59ba15c93316bc.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Jarhead-Law-Of-Return-2019-จาร์เฮด-พลระห่ำสงครามนรก-4-170x250.png", จาร์เฮด พลระห่ำสงครามนรก 4 (2019)
 https://slave11.iplayers.co/drive//hls/52595c7301a690bea2d9c6ceaa9fbffe.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Dead-Kids-2019-แผนร้ายไม่ตายดี-170x250.png",Dead Kids (2019) แผนร้ายไม่ตายดี
@@ -900,8 +900,7 @@ https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Seuls-2017-ฝ่ามหันตภัยเมืองร้าง-170x250.png","Seuls (2017) ฝ่ามหันตภัยเมืองร้าง
-
-
+https://slave13.iplayers.co/drive//hls/e63765e62fe0545d624b4974d706cc56.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Paskal-2018-ปาสกัล-หน่วยพิฆาตทะเลโหด-170x250.png","Paskal (2018) ปาสกัล หน่วยพิฆาตทะเลโหด [ซับไทย]
 https://slave11.iplayers.co/drive//hls/852e0ded5576d98dec2563bcbab31efb.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Brink-2017-ฉะโคตรคน-ล่าโคตรทอง-170x250.png",The Brink (2017) ฉะโคตรคน ล่าโคตรทอง
@@ -2448,11 +2447,11 @@ https://stream-cdn-m.anime-live.com/drive/hls/d2486ef2fa95720f66fc331545d2eac8/d
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.7 TH
 https://load-cdn-2.anime-live.com/drive/hls/30033ffbee1b00fab2cbe71113a7df00/30033ffbee1b00fab2cbe71113a7df00.m3u8
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.8
-https://load-cdn-2.anime-live.com/drive/hls/c74723bf026b5c06a2c7f81f2925e42b/c74723bf026b5c06a2c7f81f2925e42b.m3u8
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.8 TH
+https://load-cdn-2.anime-live.com/drive/hls/c012c0dd2efb5142092903d18b3e5d47/c012c0dd2efb5142092903d18b3e5d47.m3u8
 
-#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.9
-https://load-cdn-2.anime-live.com/drive/hls/6d97de2afc9802e9c72a9a00a66950f3/6d97de2afc9802e9c72a9a00a66950f3.m3u8
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.9 TH
+https://load-cdn-2.anime-live.com/drive/hls/35bd58d6f2b08fa62c35c339de9510db/35bd58d6f2b08fa62c35c339de9510db.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.10
 https://load-cdn-2.anime-live.com/drive/hls/dd55e98dfec82c1c0614d2891c854832/dd55e98dfec82c1c0614d2891c854832.m3u8
@@ -2695,6 +2694,10 @@ https://p2p_sv2.dufree4k.net/hls/9127a9d6a4a3d25d83f0baa913842407/9127a9d6a4a3d2
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 11
 https://p2p_sv1.dufree4k.net/hls/629bcff44daa5b5248bdf40c2eb98e93/629bcff44daa5b5248bdf40c2eb98e93.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 12
+https://p2p_sv1.dufree4k.net/hls/629bcff44daa5b5248bdf40c2eb98e93/629bcff44daa5b5248bdf40c2eb98e93.playlist
+
 
 
 

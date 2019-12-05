@@ -10,7 +10,7 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" tvg-name="MCOT HD" group-title=" Thailand Channels",MCOT HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD" group-title=" Thailand Channels",TPBS HD
-http://27.254.130.64/live02/ch0.m3u8?p=m3u8
+https://www.livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" tvg-name="PPTV HD"  group-title=" Thailand Channels",PPTV HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/thairath.png"tvg-name="THAIRATH TV HD" group-title=" Thailand Channels",THAIRATH HD
@@ -20,13 +20,13 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1026.gif" tvg-name="AMARIN TV HD" group-title=" Thailand Channels",AMARIN HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nbt.png" group-title=" Thailand Channels",NBT 
-http://27.254.130.64/live01/ch14.m3u8?p=m3u8
+http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" tvg-name="NEW TV HD"  group-title=" Thailand Channels",NEW TV HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/tnn24.jpg" group-title=" Thailand Channels",TNN24
 http://27.254.130.64/live01/ch5.m3u8?p=m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" tvg-name="TRUE4U HD" group-title=" Thailand Channels",TRUE4U
-http://27.254.130.64/live01/ch4.m3u8?p=m3u8
+http://27.254.130.64/live02/ch0.m3u8?p=m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" tvg-name="WORKPOINT TV HD" group-title=" Thailand Channels",WORKPIONT
 http://27.254.130.64/live01/ch7.m3u8?p=m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title=" Thailand Channels",GMM

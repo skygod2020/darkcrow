@@ -899,7 +899,13 @@ https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
 
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Seuls-2017-ฝ่ามหันตภัยเมืองร้าง-170x250.png","Seuls (2017) ฝ่ามหันตภัยเมืองร้าง
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Intruders-2011-บุกสยอง-หลอนสองโลก-170x250.png","Intruders (2011) บุกสยอง หลอนสองโลก
+https://slave4.iplayers.co/drive//hls/d22714aab2fe095be9856eb8ba4ba9c4.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Survivor-2014-ผจญภัยล้างพันธุ์ดาวเถื่อน-170x250.png","Survivor (2014) ผจญภัยล้างพันธุ์ดาวเถื่อน
+https://slave9.iplayers.co/drive//hls/2a8670955f4e0c3fe1392773bf9b6125.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Stalingrad-2013-สตาลินกราด-170x250.png",Stalingrad (2013) สตาลินกราด
+https://slave3.iplayers.co/drive//hls/65a79905e1ec5e4af388cdb0c0238eba.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Seuls-2017-ฝ่ามหันตภัยเมืองร้าง-170x250.png",Seuls (2017) ฝ่ามหันตภัยเมืองร้าง
 https://slave13.iplayers.co/drive//hls/e63765e62fe0545d624b4974d706cc56.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Paskal-2018-ปาสกัล-หน่วยพิฆาตทะเลโหด-170x250.png","Paskal (2018) ปาสกัล หน่วยพิฆาตทะเลโหด [ซับไทย]
 https://slave11.iplayers.co/drive//hls/852e0ded5576d98dec2563bcbab31efb.m3u8
@@ -2702,7 +2708,7 @@ https://p2p_sv2.dufree4k.net/hls/9127a9d6a4a3d25d83f0baa913842407/9127a9d6a4a3d2
 https://p2p_sv1.dufree4k.net/hls/629bcff44daa5b5248bdf40c2eb98e93/629bcff44daa5b5248bdf40c2eb98e93.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 12
-https://p2p_sv1.dufree4k.net/hls/629bcff44daa5b5248bdf40c2eb98e93/629bcff44daa5b5248bdf40c2eb98e93.playlist
+https://p2p_sv3.dufree4k.net/hls/bc10f833fe48450d74e2ef12740d199d/bc10f833fe48450d74e2ef12740d199d.playlist.m3u8
 
 
 

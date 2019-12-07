@@ -783,17 +783,26 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 
 MOVIES 
 
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/What-Men-Want-2019-170x250.png",What Men Want (2019) ซับไทย
+https://slave9.iplayers.co/drive//hls/b556aac6d6a1f80cda472c9de1a5d0fb.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Benchwarmers-2-Breaking-Balls-2019-170x250.png",Benchwarmers 2 Breaking Balls (2019) ซับไทย
+https://slave10.iplayers.co/drive//hls/c5b30e06f3dde559ae757a758a94502f.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/A-Christmas-Prince-The-Royal-Baby-2019-เจ้าชายคริสต์มาส-รัชทายาทน้อย-170x250.png",เจ้าชายคริสต์มาส รัชทายาทน้อย (2019) 
+https://slave4.iplayers.co/drive//hls/ae5764bac359e046c580dcf31d500a53.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Marriage-Story-2019-แมริเอจ-สตอรี่-170x250.png",Marriage Story (2019) แมริเอจ สตอรี่ [ซับไทย]
+https://slave9.iplayers.co/drive//hls/5aa3ee8d902df1a9a2bad5cfa7fc0435.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Playmobil-The-Movie-2019-เพลย์โมบิล-เดอะ-มูฟวี่-170x250.png",Playmobil The Movie (2019)
+https://edge-ns2.leoplayer1.com/drive//hls/043ef6d143f22d7205960cb590338ab9/043ef6d143f22d7205960cb590338ab9.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Ad-Astra-2019-ภารกิจตะลุยดาว-170x250.png",Ad Astra (2019) ภารกิจตะลุยดาว
-https://slave8.iplayers.co/drive//hls/5caca6060e04fa459b59ba15c93316bc.m3u8
+https://edge-ns1.leoplayer1.com/drive//hls/35f3459bb520f3045f70731adaf5204a/35f3459bb520f3045f70731adaf5204a.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Jarhead-Law-Of-Return-2019-จาร์เฮด-พลระห่ำสงครามนรก-4-170x250.png", จาร์เฮด พลระห่ำสงครามนรก 4 (2019)
-https://slave11.iplayers.co/drive//hls/52595c7301a690bea2d9c6ceaa9fbffe.m3u8
+https://edge-ns1.leoplayer1.com/drive//hls/105291aeb2e58ae0badd1fbd59ba33ef/105291aeb2e58ae0badd1fbd59ba33ef.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Dead-Kids-2019-แผนร้ายไม่ตายดี-170x250.png",Dead Kids (2019) แผนร้ายไม่ตายดี
 https://slave12.iplayers.co/drive//hls/8a008dd7de9c0257b4bd51916c994179.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/It-2017-อิท-โผล่จากนรก-poster.png",It (2017) อิท โผล่จากนรก
 https://slave10.iplayers.co/drive//hls/8c8bc258e540ab3cb43189e634fee5ec.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/It-Chapter-Two-2019-โผล่จากนรก-2.png",It Chapter Two (2019) โผล่จากนรก 2
-https://slave9.iplayers.co/drive//hls/6f5cbe746def5d856a42d40f1eb8134d.m3u8
+https://edge-ns2.leoplayer1.com/drive//hls/416fe442eaae7c1129978e4a60d88af7/416fe442eaae7c1129978e4a60d88af7.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/I-Lost-My-Body-2019-%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%9B.png", I Lost My Body (2019) ร่างกายที่หายไป [ซับไทย]
 https://slave13.iplayers.co/drive//hls/6441d2cb6520a2bef074dae78df36c56.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Atlantics-2019-แอตแลนติก-170x250.png", Atlantics (2019) แอตแลนติก [ซับไทย]
@@ -801,7 +810,7 @@ https://slave7.iplayers.co/drive//hls/165e20fc5078ff4004b755c93256724e.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Abominable-2019-เอเวอเรสต์มนุษย์หิมะเพื่อนรัก-170x250.png", Abominable (2019) เอเวอเรสต์มนุษย์หิมะเพื่อนรัก
 https://slave9.iplayers.co/drive//hls/0e006c2c7c13281c17ea0222f50745cf.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Report-2019-170x250.png", THE REPORT (2019) ซับไทย
-https://slave9.iplayers.co/drive//hls/d4c9c9e99d3868f82f5cb7625194f842.m3u8
+https://edge-ns2.leoplayer1.com/drive//hls/fce5b0302c223e7f575b55a9adcda922/fce5b0302c223e7f575b55a9adcda922.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Holiday-in-the-Wild-2019-ฉลองรักกับป่า-170x250.png", Holiday in the Wild (2019) ฉลองรักกับป่า
 https://slave1.iplayers.co/drive//hls/17639e13919fe1262a929c9264170c5d.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Holiday-Rush-2019-%E0%B8%AE%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%8A.png", Holiday Rush (2019) ฮอลิเดย์ รัช [ซับไทย]
@@ -898,16 +907,29 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
-
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Intruders-2011-บุกสยอง-หลอนสองโลก-170x250.png","Intruders (2011) บุกสยอง หลอนสองโลก
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Click-2006-คลิก-รีโมตรักข้ามเวลา-170x250.png","Click คลิก รีโมตรักข้ามเวลา
+https://slave7.iplayers.co/drive//hls/c38c606b63c92b336e3c64af756cdd26.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Idiocracy-2006-อัจฉริยะผ่าโลกเพี้ยน-170x250.png","Idiocracy (2006) อัจฉริยะผ่าโลกเพี้ยน
+https://slave4.iplayers.co/drive//hls/8531bb4f344ea172269a4afccc252bd0.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Holes-2003-ขุมทรัพย์ปาฏิหารย์-170x250.png",Holes ขุมทรัพย์ปาฏิหารย์
+https://slave12.iplayers.co/drive//hls/7fa43cc843a90c884d213f873fa81dc6.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fullmetal-Alchemist-2017-แขนกลคนแปรธาตุ-170x250.png",Fullmetal Alchemist (2017) แขนกลคนแปรธาตุ [ซับไทย]
+https://slave10.iplayers.co/drive//hls/9293f46cb4d3da39fe1f425196bd9ff8.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/After-Earth-2013-สยองโลกร้างปี-170x250.png",After Earth (2013) สยองโลกร้างปี
+https://slave3.iplayers.co/drive//hls/58d978cb11a82da1e88622a74d50f4b7.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Teeth-2007-กลีบเขมือบ-170x250.png",Teeth (2007) กลีบเขมือบ
+https://slave12.iplayers.co/drive//hls/e8a7efd0a20336bc59000451a08c3a61.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Mowgli-Legend-of-the-Jungle-2018-เมาคลี-ตำนานแห่งเจ้าป่า-170x250.png",เมาคลี ตำนานแห่งเจ้าป่า [ซับไทย]
+https://slave7.iplayers.co/drive//hls/a55c5788566f62b640698c6bb5511e91.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Intruders-2011-บุกสยอง-หลอนสองโลก-170x250.png",Intruders (2011) บุกสยอง หลอนสองโลก
 https://slave4.iplayers.co/drive//hls/d22714aab2fe095be9856eb8ba4ba9c4.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Survivor-2014-ผจญภัยล้างพันธุ์ดาวเถื่อน-170x250.png","Survivor (2014) ผจญภัยล้างพันธุ์ดาวเถื่อน
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Survivor-2014-ผจญภัยล้างพันธุ์ดาวเถื่อน-170x250.png",Survivor (2014) ผจญภัยล้างพันธุ์ดาวเถื่อน
 https://slave9.iplayers.co/drive//hls/2a8670955f4e0c3fe1392773bf9b6125.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Stalingrad-2013-สตาลินกราด-170x250.png",Stalingrad (2013) สตาลินกราด
 https://slave3.iplayers.co/drive//hls/65a79905e1ec5e4af388cdb0c0238eba.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Seuls-2017-ฝ่ามหันตภัยเมืองร้าง-170x250.png",Seuls (2017) ฝ่ามหันตภัยเมืองร้าง
 https://slave13.iplayers.co/drive//hls/e63765e62fe0545d624b4974d706cc56.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Paskal-2018-ปาสกัล-หน่วยพิฆาตทะเลโหด-170x250.png","Paskal (2018) ปาสกัล หน่วยพิฆาตทะเลโหด [ซับไทย]
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Paskal-2018-ปาสกัล-หน่วยพิฆาตทะเลโหด-170x250.png",Paskal (2018) ปาสกัล หน่วยพิฆาตทะเลโหด [ซับไทย]
 https://slave11.iplayers.co/drive//hls/852e0ded5576d98dec2563bcbab31efb.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Brink-2017-ฉะโคตรคน-ล่าโคตรทอง-170x250.png",The Brink (2017) ฉะโคตรคน ล่าโคตรทอง
 https://slave13.iplayers.co/drive//hls/885dc97cb051bb2b287eb0a4b04259b9.m3u8
@@ -1537,6 +1559,9 @@ https://037hd1.vanlong.stream/drive//hls/b7509a31c7dad01d21c9213691c432ea/b7509a
 Movie จีน
 
 
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Kingdom-Kingudamu-2019-170x250.png",Kingdom Kingudamu (2019)
+https://slave13.iplayers.co/drive//hls/27d4eaec5256dc02b26e9d8e1059ecc7.m3u8
+
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Jade-Dynasty-2019-กระบี่เทพสังหาร-170x250.png" ,กระบี่เทพสังหาร
 https://edge-ns2.leoplayer1.com/drive//hls/59a6d589a59981dee6bd900ec71d9605/59a6d589a59981dee6bd900ec71d9605.m3u8
 
@@ -1849,8 +1874,7 @@ Strangers From Hell
 https://stream-cdn-m.anime-live.com/drive//hls/f4f82850783e54e0f82bc3846c712609/f4f82850783e54e0f82bc3846c712609.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep2
-https://load-cdn-6.anime-live.com/drive//hls/940ef882f91a9f21ee3e64fb8867efc3/940ef882f91a9f21ee3e64fb8867efc3.m3u8
-
+https://stream-cdn-m.anime-live.com/drive//hls/940ef882f91a9f21ee3e64fb8867efc3/940ef882f91a9f21ee3e64fb8867efc3.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/08/vbvbcvbdsdf.jpg" group-title="SERIES",Strangers From Hell ep3
 https://stream-cdn-m.anime-live.com/drive//hls/f5650a6f18a19f95248437a17fd2e6ef/f5650a6f18a19f95248437a17fd2e6ef.m3u8
@@ -2161,37 +2185,37 @@ My County:The New Age
 
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 1
-https://load-cdn-2.anime-live.com/drive//hls/207108bd1f3dd0044cf2b72867c57ae6/207108bd1f3dd0044cf2b72867c57ae6.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/207108bd1f3dd0044cf2b72867c57ae6/207108bd1f3dd0044cf2b72867c57ae6.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 2
-https://load-cdn-2.anime-live.com/drive//hls/f8d350dd83493b66f3b9f4a14fce96aa/f8d350dd83493b66f3b9f4a14fce96aa.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/f8d350dd83493b66f3b9f4a14fce96aa/f8d350dd83493b66f3b9f4a14fce96aa.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 3
-https://load-cdn-2.anime-live.com/drive//hls/9aa7fa6e22fc6abee1b03c5ae35f3c5a/9aa7fa6e22fc6abee1b03c5ae35f3c5a.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/9aa7fa6e22fc6abee1b03c5ae35f3c5a/9aa7fa6e22fc6abee1b03c5ae35f3c5a.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 4
-https://load-cdn-2.anime-live.com/drive//hls/53f87f09543fe2e152b03183792f4440/53f87f09543fe2e152b03183792f4440.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/53f87f09543fe2e152b03183792f4440/53f87f09543fe2e152b03183792f4440.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 5
-https://load-cdn-2.anime-live.com/drive//hls/08f9aa770ece30d6e297f7ebcacc1e7c/08f9aa770ece30d6e297f7ebcacc1e7c.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/08f9aa770ece30d6e297f7ebcacc1e7c/08f9aa770ece30d6e297f7ebcacc1e7c.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 6
-https://load-cdn-2.anime-live.com/drive//hls/8db55489ba648e2ef66dca1ae0e88128/8db55489ba648e2ef66dca1ae0e88128.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/8db55489ba648e2ef66dca1ae0e88128/8db55489ba648e2ef66dca1ae0e88128.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 7
-https://load-cdn-2.anime-live.com/drive//hls/39c1068a453c4aa6bd22cfd2f214e095/39c1068a453c4aa6bd22cfd2f214e095.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/39c1068a453c4aa6bd22cfd2f214e095/39c1068a453c4aa6bd22cfd2f214e095.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 8
-https://load-cdn-2.anime-live.com/drive//hls/224e0ffb91f862bfef754ec68e83d20f/224e0ffb91f862bfef754ec68e83d20f.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/224e0ffb91f862bfef754ec68e83d20f/224e0ffb91f862bfef754ec68e83d20f.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 9
-https://load-cdn-2.anime-live.com/drive//hls/9305c9326a62d871b53d545f77141bfa/9305c9326a62d871b53d545f77141bfa.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/9305c9326a62d871b53d545f77141bfa/9305c9326a62d871b53d545f77141bfa.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 10
-https://load-cdn-2.anime-live.com/drive//hls/751465e7c985e3fef4faeb998cfb6a8b/751465e7c985e3fef4faeb998cfb6a8b.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/751465e7c985e3fef4faeb998cfb6a8b/751465e7c985e3fef4faeb998cfb6a8b.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 11
-https://load-cdn-2.anime-live.com/drive/hls/fcb1eb620e70f0eeb91e4e453254545d/fcb1eb620e70f0eeb91e4e453254545d.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/fcb1eb620e70f0eeb91e4e453254545d/fcb1eb620e70f0eeb91e4e453254545d.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 12
-https://load-cdn-2.anime-live.com/drive/hls/735c9859fe1f5374ee736ac5659fdf62/735c9859fe1f5374ee736ac5659fdf62.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/735c9859fe1f5374ee736ac5659fdf62/735c9859fe1f5374ee736ac5659fdf62.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 13
-https://load-cdn-2.anime-live.com/drive/hls/42ee572a6365b1c0c67670da900ccf86/42ee572a6365b1c0c67670da900ccf86.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/42ee572a6365b1c0c67670da900ccf86/42ee572a6365b1c0c67670da900ccf86.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 14
-https://load-cdn-3.anime-live.com/drive/hls/6e8e2729c7754024fa506c6c38e9763e/6e8e2729c7754024fa506c6c38e9763e.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/6e8e2729c7754024fa506c6c38e9763e/6e8e2729c7754024fa506c6c38e9763e.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 15
 https://stream-cdn-m.anime-live.com/drive/hls/a1235ba07857987ba046e14348ba235d/a1235ba07857987ba046e14348ba235d.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/af22a6989b76c76085c903b0063f4498.jpg" group-title="SERIES", พลิกชาติท้าปฐพี ตอนที่ 16
-https://load-cdn-2.anime-live.com/drive/hls/4c5140fc8598be7c880b3e3049ff53e4/4c5140fc8598be7c880b3e3049ff53e4.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/4c5140fc8598be7c880b3e3049ff53e4/4c5140fc8598be7c880b3e3049ff53e4.m3u8
 
 
 
@@ -2201,31 +2225,31 @@ The Lies Within
 
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep1
-https://load-cdn-2.anime-live.com/drive//hls/3d89764e4aec03fc74809916c6d84ca6/3d89764e4aec03fc74809916c6d84ca6.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/3d89764e4aec03fc74809916c6d84ca6/3d89764e4aec03fc74809916c6d84ca6.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep2
-https://load-cdn-2.anime-live.com/drive//hls/6d2e22b073a0725622b8c162b55e8949/6d2e22b073a0725622b8c162b55e8949.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/6d2e22b073a0725622b8c162b55e8949/6d2e22b073a0725622b8c162b55e8949.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep3
-https://load-cdn-2.anime-live.com/drive//hls/9dd0663d678dd9038aa12e33467483bd/9dd0663d678dd9038aa12e33467483bd.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/9dd0663d678dd9038aa12e33467483bd/9dd0663d678dd9038aa12e33467483bd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep4
-https://load-cdn-2.anime-live.com/drive//hls/fda4f21e6128295d9fb92c943e638b51/fda4f21e6128295d9fb92c943e638b51.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/fda4f21e6128295d9fb92c943e638b51/fda4f21e6128295d9fb92c943e638b51.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep5
-https://load-cdn-2.anime-live.com/drive//hls/b8b80191481c165522714599a30c0d8f/b8b80191481c165522714599a30c0d8f.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/b8b80191481c165522714599a30c0d8f/b8b80191481c165522714599a30c0d8f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep6
-https://load-cdn-2.anime-live.com/drive//hls/8c8e4699870b377a29c256271e42e6f7/8c8e4699870b377a29c256271e42e6f7.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/8c8e4699870b377a29c256271e42e6f7/8c8e4699870b377a29c256271e42e6f7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep7
-https://load-cdn-2.anime-live.com/drive//hls/e6c89bb8b83ba9b61f9601046eeed5af/e6c89bb8b83ba9b61f9601046eeed5af.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/e6c89bb8b83ba9b61f9601046eeed5af/e6c89bb8b83ba9b61f9601046eeed5af.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep8
-https://load-cdn-2.anime-live.com/drive//hls/2ae3a72a57c21afdadc4aa6efc09d11c/2ae3a72a57c21afdadc4aa6efc09d11c.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/2ae3a72a57c21afdadc4aa6efc09d11c/2ae3a72a57c21afdadc4aa6efc09d11c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep9
-https://load-cdn-3.anime-live.com/drive//hls/e270ace7b74a9bfbe436211ab57e5d2e/e270ace7b74a9bfbe436211ab57e5d2e.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/e270ace7b74a9bfbe436211ab57e5d2e/e270ace7b74a9bfbe436211ab57e5d2e.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep10
 https://stream-cdn-m.anime-live.com/drive//hls/2b6c95b169b2805cd75bec14134ebe85/2b6c95b169b2805cd75bec14134ebe85.m3u8
@@ -2234,13 +2258,13 @@ https://stream-cdn-m.anime-live.com/drive//hls/2b6c95b169b2805cd75bec14134ebe85/
 https://stream-cdn-m.anime-live.com/drive/hls/87d3f92fe14176b238cf1f552c31a5dc/87d3f92fe14176b238cf1f552c31a5dc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep12
-https://load-cdn-2.anime-live.com/drive/hls/f1bc4fbf8b3e30fa7fb4f8d94b4f23d4/f1bc4fbf8b3e30fa7fb4f8d94b4f23d4.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/f1bc4fbf8b3e30fa7fb4f8d94b4f23d4/f1bc4fbf8b3e30fa7fb4f8d94b4f23d4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep13
 https://stream-cdn-m.anime-live.com/drive/hls/57fd2b7939c6a8dba87ed44df2879e19/57fd2b7939c6a8dba87ed44df2879e19.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep14
-https://load-cdn-2.anime-live.com/drive/hls/cbc427e5adfdd700c57f6b87d57df154/cbc427e5adfdd700c57f6b87d57df154.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/cbc427e5adfdd700c57f6b87d57df154/cbc427e5adfdd700c57f6b87d57df154.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooserieshd.com/wp-content/uploads/2019/10/The_Lies_Within-P1.jpg" group-title="SERIES",The Lies Within ep15
 https://stream-cdn-m.anime-live.com/drive/hls/912a1e8a33c2ef374b857e2a69156225/912a1e8a33c2ef374b857e2a69156225.m3u8
@@ -2255,46 +2279,46 @@ catch the ghost
 
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.1
-https://load-cdn-2.anime-live.com/drive//hls/84c3d8ddfb46532577a03b72c653e6cc/84c3d8ddfb46532577a03b72c653e6cc.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/84c3d8ddfb46532577a03b72c653e6cc/84c3d8ddfb46532577a03b72c653e6cc.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.2
-https://load-cdn-2.anime-live.com/drive//hls/c81f68bac05a061f521a4358461e2b26/c81f68bac05a061f521a4358461e2b26.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/c81f68bac05a061f521a4358461e2b26/c81f68bac05a061f521a4358461e2b26.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.3
-https://load-cdn-2.anime-live.com/drive//hls/c5c8aa14c5e02ff296c0bccdc4acad6a/c5c8aa14c5e02ff296c0bccdc4acad6a.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/c5c8aa14c5e02ff296c0bccdc4acad6a/c5c8aa14c5e02ff296c0bccdc4acad6a.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.4
-https://load-cdn-2.anime-live.com/drive//hls/7c75a6557b2a2d06407af4fe87e57524/7c75a6557b2a2d06407af4fe87e57524.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/7c75a6557b2a2d06407af4fe87e57524/7c75a6557b2a2d06407af4fe87e57524.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.5
-https://load-cdn-2.anime-live.com/drive//hls/7fcc13d07b191108f452d23d4c5ab011/7fcc13d07b191108f452d23d4c5ab011.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/7fcc13d07b191108f452d23d4c5ab011/7fcc13d07b191108f452d23d4c5ab011.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.6
-https://load-cdn-6.anime-live.com/drive//hls/962c5758c1a838c09e9f9da0b8fa3cef/962c5758c1a838c09e9f9da0b8fa3cef.m3u8
+https://stream-cdn-m.anime-live.com/drive//hls/962c5758c1a838c09e9f9da0b8fa3cef/962c5758c1a838c09e9f9da0b8fa3cef.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.7
-https://load-cdn-6.anime-live.com/drive/hls/3e402504c62f3a002aa5c99e2f0ec893/3e402504c62f3a002aa5c99e2f0ec893.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/3e402504c62f3a002aa5c99e2f0ec893/3e402504c62f3a002aa5c99e2f0ec893.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.8
-https://load-cdn-6.anime-live.com/drive/hls/537340905cf2106c8d07621ea13f3432/537340905cf2106c8d07621ea13f3432.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/537340905cf2106c8d07621ea13f3432/537340905cf2106c8d07621ea13f3432.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.9
-https://load-cdn-2.anime-live.com/drive/hls/590b4b46569c4dbe77edb6e01aff50a5/590b4b46569c4dbe77edb6e01aff50a5.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/590b4b46569c4dbe77edb6e01aff50a5/590b4b46569c4dbe77edb6e01aff50a5.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.10
-https://load-cdn-3.anime-live.com/drive/hls/7f701fd8de59a60c445f6a35b983c390/7f701fd8de59a60c445f6a35b983c390.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/7f701fd8de59a60c445f6a35b983c390/7f701fd8de59a60c445f6a35b983c390.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.11
-https://load-cdn-2.anime-live.com/drive/hls/68ffeb8edfe4df87230b87f6967fa862/68ffeb8edfe4df87230b87f6967fa862.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/68ffeb8edfe4df87230b87f6967fa862/68ffeb8edfe4df87230b87f6967fa862.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.12
-https://load-cdn-6.anime-live.com/drive/hls/3750981f9dd8e639ae295acf04185787/3750981f9dd8e639ae295acf04185787.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/3750981f9dd8e639ae295acf04185787/3750981f9dd8e639ae295acf04185787.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.13
-https://load-cdn-4.anime-live.com/drive/hls/bead62c723bd5448110bda73a97ac128/bead62c723bd5448110bda73a97ac128.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/bead62c723bd5448110bda73a97ac128/bead62c723bd5448110bda73a97ac128.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.14
-https://load-cdn-2.anime-live.com/drive/hls/8cffcb5143d9c0b977b0aa4e61b1f71f/8cffcb5143d9c0b977b0aa4e61b1f71f.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/8cffcb5143d9c0b977b0aa4e61b1f71f/8cffcb5143d9c0b977b0aa4e61b1f71f.m3u8
 
 
 
@@ -2305,19 +2329,19 @@ Hotel Del Luna
 
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.1
-https://load-cdn-2.anime-live.com/drive/hls//dcd754acf2441e174941424bbd61bf4c/dcd754acf2441e174941424bbd61bf4c.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls//dcd754acf2441e174941424bbd61bf4c/dcd754acf2441e174941424bbd61bf4c.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.2
-https://load-cdn-2.anime-live.com/drive/hls//8149c61c7e5d89872a02999ce74c01a2/8149c61c7e5d89872a02999ce74c01a2.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls//8149c61c7e5d89872a02999ce74c01a2/8149c61c7e5d89872a02999ce74c01a2.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.3
-https://load-cdn-2.anime-live.com/drive/hls//ec5f4d84a915dddae9bf7747a4a59a08/ec5f4d84a915dddae9bf7747a4a59a08.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls//ec5f4d84a915dddae9bf7747a4a59a08/ec5f4d84a915dddae9bf7747a4a59a08.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.4
-https://load-cdn-3.anime-live.com/drive/hls//c05d325d0077634b66ce07af92f5711b/c05d325d0077634b66ce07af92f5711b.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls//c05d325d0077634b66ce07af92f5711b/c05d325d0077634b66ce07af92f5711b.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.5
-https://load-cdn-2.anime-live.com/drive/hls//f2da9224b007369f0bffd0b8b8d29a79/f2da9224b007369f0bffd0b8b8d29a79.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls//f2da9224b007369f0bffd0b8b8d29a79/f2da9224b007369f0bffd0b8b8d29a79.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.6
 https://stream-cdn-m.anime-live.com/drive/hls/c63033b94de5e04e7ff2efd1a4f37a3e/c63033b94de5e04e7ff2efd1a4f37a3e.m3u8
@@ -2357,37 +2381,37 @@ The Tale of Nokdu (2019)
 
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 1-2
-https://load-cdn-5.anime-live.com/drive/hls/9ab9ee9afa8c9ba2e9930e76e991d983/9ab9ee9afa8c9ba2e9930e76e991d983.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/9ab9ee9afa8c9ba2e9930e76e991d983/9ab9ee9afa8c9ba2e9930e76e991d983.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 3-4
-https://load-cdn-2.anime-live.com/drive/hls/28e1be3eaf9de52797f82bc8fc7be8aa/28e1be3eaf9de52797f82bc8fc7be8aa.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/28e1be3eaf9de52797f82bc8fc7be8aa/28e1be3eaf9de52797f82bc8fc7be8aa.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 5-6
 https://stream-cdn-m.anime-live.com/drive/hls/0da2f9d2cc2ab315296a0bd6224e6c91/0da2f9d2cc2ab315296a0bd6224e6c91.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 7-8
-https://load-cdn-6.anime-live.com/drive/hls/5589cf18a47156ca45a8499bae3cd811/5589cf18a47156ca45a8499bae3cd811.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/5589cf18a47156ca45a8499bae3cd811/5589cf18a47156ca45a8499bae3cd811.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 9-10
-https://load-cdn-5.anime-live.com/drive/hls/fe6eea833f4bfcd0af8f6faf9c901b39/fe6eea833f4bfcd0af8f6faf9c901b39.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/fe6eea833f4bfcd0af8f6faf9c901b39/fe6eea833f4bfcd0af8f6faf9c901b39.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 11-12
-https://load-cdn-6.anime-live.com/drive/hls/c9221ca81033ae16b8ba63f471ec219b/c9221ca81033ae16b8ba63f471ec219b.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/c9221ca81033ae16b8ba63f471ec219b/c9221ca81033ae16b8ba63f471ec219b.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 13-14
-https://load-cdn-3.anime-live.com/drive/hls/3b96ea53b151be76e63becc8e4671651/3b96ea53b151be76e63becc8e4671651.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/3b96ea53b151be76e63becc8e4671651/3b96ea53b151be76e63becc8e4671651.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 15-16
-https://load-cdn-4.anime-live.com/drive/hls/9205d312695dd782018c5a6269ddf10f/9205d312695dd782018c5a6269ddf10f.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/9205d312695dd782018c5a6269ddf10f/9205d312695dd782018c5a6269ddf10f.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 17-18
 https://stream-cdn-m.anime-live.com/drive/hls/4cd01a4fb5915bdef1f312cc3ff660a8/4cd01a4fb5915bdef1f312cc3ff660a8.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 19-20
-https://load-cdn-4.anime-live.com/drive/hls/98fa2d57ce06e041119bb12f38c9483b/98fa2d57ce06e041119bb12f38c9483b.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/98fa2d57ce06e041119bb12f38c9483b/98fa2d57ce06e041119bb12f38c9483b.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 21-22
-https://load-cdn-2.anime-live.com/drive/hls/1c6fd456ff4ab6a8309ee6fcf0cc01a3/1c6fd456ff4ab6a8309ee6fcf0cc01a3.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/1c6fd456ff4ab6a8309ee6fcf0cc01a3/1c6fd456ff4ab6a8309ee6fcf0cc01a3.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 23-24
-https://load-cdn-6.anime-live.com/drive/hls/76bc26345028120be082269fd2678df2/76bc26345028120be082269fd2678df2.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/76bc26345028120be082269fd2678df2/76bc26345028120be082269fd2678df2.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 25-26
-https://load-cdn-5.anime-live.com/drive/hls/eb3e73d6b2d76c12a29227a09e8dc1e5/eb3e73d6b2d76c12a29227a09e8dc1e5.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/eb3e73d6b2d76c12a29227a09e8dc1e5/eb3e73d6b2d76c12a29227a09e8dc1e5.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 27-28
-https://load-cdn-2.anime-live.com/drive/hls/ca9694c0185657a0c73daeee8354bd30/ca9694c0185657a0c73daeee8354bd30.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/ca9694c0185657a0c73daeee8354bd30/ca9694c0185657a0c73daeee8354bd30.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 29-30
-https://load-cdn-2.anime-live.com/drive/hls/7cee30a8c0b852f5b957d1f34faa7cde/7cee30a8c0b852f5b957d1f34faa7cde.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/7cee30a8c0b852f5b957d1f34faa7cde/7cee30a8c0b852f5b957d1f34faa7cde.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 31-32
-https://load-cdn-6.anime-live.com/drive/hls/529cc8221d8795fb8199e0c491261e43/529cc8221d8795fb8199e0c491261e43.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/529cc8221d8795fb8199e0c491261e43/529cc8221d8795fb8199e0c491261e43.m3u8
 
 
 ดาบมังกรหยก
@@ -2558,6 +2582,8 @@ https://p2p_sv5.livedoomovie.com/hls/0cb1136edcb2ad36faf46b566e0b3590/0cb1136edc
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP.7
 https://slave7.iplayers.co/drive//hls/5b12b8f22bbf17c5e7c5a60657c3f530.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/SEE-Season-1-2019-170x250.png" group-title="SERIES",SEE SEASON 1 EP.8
+https://p2p_sv2.livedoomovie.com/hls/2d829648b57166d004ba4aafbe8f37a8/2d829648b57166d004ba4aafbe8f37a8.playlist.m3u8
 
 
 
@@ -2581,6 +2607,9 @@ https://p2p_sv1.dufree4k.net/hls/2ee5669fec6b188565e36d30623b9a79/2ee5669fec6b18
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/Ghostwriter.jpg" group-title="SERIES" ,GHOSTWRITER FIRST SEASON (2019) EP.6
 https://p2p_sv1.dufree4k.net/hls/f3bea15121bbbd7c378332f985f1985f/f3bea15121bbbd7c378332f985f1985f.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/Ghostwriter.jpg" group-title="SERIES" ,GHOSTWRITER FIRST SEASON (2019) EP.7
+https://stream-cdn-m.anime-live.com/drive/hls/403b077d1cdeeb36ec53d79442e1dbcd/403b077d1cdeeb36ec53d79442e1dbcd.m3u8
 
 
 
@@ -2610,6 +2639,9 @@ https://p2p_sv3.livedoomovie.com/hls/afde050c87b5265cf97c7751f93e6a67/afde050c87
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.7
 https://p2p_sv3.livedoomovie.com/hls/127a44fa0cfe655eb25e923cfe42fb4a/127a44fa0cfe655eb25e923cfe42fb4a.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.8
+https://p2p_sv2.livedoomovie.com/hls/59ae9fd109f9a2ed98775feb0a664257/59ae9fd109f9a2ed98775feb0a664257.playlist.m3u8
+
 
 
 SERVANT Season 1 
@@ -2623,6 +2655,10 @@ https://p2p_sv3.livedoomovie.com/hls/f41674378ca4e6a0ec80a72d31234e69/f41674378c
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b591fb5aa7e2668899a899bd56a247d6.jpg" group-title="SERIES" ,Servant Season 1 EP.3
 https://p2p_sv5.livedoomovie.com/hls/db7ac3fa05199f58ae1dc0cb42125643/db7ac3fa05199f58ae1dc0cb42125643.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b591fb5aa7e2668899a899bd56a247d6.jpg" group-title="SERIES" ,Servant Season 1 EP.4
+https://p2p_sv2.livedoomovie.com/hls/09cc0570670061f4d0f14a2217b6f94b/09cc0570670061f4d0f14a2217b6f94b.playlist.m3u8
+
 
 
 
@@ -2710,6 +2746,9 @@ https://p2p_sv1.dufree4k.net/hls/629bcff44daa5b5248bdf40c2eb98e93/629bcff44daa5b
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 12
 https://p2p_sv3.dufree4k.net/hls/bc10f833fe48450d74e2ef12740d199d/bc10f833fe48450d74e2ef12740d199d.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 13
+https://p2p_sv1.dufree4k.net/hls/39d37e84b8eb4a1adac5a4df4867787d/39d37e84b8eb4a1adac5a4df4867787d.playlist.m3u8
+
 
 
 
@@ -2782,6 +2821,9 @@ ONE YEAR 365 วัน บ้านฉัน บ้านเธอ
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/I2muYAW.jpg" group-title="SERIES" ,ONE YEAR 365 วัน บ้านฉัน บ้านเธอ ตอนที่ 1
 https://p2p_sv2.dufree4k.net/hls/5a48acf4fe0adc0f226a8e53acec716b/5a48acf4fe0adc0f226a8e53acec716b.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/I2muYAW.jpg" group-title="SERIES" ,ONE YEAR 365 วัน บ้านฉัน บ้านเธอ ตอนที่ 2
+https://p2p_sv5.dufree4k.net/hls/f1fbef296d18f54fc140d9c4eeeb4bc4/f1fbef296d18f54fc140d9c4eeeb4bc4.playlist.m3u8
+
 
 
 
@@ -2797,7 +2839,6 @@ https://p2p_sv1.livedoomovie.com/hls/e80361811ca09332dbac2ba367a81268/e80361811c
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/38ddb547d3eb4187c299e99cef67a03c.jpg" group-title="SERIES" ,Treadstone Season 1 EP.3
 https://p2p_sv1.livedoomovie.com/hls/4d192d76536640b2f2558b6b454835c3/4d192d76536640b2f2558b6b454835c3.playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/38ddb547d3eb4187c299e99cef67a03c.jpg" group-title="SERIES" ,Treadstone Season 1 EP.4
 https://slave13.iplayers.co/drive//hls/233c27459fd5ce487c397b501d766718.m3u8
@@ -2839,6 +2880,9 @@ https://slave13.iplayers.co/drive//hls/2126043cf9f251e0192816573e409fb8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.4
 https://slave3.iplayers.co/drive//hls/b160e96b1dc94e9e52b52ff62d75eff0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.5
+https://slave2.iplayers.co/drive//hls/59f64af2873e781e9777ec104bb40e29.m3u8
 
 
 

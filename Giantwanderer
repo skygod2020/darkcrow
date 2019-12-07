@@ -907,9 +907,14 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Click-2006-คลิก-รีโมตรักข้ามเวลา-170x250.png","Click คลิก รีโมตรักข้ามเวลา
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Dawn-of-the-Dead-2004-รุ่งอรุณแห่งความตาย-170x250.png",Dawn of the Dead รุ่งอรุณแห่งความตาย
+https://slave8.iplayers.co/drive//hls/7a37b6e5d30de5bc47708c036b2e4eab.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Land-of-the-Dead-2005-ดินแดนแห่งความตาย-170x250.jpg",Land of the Dead ดินแดนแห่งความตาย
+https://slave8.iplayers.co/drive//hls/3f50312195209af05c0b96b6b597990f.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Click-2006-คลิก-รีโมตรักข้ามเวลา-170x250.png",Click คลิก รีโมตรักข้ามเวลา
 https://slave7.iplayers.co/drive//hls/c38c606b63c92b336e3c64af756cdd26.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Idiocracy-2006-อัจฉริยะผ่าโลกเพี้ยน-170x250.png","Idiocracy (2006) อัจฉริยะผ่าโลกเพี้ยน
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Idiocracy-2006-อัจฉริยะผ่าโลกเพี้ยน-170x250.png",Idiocracy (2006) อัจฉริยะผ่าโลกเพี้ยน
 https://slave4.iplayers.co/drive//hls/8531bb4f344ea172269a4afccc252bd0.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Holes-2003-ขุมทรัพย์ปาฏิหารย์-170x250.png",Holes ขุมทรัพย์ปาฏิหารย์
 https://slave12.iplayers.co/drive//hls/7fa43cc843a90c884d213f873fa81dc6.m3u8

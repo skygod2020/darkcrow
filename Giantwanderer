@@ -1,6 +1,7 @@
 
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-ch3.png" group-title=" Thailand Channels",3HD
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" tvg-name=" TV5 HD"  group-title=" Thailand Channels",TV5 HD

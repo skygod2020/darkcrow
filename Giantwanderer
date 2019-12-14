@@ -756,7 +756,7 @@ MOVIES
 
 
 
-#EXTINF:-1 group-title="Movie"tvg-logo=""https://www.imovie-hd.com/wp-content/uploads/2019/12/6-Underground-2019-6-ลับ-ดับ-โหด-170x250.png",6 Underground (2019) 6 ลับ ดับ โหด
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/6-Underground-2019-6-ลับ-ดับ-โหด-170x250.png",6 Underground (2019) 6 ลับ ดับ โหด
 https://slave11.iplayers.co/drive//hls/8b9f9873085515937150ee49d9bc833d.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Saaho-2019-เกมปล้นนรก-170x250.png",Saaho (2019) เกมปล้นนรก [ซับไทย]
 https://slave4.iplayers.co/drive//hls/4e01adf4026cea4f02457c9deb41b6a7.m3u8
@@ -764,10 +764,6 @@ https://slave4.iplayers.co/drive//hls/4e01adf4026cea4f02457c9deb41b6a7.m3u8
 https://slave5.iplayers.co/drive//hls/4b411538225af6c9c62c1d62c312143d.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Doctor-Sleep-2019-170x250.png",Doctor Sleep (2019) ลางนรก
 https://slave10.iplayers.co/drive//hls/a34a0471f9bc7fd520d5b3eaf7c8d13c.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Kitchen-2019-เมื่อแม่บ้านต้องกลายเป็นหัวหน้าแก๊ง-170x250.png",The Kitchen (2019) เมื่อแม่บ้านต้องกลายเป็นหัวหน้าแก๊ง
 https://slave13.iplayers.co/drive//hls/75d91c372b21912040961a283abc83af.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Philosophy-of-Phil-2019-แผนลับหมอฟันจิตป่วง-170x250.png",The Philosophy of Phil (2019) แผนลับหมอฟันจิตป่วง

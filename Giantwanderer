@@ -206,7 +206,7 @@ https://live.we-play.tv/app/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title=" Thailand Channels",LFCTV
 https://live.we-play.tv/app/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title=" Thailand Channels",EUROSPORT 1
-http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/7341.m3u8
+https://live.we-play.tv/app/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title=" Thailand Channels",EUROSPORT 2
 http://iptv-luxe.com:8789/live/filipemiranda/b5sh0Muzb7/806.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
@@ -755,6 +755,19 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo=""https://www.imovie-hd.com/wp-content/uploads/2019/12/6-Underground-2019-6-ลับ-ดับ-โหด-170x250.png",6 Underground (2019) 6 ลับ ดับ โหด
+https://slave11.iplayers.co/drive//hls/8b9f9873085515937150ee49d9bc833d.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Saaho-2019-เกมปล้นนรก-170x250.png",Saaho (2019) เกมปล้นนรก [ซับไทย]
+https://slave4.iplayers.co/drive//hls/4e01adf4026cea4f02457c9deb41b6a7.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Good-Boys-2019-เด็กดีที่ไหน-170x250.png",Good Boys (2019) เด็กดีที่ไหน
+https://slave5.iplayers.co/drive//hls/4b411538225af6c9c62c1d62c312143d.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Doctor-Sleep-2019-170x250.png",Doctor Sleep (2019) ลางนรก
+https://slave10.iplayers.co/drive//hls/a34a0471f9bc7fd520d5b3eaf7c8d13c.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/The-Kitchen-2019-เมื่อแม่บ้านต้องกลายเป็นหัวหน้าแก๊ง-170x250.png",The Kitchen (2019) เมื่อแม่บ้านต้องกลายเป็นหัวหน้าแก๊ง
 https://slave13.iplayers.co/drive//hls/75d91c372b21912040961a283abc83af.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Philosophy-of-Phil-2019-แผนลับหมอฟันจิตป่วง-170x250.png",The Philosophy of Phil (2019) แผนลับหมอฟันจิตป่วง
@@ -814,7 +827,7 @@ https://edge-ns1.leoplayer1.com/drive//hls/65584809fad7d5f0c9102ad887a4d8c6/6558
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Rambo-5-Last-Blood-2019-แรมโบ้-5-นักรบคนสุดท้าย-170x250.png", Rambo 5 Last Blood (2019) แรมโบ้ 5 นักรบคนสุดท้าย
 https://p2p_sv3.livedoomovie.com/hls/b3e01273566293fd21ea8946ac4d99a5/b3e01273566293fd21ea8946ac4d99a5.playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Overcomer-2019-ซับไทย-170x250.png", Overcomer (2019) ซับไทย
-https://edge-ns1.leoplayer1.com/drive//hls/caa272635c155e18f03e6fc331ec3c98/caa272635c155e18f03e6fc331ec3c98.m3u8
+https://slave5.iplayers.co/drive//hls/166cfb230754007fa65d857140be2c6e.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Once-Upon-a-Time-in-Hollywood-2019-กาลครั้งหนึ่งในฮอลลีวู้ด-170x250.png", Once Upon a Time in Hollywood (2019) กาลครั้งหนึ่งในฮอลลีวู้ด [ซับไทย]
 https://edge-ns2.leoplayer1.com/drive//hls/7dac462cf8307a9711a042d75d90e7d1/7dac462cf8307a9711a042d75d90e7d1.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Goldfinch-2019-170x250.png", The Goldfinch (2019) ซับไทย
@@ -1546,11 +1559,14 @@ https://037hd1.vanlong.stream/drive//hls/b7509a31c7dad01d21c9213691c432ea/b7509a
 Movie จีน
 
 
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Ne-Zha-2019-นาจา-170x250.png",Ne Zha (2019) นาจา
+https://slave8.iplayers.co/drive//hls/65e573f2ba6d12f0f37651616ff6977b.m3u8
+
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Bravest-Escort-Group-2018-ขบวนการเปาเปียวผู้พิทักษ์-170x250.png",The Bravest Escort Group (2018) ขบวนการเปาเปียวผู้พิทักษ์
 https://slave11.iplayers.co/drive//hls/a406c43ddc7a5d663f0a10764dca6d1f.m3u8
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Kingdom-Kingudamu-2019-170x250.png",Kingdom Kingudamu (2019)
-https://slave13.iplayers.co/drive//hls/27d4eaec5256dc02b26e9d8e1059ecc7.m3u8
+https://slave13.iplayers.co/drive//hls/f6e8c302bc03d581ffc1e87c0b22ba4d.m3u8
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Jade-Dynasty-2019-กระบี่เทพสังหาร-170x250.png" ,กระบี่เทพสังหาร
 https://edge-ns2.leoplayer1.com/drive//hls/59a6d589a59981dee6bd900ec71d9605/59a6d589a59981dee6bd900ec71d9605.m3u8
@@ -2310,6 +2326,12 @@ https://load-cdn-2.anime-live.com/drive/hls/bead62c723bd5448110bda73a97ac128/bea
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.14
 https://load-cdn-2.anime-live.com/drive/hls/8cffcb5143d9c0b977b0aa4e61b1f71f/8cffcb5143d9c0b977b0aa4e61b1f71f.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.15
+https://load-cdn-2.anime-live.com/drive/hls/4921bddaea749272316544e3f3aa8ff4/4921bddaea749272316544e3f3aa8ff4.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/89abf3a14c27065881591f78333298c0.jpg" group-title="SERIES",Catch the Ghost 2019 ep.16
+https://load-cdn-2.anime-live.com/drive/hls/c314be13c29d289025a2ab3456146b72/c314be13c29d289025a2ab3456146b72.m3u8
+
 
 
 
@@ -2359,6 +2381,12 @@ https://load-cdn-2.anime-live.com/drive/hls/874006a433ded087a9be136e43cdc11b/874
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.14
 https://load-cdn-2.anime-live.com/drive/hls/b0b0cad02648e3fc1e5308665e216c77/b0b0cad02648e3fc1e5308665e216c77.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.15
+https://stream-cdn-m.anime-live.com/drive/hls/17ba061d3324d3ebac322a260dd9fc61/17ba061d3324d3ebac322a260dd9fc61.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a1e41074460fff0d95ca63dfcbed9d1f.jpg" group-title="SERIES",คำสาปจันทรา กาลเวลาแห่งรัก ep.16
+https://load-cdn-4.anime-live.com/drive/hls/1edc89e8b9979b4c867f3e9540886829/1edc89e8b9979b4c867f3e9540886829.m3u8
 
 
 
@@ -2440,6 +2468,13 @@ https://p2p_sv4.dufree4k.net/hls/b4df2768d73c95d3cf78ab98b4245462/b4df2768d73c95
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.11
 https://p2p_sv3.dufree4k.net/hls/07a22c065179b532ede1efbe82a47319/07a22c065179b532ede1efbe82a47319.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.12
+https://p2p_sv4.dufree4k.net/hls/e1f80758e21c6845925c8de9108a3942/e1f80758e21c6845925c8de9108a3942.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.13
+https://p2p_sv2.dufree4k.net/hls/6db51c65c363499e56bbd500cdfbf300/6db51c65c363499e56bbd500cdfbf300.playlist.m3u8
+
+
 
 
 joy of life 2019 หาญท้าชะตาฟ้า ปริศนายุทธจักร
@@ -2490,13 +2525,29 @@ https://load-cdn-2.anime-live.com/drive/hls/31ffc26f429316d68a98e1ae5bf13d07/31f
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.15
 https://load-cdn-2.anime-live.com/drive/hls/1bc135b9055c3c7a3ca22ca4692e73f8/1bc135b9055c3c7a3ca22ca4692e73f8.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.16
+https://load-cdn-2.anime-live.com/drive/hls/261317707d847c9bd834e6f317f9c343/261317707d847c9bd834e6f317f9c343.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.17
+https://load-cdn-2.anime-live.com/drive/hls/4d173dd873d7e136ae80286bfab10b46/4d173dd873d7e136ae80286bfab10b46.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.18
+https://load-cdn-6.anime-live.com/drive/hls/54a3f328f9e12576a5297543491a8115/54a3f328f9e12576a5297543491a8115.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.19
+https://load-cdn-2.anime-live.com/drive/hls/38039c1d22e7806a2b46bddd37b6b0df/38039c1d22e7806a2b46bddd37b6b0df.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/d76c3d89be15c7b904a56e58813f8360.jpg" group-title="SERIES",หาญท้าชะตาฟ้า ปริศนายุทธจักร Ep.20
+https://load-cdn-3.anime-live.com/drive/hls/7ed6af7432e9a1086d01faa1e4bd6f19/7ed6af7432e9a1086d01faa1e4bd6f19.m3u8
+
+
 
 
 Once-Upon a Time in Lingjian Mountain 2019
 
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/5fa13cf9a883b7f6098b7514f89e8cf8.jpg" group-title="SERIES",กาลครั้งหนึ่งที่ภูเขาหลิงเจี้ยน Ep.1
-https://load-cdn-2.anime-live.com/drive/hls/4bee32ea9178c7617beb66f23a93a014/4bee32ea9178c7617beb66f23a93a014.m3u8
+https://load-cdn-6.anime-live.com/drive/hls/4bee32ea9178c7617beb66f23a93a014/4bee32ea9178c7617beb66f23a93a014.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/5fa13cf9a883b7f6098b7514f89e8cf8.jpg" group-title="SERIES",กาลครั้งหนึ่งที่ภูเขาหลิงเจี้ยน Ep.2
 https://load-cdn-2.anime-live.com/drive/hls/d4dfcafcc4919e0344706368e047ee02/d4dfcafcc4919e0344706368e047ee02.m3u8
@@ -2535,28 +2586,47 @@ Sword Dynasty 2019
 
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.1
-https://load-cdn-2.anime-live.com/drive/hls/e359b2d51951e2a2353201bf0ca1e1e3/e359b2d51951e2a2353201bf0ca1e1e3.m3u8
+https://stream-cdn-m.anime-live.com/drive/hls/e359b2d51951e2a2353201bf0ca1e1e3/e359b2d51951e2a2353201bf0ca1e1e3.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.2
 https://load-cdn-2.anime-live.com/drive/hls/d27a7837e3f7a7328ab676e1d9d16f80/d27a7837e3f7a7328ab676e1d9d16f80.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.3
-https://load-cdn-2.anime-live.com/drive/hls/04c8f3dc00e65e25818f9ecbad253255/04c8f3dc00e65e25818f9ecbad253255.m3u8
+https://load-cdn-6.anime-live.com/drive/hls/04c8f3dc00e65e25818f9ecbad253255/04c8f3dc00e65e25818f9ecbad253255.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.4
-https://load-cdn-2.anime-live.com/drive/hls/16bcbdfd89e35a3aa037b923b5f89064/16bcbdfd89e35a3aa037b923b5f89064.m3u8
+https://load-cdn-4.anime-live.com/drive/hls/16bcbdfd89e35a3aa037b923b5f89064/16bcbdfd89e35a3aa037b923b5f89064.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.5
-https://load-cdn-2.anime-live.com/drive/hls/41eceb4a97def588849750df5d4e0927/41eceb4a97def588849750df5d4e0927.m3u8
+https://load-cdn-4.anime-live.com/drive/hls/41eceb4a97def588849750df5d4e0927/41eceb4a97def588849750df5d4e0927.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.6
-https://load-cdn-2.anime-live.com/drive/hls/923febf68ac2aefd4a318e14765bc8e1/923febf68ac2aefd4a318e14765bc8e1.m3u8
+https://load-cdn-4.anime-live.com/drive/hls/923febf68ac2aefd4a318e14765bc8e1/923febf68ac2aefd4a318e14765bc8e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.7
-https://load-cdn-2.anime-live.com/drive/hls/6e49cd79b3fb85e462315a4a91cb640a/6e49cd79b3fb85e462315a4a91cb640a.m3u8
+https://load-cdn-4.anime-live.com/drive/hls/6e49cd79b3fb85e462315a4a91cb640a/6e49cd79b3fb85e462315a4a91cb640a.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.8
 https://load-cdn-2.anime-live.com/drive/hls/e9b5bb945815536162b0cf428f49b749/e9b5bb945815536162b0cf428f49b749.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.9
+https://load-cdn-3.anime-live.com/drive/hls/ac23b0bff1399e3f234df5ec96b4927e/ac23b0bff1399e3f234df5ec96b4927e.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.10
+https://load-cdn-6.anime-live.com/drive/hls/73c060e0ca675789c0a0bb7383a8cdac/73c060e0ca675789c0a0bb7383a8cdac.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.11
+https://load-cdn-3.anime-live.com/drive/hls/4f6f1c2399d7315ac3515519d94908cd/4f6f1c2399d7315ac3515519d94908cd.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.12
+https://load-cdn-6.anime-live.com/drive/hls/aff42da280c8e72c8cf785cc3143a19e/aff42da280c8e72c8cf785cc3143a19e.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.13
+https://stream-cdn-m.anime-live.com/hls/928233c6f7be3293febd3cf41ffb40e5/928233c6f7be3293febd3cf41ffb40e5.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.14
+https://load-cdn-2.anime-live.com/drive/hls/8dc99b2a8a8678cc0a730f17813c9a1f/8dc99b2a8a8678cc0a730f17813c9a1f.m3u8
+
 
 
 
@@ -2595,6 +2665,8 @@ https://slave9.iplayers.co/drive//hls/1d1e70e271c79fe1337102587499b4eb.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.7
 https://p2p_sv4.livedoomovie.com/hls/37c759f0609061e0dff1f9120e4324cc/37c759f0609061e0dff1f9120e4324cc.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.7
+https://p2p_sv5.livedoomovie.com/hls/5b90f99a1757f52d85bb07ff87fce094/5b90f99a1757f52d85bb07ff87fce094.playlist.m3u8
 
 
 
@@ -2621,6 +2693,12 @@ https://p2p_sv4.dufree4k.net/hls/403c38458bb209efaf646908fee4a3b3/403c38458bb209
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/Batwoman-2.jpg" group-title="SERIES" ,BATWOMAN SEASON 1 (2019) EP.7
 https://p2p_sv1.livedoomovie.com/hls/d07a9303bd4eef589bd89d1856d21dab/d07a9303bd4eef589bd89d1856d21dab.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/Batwoman-2.jpg" group-title="SERIES" ,BATWOMAN SEASON 1 (2019) EP.8
+https://p2p_sv5.livedoomovie.com/hls/f686a4b538b14147391abc8b2ab4911a/f686a4b538b14147391abc8b2ab4911a.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/Batwoman-2.jpg" group-title="SERIES" ,BATWOMAN SEASON 1 (2019) EP.9
+https://p2p_sv5.livedoomovie.com/hls/44579411df62b4c768d5c8372c59cc0e/44579411df62b4c768d5c8372c59cc0e.playlist.m3u8
 
 
 
@@ -2708,6 +2786,10 @@ https://p2p_sv3.livedoomovie.com/hls/127a44fa0cfe655eb25e923cfe42fb4a/127a44fa0c
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.8
 https://p2p_sv2.livedoomovie.com/hls/59ae9fd109f9a2ed98775feb0a664257/59ae9fd109f9a2ed98775feb0a664257.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.9
+https://p2p_sv3.livedoomovie.com/hls/2f25b60da34d03104062f90b4f19461e/2f25b60da34d03104062f90b4f19461e.playlist.m3u8
+
+
 
 
 SERVANT Season 1 
@@ -2725,17 +2807,8 @@ https://p2p_sv5.livedoomovie.com/hls/db7ac3fa05199f58ae1dc0cb42125643/db7ac3fa05
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b591fb5aa7e2668899a899bd56a247d6.jpg" group-title="SERIES" ,Servant Season 1 EP.4
 https://p2p_sv2.livedoomovie.com/hls/09cc0570670061f4d0f14a2217b6f94b/09cc0570670061f4d0f14a2217b6f94b.playlist.m3u8
 
-
-
-Truth Be Told | Season 1 | 
-
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/35da27a39a8d48f0f6089a284972362c.jpg" group-title="SERIES" ,Truth Be Told | Season 1 | EP.1
-
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/35da27a39a8d48f0f6089a284972362c.jpg" group-title="SERIES" ,Truth Be Told | Season 1 | EP.2
-
-
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/b/b591fb5aa7e2668899a899bd56a247d6.jpg" group-title="SERIES" ,Servant Season 1 EP.5
+https://p2p_sv5.livedoomovie.com/hls/1ef1b5bc91ebd57eab8349b918283711/1ef1b5bc91ebd57eab8349b918283711.playlist.m3u8
 
 
 
@@ -2784,6 +2857,14 @@ https://p2p_sv1.livedoomovie.com/hls/18e2181f17431ad5d555562c7ebd8d57/18e2181f17
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 14
 https://p2p_sv4.livedoomovie.com/hls/66f543e9f88c362a4d436dc75d333bfe/66f543e9f88c362a4d436dc75d333bfe.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 15
+https://ota.cdnwatch.com/data10/08-12-2019/MySecretBride-Disc15-8-Dec-2019_HD.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 16
+https://ota.cdnwatch.com/data10/13-12-2019/MySecretBride-Disc16-13-Dec-2019_HD.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/XorXYva.jpg" group-title="SERIES" ,เขาวานให้หนูเป็นสายลับ ตอนที่ 17
+
 
 
 
@@ -2831,6 +2912,12 @@ https://p2p_sv3.dufree4k.net/hls/bc10f833fe48450d74e2ef12740d199d/bc10f833fe4845
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 13
 https://p2p_sv1.dufree4k.net/hls/39d37e84b8eb4a1adac5a4df4867787d/39d37e84b8eb4a1adac5a4df4867787d.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 14
+https://ota.cdnwatch.com/data10/11-12-2019/SapaiTKO-Disc14-11-Dec-2019_HD.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/10/ETmUk0c-723x1024.jpg" group-title="SERIES" ,สะใภ้ TKO ตอนที่ 15
+https://ota.cdnwatch.com/data10/12-12-2019/SaPaiTKO-Disc15-12-Dec-2019_HD.mp4/index.m3u8
+
 
 
 
@@ -2867,6 +2954,12 @@ https://p2p_sv2.livedoomovie.com/hls/a06b24af48649ad81946fbee62cf577b/a06b24af48
 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 10
 https://slave9.iplayers.co/drive//hls/eec4f75f9c73f1bcccb33aa811f43609.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 11
+https://slave9.iplayers.co/drive//hls/3ab926efed475a1896b5fe62daac5aea.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 12
+https://slave4.iplayers.co/drive//hls/32ecc6ec4e4adfc897649defbcc9dd38.m3u8
 
 
 
@@ -2956,6 +3049,9 @@ https://p2p_sv1.livedoomovie.com/hls/9e9fa6d18128f215b8116510f451b349/9e9fa6d181
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.5
 https://slave1.iplayers.co/drive//hls/a2423e5227067212451bc1a339cef10e.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.6
+https://p2p_sv1.livedoomovie.com/hls/fc79ed7b8797d93ee1a8ed9618e6e38f/fc79ed7b8797d93ee1a8ed9618e6e38f.playlist.m3u8
+
 
 
 Starwar The-Mandalorian Season 1
@@ -2975,6 +3071,10 @@ https://slave3.iplayers.co/drive//hls/b160e96b1dc94e9e52b52ff62d75eff0.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.5
 https://slave2.iplayers.co/drive//hls/59f64af2873e781e9777ec104bb40e29.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.6
+https://slave5.iplayers.co/drive//hls/53c2676027ff3fa2fe7816ab56fc546f.m3u8
+
 
 
 

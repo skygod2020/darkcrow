@@ -756,7 +756,8 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
-
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Angry-Birds-Movie-2-2019-แอ็งกรี-เบิร์ดส-เดอะ-มูวี่-2-170x250.png",The Angry Birds Movie 2 (2019) แอ็งกรี เบิร์ดส เดอะ มูวี่ 2
+https://p2p_sv5.livedoomovie.com/hls/aa4e112c7a93d16ed21f4c368b294439/aa4e112c7a93d16ed21f4c368b294439.playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/6-Underground-2019-6-ลับ-ดับ-โหด-170x250.png",6 Underground (2019) 6 ลับ ดับ โหด
 https://slave11.iplayers.co/drive//hls/8b9f9873085515937150ee49d9bc833d.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Saaho-2019-เกมปล้นนรก-170x250.png",Saaho (2019) เกมปล้นนรก [ซับไทย]
@@ -893,6 +894,8 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Pattaya-2016-พัทยา-อะฮ่า-อะฮ่า-170x250.png",Pattaya (2016) พัทยา อะฮ่า อะฮ่า
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Southpaw-2015-สังเวียนเดือด-170x250.png",Southpaw (2015) สังเวียนเดือด
 https://slave12.iplayers.co/drive//hls/af5dbc5db72e92d3f50ccd3b4fc52354.m3u8
@@ -1558,6 +1561,18 @@ Movie จีน
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Ne-Zha-2019-นาจา-170x250.png",Ne Zha (2019) นาจา
 https://slave8.iplayers.co/drive//hls/65e573f2ba6d12f0f37651616ff6977b.m3u8
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Journey-to-the-West-Conquering-the-Demons-ไซอิ๋ว-คนเล็กอิทธิฤทธิ์หญ่าย-170x250.png",Journey to the West Conquering the Demons (2013) ไซอิ๋ว คนเล็กอิทธิฤทธิ์ใหญ่
+https://slave7.iplayers.co/drive//hls/b7bd83815b87f226ab306830c336dee1.m3u8
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Journey-to-the-West-The-Demons-Strike-Back-2017-ไซอิ๋ว-คนเล็กอิทธิฤทธิ์ใหญ่-170x250.png",Journey to the West The Demons Strike Back (2017) ไซอิ๋ว คนเล็กอิทธิฤทธิ์ใหญ่ 2
+https://slave9.iplayers.co/drive//hls/c61e604525d3e43769b4ff5f7d678326.m3u8
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Wolf-Warrior-1-2015-วูฟวอริเออร์-ฝูงรบหมาป่า-170x250.png",Wolf Warrior (2015) วูฟวอริเออร์ ฝูงรบหมาป่า
+
+
+#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Wolf-Warrior-2-2017-กองพันหมาป่า-170x250.png",Wolf Warrior 2 (2017) กองพันหมาป่า
+
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Bravest-Escort-Group-2018-ขบวนการเปาเปียวผู้พิทักษ์-170x250.png",The Bravest Escort Group (2018) ขบวนการเปาเปียวผู้พิทักษ์
 https://slave11.iplayers.co/drive//hls/a406c43ddc7a5d663f0a10764dca6d1f.m3u8
@@ -2427,6 +2442,16 @@ https://load-cdn-2.anime-live.com/drive/hls/ca9694c0185657a0c73daeee8354bd30/ca9
 https://load-cdn-2.anime-live.com/drive/hls/7cee30a8c0b852f5b957d1f34faa7cde/7cee30a8c0b852f5b957d1f34faa7cde.m3u8
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/84d50acbb30c65880079868c7df7e4b1.jpg" group-title="SERIES",The Tale of Nokdu (2019) ตอนที่ 31-32
 https://load-cdn-2.anime-live.com/drive/hls/529cc8221d8795fb8199e0c491261e43/529cc8221d8795fb8199e0c491261e43.m3u8
+
+
+
+
+Crash Landing On You (2019) ปักหมุดรักฉุกเฉิน
+
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Crash-Landing-On-You-2019-ปักหมุดรักฉุกเฉิน-170x250.png" group-title="SERIES",Crash Landing On You (2019) ปักหมุดรักฉุกเฉิน EP.1
+https://slave11.iplayers.co/drive//hls/
+
 
 
 ดาบมังกรหยก

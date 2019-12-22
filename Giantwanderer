@@ -168,7 +168,7 @@ https://livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6RKisov.png" group-title=" Thailand Channels", FIGHT SPORTS
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/kix.png" group-title=" Thailand Channels",KIX
-https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
+https://live.we-play.tv/app/kix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title=" Thailand Channels",adsport1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iWEHD9/2ad.png" group-title=" Thailand Channels",adsport2
@@ -242,13 +242,13 @@ https://live.we-play.tv/app/blue-ent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/rtl_extreme.png" group-title=" Thailand Channels",BLUEANT EXTREME
 https://live.we-play.tv/app/blue-ext/playlist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title=" Thailand Channels", HBO HD
-https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+https://live.we-play.tv/app/hbo-hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title=" Thailand Channels", HBO Hit
-https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+https://live.we-play.tv/app/hbo-hits/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbosig.png" group-title=" Thailand Channels", HBOSignature
-https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+https://live.we-play.tv/app/hbo-sig/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbofam.png"  group-title=" Thailand Channels",HBO FAMILY
-https://livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
+https://live.we-play.tv/app/hbo-fam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg"  group-title=" Thailand Channels",PARAMOUNT CHANNEL
 https://live.we-play.tv/app/paramount/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title=" Thailand Channels", CINEMAX
@@ -288,9 +288,9 @@ https://live.we-play.tv/app/truefilmasia/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title=" Thailand Channels", True Asian Series HD
 https://live.we-play.tv/app/trueasianhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title=" Thailand Channels", TrueFilmHD1
-https://livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
+https://live.we-play.tv/app/truefilmhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg" group-title=" Thailand Channels", TrueFilmHD2
-https://livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
+https://live.we-play.tv/app/truefilmhd2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9AVj65.jpg"  group-title=" Thailand Channels",Series
 http://bit.ly/2lYo7nW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KEbokdx.jpg"  group-title=" Thailand Channels",M Channel
@@ -758,7 +758,22 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/a/a4f9facfafdd6ebcb774b6ae47a48b63.jpg",A Family Reunion Christmas (2019)
+https://p2p_sv2.livedoomovie.com/hls/4c3389d89336f47028ba08035ccaa145/4c3389d89336f47028ba08035ccaa145.playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Aeronauts-2019-170x250.png",The Aeronauts (2019) ซับไทย
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Two-Popes-2019-สันตะปาปาโลกจารึก-170x250.png",The Two Popes (2019) สันตะปาปาโลกจารึก [ซับไทย]
+https://p2p_sv1.livedoomovie.com/hls/97455cb97f2fb18afc5fc7b70a3d41f7/97455cb97f2fb18afc5fc7b70a3d41f7.playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Zombieland-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-170x250.png",ZOMBIELAND ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
+https://slave11.iplayers.co/drive//hls/82030fd6f3a19746e23b0c8b28194c5a.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Zombieland-2-Double-Tap-2019-ซอมบี้แลนด์-2-แก๊งซ่าส์ล่าล้างซอมบี้-170x250.png",ซอมบี้แลนด์ 2 แก๊งซ่าส์ล่าล้างซอมบี้
+https://p2p_sv5.livedoomovie.com/hls/f1546a8c9673ac7c42d0704696374c4b/f1546a8c9673ac7c42d0704696374c4b.playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Can-You-Keep-a-Secret-2019-คุณเก็บความลับได้ไหม-170x250.png",Can You Keep a Secret (2019) คุณเก็บความลับได้ไหม
+https://slave5.iplayers.co/drive//hls/5264dff08e70917e85ce5f4a120aaddc.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Trouble-2019-ตูบทรอเบิลไฮโซจรจัด-170x250.png",Trouble (2019) ตูบทรอเบิลไฮโซจรจัด
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Drunk-Parents-2019-170x250.png",Drunk Parents (2019) ซับไทย
+
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Them-That-Follow-2019-170x250.png",Them That Follow (2019) ซับไทย
 https://slave11.iplayers.co/drive//hls/29c40aba72ced66cbfcf1599b4f16487.m3u8
@@ -1073,9 +1088,6 @@ https://slave1.iplayers.co/drive//hls/db6766365c061c1afa8127db265c26e4.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Ip-Man-3-2016-%E0%B8%A2%E0%B8%B4%E0%B8%9B%E0%B8%A1%E0%B8%B1%E0%B8%99-3-170x250.png",IP MAN 3 (2016) ยิปมัน 3
 https://slave9.iplayers.co/drive//hls/5d5ad5ce84002ff8935bc102ce7833c4.m3u8
-
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Zombieland-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-170x250.png",ZOMBIELAND ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
-https://slave11.iplayers.co/drive//hls/82030fd6f3a19746e23b0c8b28194c5a.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Gintama-1-2017-%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B0-1-%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%94-170x250.png",GINTAMA 1 (2017)
 https://slave8.iplayers.co/drive//hls/2c4ba9d188336a9787e5ef1c8211cc70.m3u8
@@ -2519,6 +2531,15 @@ https://p2p_sv4.dufree4k.net/hls/e1f80758e21c6845925c8de9108a3942/e1f80758e21c68
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.13
 https://p2p_sv2.dufree4k.net/hls/6db51c65c363499e56bbd500cdfbf300/6db51c65c363499e56bbd500cdfbf300.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.14
+https://p2p_sv4.dufree4k.net/hls/4a176ed05e2a05c132246aea27ff9b2e/4a176ed05e2a05c132246aea27ff9b2e.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.15
+https://p2p_sv1.dufree4k.net/hls/85763530413220058baeb7ca6335d697/85763530413220058baeb7ca6335d697.playlist.m3u8
+
+
+
+
 
 
 
@@ -2737,6 +2758,10 @@ https://p2p_sv4.livedoomovie.com/hls/37c759f0609061e0dff1f9120e4324cc/37c759f060
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.8
 https://p2p_sv5.livedoomovie.com/hls/5b90f99a1757f52d85bb07ff87fce094/5b90f99a1757f52d85bb07ff87fce094.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Watchmen-Season-1-170x250.png" group-title="SERIES",Watchmen ep.9
+https://p2p_sv3.livedoomovie.com/hls/faf0775c6421b11f232dfac22455d855/faf0775c6421b11f232dfac22455d855.playlist.m3u8
+
+
 
 
 Batwoman (2019)
@@ -2858,6 +2883,9 @@ https://p2p_sv2.livedoomovie.com/hls/59ae9fd109f9a2ed98775feb0a664257/59ae9fd109
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.9
 https://p2p_sv3.livedoomovie.com/hls/2f25b60da34d03104062f90b4f19461e/2f25b60da34d03104062f90b4f19461e.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.9
+https://p2p_sv2.livedoomovie.com/hls/f06038a692cd99de7a1e44d509eb0613/f06038a692cd99de7a1e44d509eb0613.playlist.m3u8
+
 
 
 
@@ -2878,6 +2906,10 @@ https://p2p_sv2.livedoomovie.com/hls/09cc0570670061f4d0f14a2217b6f94b/09cc057067
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5f98642a8d242eecac9be1f2fa7985ea.jpg" group-title="SERIES" ,Servant Season 1 EP.5
 https://p2p_sv5.livedoomovie.com/hls/1ef1b5bc91ebd57eab8349b918283711/1ef1b5bc91ebd57eab8349b918283711.playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5f98642a8d242eecac9be1f2fa7985ea.jpg" group-title="SERIES" ,Servant Season 1 EP.6
+https://p2p_sv5.livedoomovie.com/hls/a0332d8490bdf3e584d54044ba41b9cb/a0332d8490bdf3e584d54044ba41b9cb.playlist.m3u8
 
 
 
@@ -3035,6 +3067,9 @@ https://slave4.iplayers.co/drive//hls/32ecc6ec4e4adfc897649defbcc9dd38.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 13
 https://slave10.iplayers.co/drive//hls/ce996b4c9deea1cc2075a70d493aad93.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 14
+https://p2p_sv1.livedoomovie.com/hls/942d69407003ed85ee1d83f3043d2201/942d69407003ed85ee1d83f3043d2201.playlist.m3u8
+
 
 
 
@@ -3075,6 +3110,9 @@ https://p2p_sv5.dufree4k.net/hls/f1fbef296d18f54fc140d9c4eeeb4bc4/f1fbef296d18f5
 
 #EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/I2muYAW.jpg" group-title="SERIES" ,ONE YEAR 365 วัน บ้านฉัน บ้านเธอ ตอนที่ 3
 https://p2p_sv5.dufree4k.net/hls/c6e494c2efba1ad877b0b3a51f397b06/c6e494c2efba1ad877b0b3a51f397b06.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dufree4k.com/wp-content/uploads/2019/11/I2muYAW.jpg" group-title="SERIES" ,ONE YEAR 365 วัน บ้านฉัน บ้านเธอ ตอนที่ 4
+https://p2p_sv1.dufree4k.net/hls/66e757de110c779e090fec7180a32e1a/66e757de110c779e090fec7180a32e1a.playlist.m3u8
 
 
 
@@ -3152,6 +3190,10 @@ https://slave2.iplayers.co/drive//hls/59f64af2873e781e9777ec104bb40e29.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.6
 https://slave5.iplayers.co/drive//hls/53c2676027ff3fa2fe7816ab56fc546f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Star-Wars-The-Mandalorian-Season-1-2019-170x250.png" group-title="SERIES",Star Wars The Mandalorian Season 1 (2019) EP.7
+https://p2p_sv2.livedoomovie.com/hls/cf73f1dc74cbdf9ef4b484b5cab51d91/cf73f1dc74cbdf9ef4b484b5cab51d91.playlist.m3u8
+
 
 
 

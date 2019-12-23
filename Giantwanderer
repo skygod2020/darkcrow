@@ -2270,16 +2270,28 @@ https://p2p_sv3.livedoomovie.com/hls/ad07e2b8c94783685c52bc7280b63242/ad07e2b8c9
 
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.15
-https://stream-cdn-m.anime-live.com/drive/hls/250ba3215afbf74a58cdd5c86d0c8c18/250ba3215afbf74a58cdd5c86d0c8c18.m3u8
+https://p2p_sv4.livedoomovie.com/hls/96f7166564b617b6fd06916458bfa888/96f7166564b617b6fd06916458bfa888.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.16
-https://stream-cdn-m.anime-live.com/drive/hls/0d51c594c95a564c9296a329b2bcc48e/0d51c594c95a564c9296a329b2bcc48e.m3u8
+https://p2p_sv2.livedoomovie.com/hls/8f08b16e82fb204d49ba87e31aaad395/8f08b16e82fb204d49ba87e31aaad395.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.17
-https://stream-cdn-m.anime-live.com/drive/hls/360845ee1f609e359d5a93e35f67d2a6/360845ee1f609e359d5a93e35f67d2a6.m3u8
+https://p2p_sv4.livedoomovie.com/hls/6a24d6fe2b2a34e78fb8c9875220a67a/6a24d6fe2b2a34e78fb8c9875220a67a.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.18
-https://stream-cdn-m.anime-live.com/drive/hls/7c72a11cc328246592272e29ef1594fa/7c72a11cc328246592272e29ef1594fa.m3u8
+https://p2p_sv4.livedoomovie.com/hls/bf25153826902748ed03883d76e836dd/bf25153826902748ed03883d76e836dd.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.19
+https://p2p_sv4.livedoomovie.com/hls/93d69a51be2fb760a9d68d8ae8ae46b4/93d69a51be2fb760a9d68d8ae8ae46b4.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.20
+https://p2p_sv2.livedoomovie.com/hls/b665140cb096e88aebed0c9ed303a81a/b665140cb096e88aebed0c9ed303a81a.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.21
+https://p2p_sv2.livedoomovie.com/hls/2cdb5083a52093717e39a52a4caf8014/2cdb5083a52093717e39a52a4caf8014.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.22
+https://p2p_sv3.livedoomovie.com/hls/659df0682abef7509635cb0323708f4e/659df0682abef7509635cb0323708f4e.playlist.m3u8
 
 
 

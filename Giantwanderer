@@ -168,7 +168,7 @@ https://livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6RKisov.png" group-title=" Thailand Channels", FIGHT SPORTS
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/kix.png" group-title=" Thailand Channels",KIX
-https://live.we-play.tv/app/kix/playlist.m3u8
+https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title=" Thailand Channels",adsport1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iWEHD9/2ad.png" group-title=" Thailand Channels",adsport2
@@ -242,13 +242,13 @@ https://live.we-play.tv/app/blue-ent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/rtl_extreme.png" group-title=" Thailand Channels",BLUEANT EXTREME
 https://live.we-play.tv/app/blue-ext/playlist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title=" Thailand Channels", HBO HD
-https://live.we-play.tv/app/hbo-hd/playlist.m3u8
+ttps://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title=" Thailand Channels", HBO Hit
-https://live.we-play.tv/app/hbo-hits/playlist.m3u8
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbosig.png" group-title=" Thailand Channels", HBOSignature
-https://live.we-play.tv/app/hbo-sig/playlist.m3u8
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbofam.png"  group-title=" Thailand Channels",HBO FAMILY
-https://live.we-play.tv/app/hbo-fam/playlist.m3u8
+https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg"  group-title=" Thailand Channels",PARAMOUNT CHANNEL
 https://live.we-play.tv/app/paramount/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title=" Thailand Channels", CINEMAX
@@ -288,9 +288,9 @@ https://live.we-play.tv/app/truefilmasia/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title=" Thailand Channels", True Asian Series HD
 https://live.we-play.tv/app/trueasianhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title=" Thailand Channels", TrueFilmHD1
-https://live.we-play.tv/app/truefilmhd/playlist.m3u8
+https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/2018073120512464649285.jpg" group-title=" Thailand Channels", TrueFilmHD2
-https://live.we-play.tv/app/truefilmhd2/playlist.m3u8
+https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9AVj65.jpg"  group-title=" Thailand Channels",Series
 http://bit.ly/2lYo7nW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KEbokdx.jpg"  group-title=" Thailand Channels",M Channel

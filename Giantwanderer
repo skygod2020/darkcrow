@@ -758,10 +758,11 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Jackpot-2019-170x250.png",Jackpot (2019) ซับไทย
+https://slave11.iplayers.co/drive//hls/ddf97fa098ef9ebe717ef797ae30aecb.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/a/a4f9facfafdd6ebcb774b6ae47a48b63.jpg",A Family Reunion Christmas (2019)
 https://p2p_sv2.livedoomovie.com/hls/4c3389d89336f47028ba08035ccaa145/4c3389d89336f47028ba08035ccaa145.playlist.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Aeronauts-2019-170x250.png",The Aeronauts (2019) ซับไทย
-
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Two-Popes-2019-สันตะปาปาโลกจารึก-170x250.png",The Two Popes (2019) สันตะปาปาโลกจารึก [ซับไทย]
 https://p2p_sv1.livedoomovie.com/hls/97455cb97f2fb18afc5fc7b70a3d41f7/97455cb97f2fb18afc5fc7b70a3d41f7.playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Zombieland-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-170x250.png",ZOMBIELAND ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
@@ -770,11 +771,6 @@ https://slave11.iplayers.co/drive//hls/82030fd6f3a19746e23b0c8b28194c5a.m3u8
 https://p2p_sv5.livedoomovie.com/hls/f1546a8c9673ac7c42d0704696374c4b/f1546a8c9673ac7c42d0704696374c4b.playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Can-You-Keep-a-Secret-2019-คุณเก็บความลับได้ไหม-170x250.png",Can You Keep a Secret (2019) คุณเก็บความลับได้ไหม
 https://slave5.iplayers.co/drive//hls/5264dff08e70917e85ce5f4a120aaddc.m3u8
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Trouble-2019-ตูบทรอเบิลไฮโซจรจัด-170x250.png",Trouble (2019) ตูบทรอเบิลไฮโซจรจัด
-
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Drunk-Parents-2019-170x250.png",Drunk Parents (2019) ซับไทย
-
-
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Them-That-Follow-2019-170x250.png",Them That Follow (2019) ซับไทย
 https://slave11.iplayers.co/drive//hls/29c40aba72ced66cbfcf1599b4f16487.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Angry-Birds-Movie-2-2019-แอ็งกรี-เบิร์ดส-เดอะ-มูวี่-2-170x250.png",The Angry Birds Movie 2 (2019) แอ็งกรี เบิร์ดส เดอะ มูวี่ 2
@@ -915,8 +911,6 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
-
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Pattaya-2016-พัทยา-อะฮ่า-อะฮ่า-170x250.png",Pattaya (2016) พัทยา อะฮ่า อะฮ่า
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Southpaw-2015-สังเวียนเดือด-170x250.png",Southpaw (2015) สังเวียนเดือด
 https://slave12.iplayers.co/drive//hls/af5dbc5db72e92d3f50ccd3b4fc52354.m3u8
@@ -1599,12 +1593,6 @@ https://slave7.iplayers.co/drive//hls/b7bd83815b87f226ab306830c336dee1.m3u8
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Journey-to-the-West-The-Demons-Strike-Back-2017-ไซอิ๋ว-คนเล็กอิทธิฤทธิ์ใหญ่-170x250.png",Journey to the West The Demons Strike Back (2017) ไซอิ๋ว คนเล็กอิทธิฤทธิ์ใหญ่ 2
 https://slave9.iplayers.co/drive//hls/c61e604525d3e43769b4ff5f7d678326.m3u8
-
-#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Wolf-Warrior-1-2015-วูฟวอริเออร์-ฝูงรบหมาป่า-170x250.png",Wolf Warrior (2015) วูฟวอริเออร์ ฝูงรบหมาป่า
-
-
-#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Wolf-Warrior-2-2017-กองพันหมาป่า-170x250.png",Wolf Warrior 2 (2017) กองพันหมาป่า
-
 
 #EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Bravest-Escort-Group-2018-ขบวนการเปาเปียวผู้พิทักษ์-170x250.png",The Bravest Escort Group (2018) ขบวนการเปาเปียวผู้พิทักษ์
 https://slave11.iplayers.co/drive//hls/a406c43ddc7a5d663f0a10764dca6d1f.m3u8
@@ -2705,6 +2693,10 @@ https://p2p_sv1.livedoomovie.com/hls/942d69407003ed85ee1d83f3043d2201/942d694070
 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 15
 https://p2p_sv4.livedoomovie.com/hls/28e5be014296ddf6cec009e232fefe33/28e5be014296ddf6cec009e232fefe33.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1572911265.jpg" group-title="SERIES" ,VOICE สัมผัสเสียงมรณะ 16
+https://slave11.iplayers.co/drive//hls/abe656c75b85fdef825618f43b8cfa78.m3u8
+
 
 
 

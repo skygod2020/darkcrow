@@ -186,22 +186,22 @@ https://live.we-play.tv/app/btsport3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title=" Thailand Channels",astrosport1hd 
-https://live.we-play.tv/app/astro1/playlist.m3u8
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/my-asp1hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title=" Thailand Channels",astrosport2hd
-https://leechviplink.ddnslive.com/app/astro2/chunks.m3u8
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/my-asp2hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title=" Thailand Channels",astrosport3hd 
-https://live.we-play.tv/app/astro3/playlist.m3u8
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/my-asp3hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title=" Thailand Channels",astrosport4hd 
-https://live.we-play.tv/app/astro4/playlist.m3u8
+https://vodcache.worldwidetv.club/4mdnv8aldjfh72cc/liveorigin/my-asp4hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title=" Thailand Channels",SPORTTV1
-https://live.we-play.tv/app/sporttv1/playlist.m3u8
+https://livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title=" Thailand Channels",SPORTTV2
-https://live.we-play.tv/app/sporttv2/playlist.m3u8
+https://livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv3.jpg"  group-title=" Thailand Channels",SPORTTV3
-https://live.we-play.tv/app/sporttv3/playlist.m3u8
+https://livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv4.jpg" group-title=" Thailand Channels",SPORTTV4
-https://live.we-play.tv/app/sporttv4/playlist.m3u8
+https://livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/hd-sporttv5.jpg" group-title=" Thailand Channels",SPORTTV5
 https://livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mutv.jpg" group-title=" Thailand Channels",MUTV

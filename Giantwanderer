@@ -761,10 +761,22 @@ MOVIES
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Jackpot-2019-170x250.png",Jackpot (2019) ซับไทย
 https://slave11.iplayers.co/drive//hls/ddf97fa098ef9ebe717ef797ae30aecb.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Aeronauts-2019-170x250.png",The Aeronauts (2019) ซับไทย
+https://slave11.iplayers.co/drive//hls/c737567c3990bd6fce6d262e4419f030.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Bravest-2019-ผู้พิทักษ์ดับไฟ-170x250.png",The Bravest (2019) ผู้พิทักษ์ดับไฟ
+https://slave11.iplayers.co/drive//hls/4f6659fe1fd5376d36854bed0ba724c7.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Knives-Out-2019-ฆาตกรรมหรรษา-ใครฆ่าคุณปู่-170x250.png",ฆาตกรรมหรรษา ใครฆ่าคุณปู่
+https://slave11.iplayers.co/drive//hls/01e134257525dad7d4036a429572d9a3.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Addams-Family-2019-ตระกูลนี้ผียังหลบ-170x250.png",The Addams Family (2019) ตระกูลนี้ผียังหลบ
+https://slave11.iplayers.co/drive//hls/7d1a67604c931df0a89fa5463578dc8e.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Joker-2019-โจ๊กเกอร์-HD-170x250.png",Joker (2019) โจ๊กเกอร์
+https://slave11.iplayers.co/drive//hls/064efdc578a084d596b31bef5c28481f.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-App-2019-รักเสมือน-170x250.png",The App (2019) รักเสมือน
+https://slave11.iplayers.co/drive//hls/51562d88c6ce3f97b14891c1970c8cce.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/a/a4f9facfafdd6ebcb774b6ae47a48b63.jpg",A Family Reunion Christmas (2019)
 https://p2p_sv2.livedoomovie.com/hls/4c3389d89336f47028ba08035ccaa145/4c3389d89336f47028ba08035ccaa145.playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Two-Popes-2019-สันตะปาปาโลกจารึก-170x250.png",The Two Popes (2019) สันตะปาปาโลกจารึก [ซับไทย]
-https://p2p_sv1.livedoomovie.com/hls/97455cb97f2fb18afc5fc7b70a3d41f7/97455cb97f2fb18afc5fc7b70a3d41f7.playlist.m3u8
+https://slave11.iplayers.co/drive//hls/2a425aed9e1271652eab662f65382268.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/06/Zombieland-%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%8A%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B5%E0%B9%89-170x250.png",ZOMBIELAND ซอมบี้แลนด์ แก๊งคนซ่าส์ล่าซอมบี้
 https://slave11.iplayers.co/drive//hls/82030fd6f3a19746e23b0c8b28194c5a.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Zombieland-2-Double-Tap-2019-ซอมบี้แลนด์-2-แก๊งซ่าส์ล่าล้างซอมบี้-170x250.png",ซอมบี้แลนด์ 2 แก๊งซ่าส์ล่าล้างซอมบี้
@@ -1091,6 +1103,7 @@ https://slave12.iplayers.co/drive//hls/cfc9df5982ad980fc03a0cc351c81a7c.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/47-Meters-Down-1-2017-47-%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%89%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-poster-170x250.png",47 ดิ่งลึกเฉียดนรก
 https://slave8.iplayers.co/drive//hls/5cfbd8f8876f2226c977a4abd709bf37.m3u8
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/47-Meters-Down-Uncaged-2019-47-%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%81-poster-movie-170x250.png",47 ดิ่งลึกสุดนรก 2
 https://slave13.iplayers.co/drive//hls/c3280c47af3c8b324d6e527bd6b29c15.m3u8
 
@@ -1373,6 +1386,10 @@ https://slave7.iplayers.co/drive//hls/ba60dfee815fc99d804ce55326d1b197.m3u8
 https://p2p_sv5.livedoomovie.com/hls/d662abe6fbf4f2366d8e7ad95d7b44fe/d662abe6fbf4f2366d8e7ad95d7b44fe.playlist.m3u8
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%82%E0%B8%99%E0%B8%87-2013-Pee-Mak-Phra-Khanong-170x250.png",พี่มาก พระโขนง
 https://slave7.iplayers.co/drive//hls/bdf67fcb0e9be721a95fa596ddeb5250.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/9-Satra-2018-9-ศาสตรา-170x250.png",9 Satra (2018) 9 ศาสตรา
+https://slave11.iplayers.co/drive//hls/7428f4d22ddd622909f2218ef0e24fa3.m3u8
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/05/ขุนบันลือ-2018-Khun-Bun-Lue-1-170x250.png",ขุนบันลือ (2018
+https://slave11.iplayers.co/drive//hls/161543b66b44402e28bda14eabe17c10.m3u8
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Bad-Genius-2017-ฉลาดเกมส์โกง-170x250.png",ฉลาดเกมส์โกง
 https://slave12.iplayers.co/drive//hls/04800e2069f460d735a6d62aec2ec7ff.m3u8
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Fanday-2016-แฟนกันแค่วันเดียว-170x250.png",แฟนกันแค่วันเดียว
@@ -1625,6 +1642,8 @@ https://cdn4.cdn9x.com/74mp6n02/480p.m3u8
 Movie เกาหลี
 
 
+#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Gangster-The-Cop-The-Devil-2019-170x250.png",The Gangster, The Cop, The Devil (2019) ซับไทย
+https://slave11.iplayers.co/drive//hls/2c77b69ad64049eb2c29ff7fa943b075.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Extreme-Job-2019-ภารกิจทอดไก่-ซุ่มจับเจ้าพ่อ-170x250.png", Extreme Job (2019) ภารกิจทอดไก่ ซุ่มจับเจ้าพ่อ [ซับไทย]
 https://slave12.iplayers.co/drive//hls/e91d5ad8cdbdf66cb086dc17ae13a3ef.m3u8
 #EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.kuyhd.com/wp-content/uploads/2019/11/Juror-8-2019.jpg", Juror 8 (2019) แปดคนพิพากษา
@@ -2142,6 +2161,12 @@ https://p2p_sv4.dufree4k.net/hls/4a176ed05e2a05c132246aea27ff9b2e/4a176ed05e2a05
 #EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.15
 https://p2p_sv1.dufree4k.net/hls/85763530413220058baeb7ca6335d697/85763530413220058baeb7ca6335d697.playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.16
+https://p2p_sv1.dufree4k.net/hls/391475ca861dfa03462194ae713985e6/391475ca861dfa03462194ae713985e6.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/51dc4c491666b9d0b8ad7b94d6b3d529.jpg" group-title="SERIES",ดาบมังกรหยก 2019 Ep.17
+https://p2p_sv1.dufree4k.net/hls/1234513196148c172f9a1db43a316b97/1234513196148c172f9a1db43a316b97.playlist.m3u8
+
 
 
 
@@ -2464,7 +2489,7 @@ https://p2p_sv2.livedoomovie.com/hls/59ae9fd109f9a2ed98775feb0a664257/59ae9fd109
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.9
 https://p2p_sv3.livedoomovie.com/hls/2f25b60da34d03104062f90b4f19461e/2f25b60da34d03104062f90b4f19461e.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.9
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/299288286d5df5be38d19c03b47b98e0.jpg" group-title="SERIES" ,For All Mankind (2019) Season 1 EP.10
 https://p2p_sv2.livedoomovie.com/hls/f06038a692cd99de7a1e44d509eb0613/f06038a692cd99de7a1e44d509eb0613.playlist.m3u8
 
 
@@ -2488,9 +2513,11 @@ https://p2p_sv2.livedoomovie.com/hls/09cc0570670061f4d0f14a2217b6f94b/09cc057067
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5f98642a8d242eecac9be1f2fa7985ea.jpg" group-title="SERIES" ,Servant Season 1 EP.5
 https://p2p_sv5.livedoomovie.com/hls/1ef1b5bc91ebd57eab8349b918283711/1ef1b5bc91ebd57eab8349b918283711.playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5f98642a8d242eecac9be1f2fa7985ea.jpg" group-title="SERIES" ,Servant Season 1 EP.6
 https://p2p_sv5.livedoomovie.com/hls/a0332d8490bdf3e584d54044ba41b9cb/a0332d8490bdf3e584d54044ba41b9cb.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5f98642a8d242eecac9be1f2fa7985ea.jpg" group-title="SERIES" ,Servant Season 1 EP.7
+https://p2p_sv5.livedoomovie.com/hls/8a6393d566329eb2adda2da19f742e07/8a6393d566329eb2adda2da19f742e07.playlist.m3u8
 
 
 
@@ -2512,6 +2539,9 @@ https://p2p_sv3.livedoomovie.com/hls/b5153bb750fd7a4d41cbbfdb45eff9d2/b5153bb750
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/35da27a39a8d48f0f6089a284972362c.jpg" group-title="SERIES" ,Truth Be Told Season 1 EP.5
 https://p2p_sv4.livedoomovie.com/hls/79cae25c820e7b1d93b601f1e11e073c/79cae25c820e7b1d93b601f1e11e073c.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/35da27a39a8d48f0f6089a284972362c.jpg" group-title="SERIES" ,Truth Be Told Season 1 EP.6
+https://p2p_sv2.livedoomovie.com/hls/515f9cfb32df9804f18b3d80fbb58896/515f9cfb32df9804f18b3d80fbb58896.playlist.m3u8
 
 
 
@@ -2811,6 +2841,13 @@ https://slave1.iplayers.co/drive//hls/a2423e5227067212451bc1a339cef10e.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.6
 https://p2p_sv1.livedoomovie.com/hls/fc79ed7b8797d93ee1a8ed9618e6e38f/fc79ed7b8797d93ee1a8ed9618e6e38f.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.7
+https://p2p_sv4.livedoomovie.com/hls/fa4da6f94fe1c161bbf0dd56a4354061/fa4da6f94fe1c161bbf0dd56a4354061.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/His-Dark-Materials-2019-170x250.png" group-title="SERIES",HIS DARK MATERIALS SEASON 1 EP.8
+https://p2p_sv5.livedoomovie.com/hls/06e6094bc9f7d1c0ae72955344db8370/06e6094bc9f7d1c0ae72955344db8370.playlist.m3u8
+
 
 
 

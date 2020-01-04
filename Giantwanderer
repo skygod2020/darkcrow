@@ -27,7 +27,7 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/tnn24.jpg" group-title=" Thailand Channels",TNN24
 http://27.254.130.64/live01/ch5.m3u8?p=m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" tvg-name="TRUE4U HD" group-title=" Thailand Channels",TRUE4U
-http://27.254.130.64/live02/ch0.m3u8?p=m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" tvg-name="WORKPOINT TV HD" group-title=" Thailand Channels",WORKPIONT
 http://27.254.130.64/live01/ch7.m3u8?p=m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/gmm25.jpg" group-title=" Thailand Channels",GMM
@@ -758,7 +758,20 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Aadai-2019-170x250.png",Aadai (2019) ซับไทย
+https://slave11.iplayers.co/drive//hls/a37156b2277ce59893f87b1a5c944191.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Until-I-Meet-Septembers-Love-2019-ปาฏิหาริย์รักขนาดหนึ่งถ้วยกาแฟ-170x250.png",ปาฏิหาริย์รักขนาดหนึ่งถ้วยกาแฟ
+https://slave11.iplayers.co/drive//hls/2db622c545e770909dafe3bf969c5139.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Ghost-Stories-เรื่องผี-เรื่องวิญญาณ-2020-NETFLIX-ซับไทย-170x250.png",Ghost Stories เรื่องผี เรื่องวิญญาณ (2020)
+https://slave12.iplayers.co/drive//hls/ae13412a277eaace8a784323057c7b5e.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Maleficent-Mistress-of-Evil-2019-มาเลฟิเซนต์-นางพญาปีศาจ-1-170x250.png",MALEFICENT มาเลฟิเซนต์ กำเนิดนางฟ้าปีศาจ
+https://slave6.iplayers.co/drive//hls/991c08405458ca24aeba0dc4a5a1cf62.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Maleficent-Mistress-of-Evil-2019-มาเลฟิเซนต์-นางพญาปีศาจ-1-170x250.png",Maleficent Mistress of Evil (2019) มาเลฟิเซนต์ นางพญาปีศาจ
+https://slave9.iplayers.co/drive//hls/570f33c2d9841a1bef439aba99b466d8.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Ford-V-Ferrari-2019-ใหญ่ชนยักษ์-ซิ่งทะลุไมล์-170x250.png",Ford V Ferrari (2019) ใหญ่ชนยักษ์ ซิ่งทะลุไมล์ [ซับไทย]
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Black-and-Blue-2019-แบล็คแอนด์บลู-พลิกแผนลับ-สับตำรวจ-170x250.png",Black and Blue (2019) แบล็คแอนด์บลู พลิกแผนลับ สับตำรวจ [ซับไทย]
+https://slave11.iplayers.co/drive//hls/e1d63c68bfd362eb6109627d14c58a74.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Jackpot-2019-170x250.png",Jackpot (2019) ซับไทย
 https://slave11.iplayers.co/drive//hls/ddf97fa098ef9ebe717ef797ae30aecb.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Aeronauts-2019-170x250.png",The Aeronauts (2019) ซับไทย
@@ -870,7 +883,7 @@ https://slave12.iplayers.co/drive//hls/b4f10eafa7d14b9a201ba1e35caadf7a.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Art-of-Self-Defense-2019-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%87-170x250.png",ยอดวิชาคาราเต้สุดป่วง
 https://slave9.iplayers.co/drive//hls/65ac306379b7f019965609e343d0d82b.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Gemini-Man-2019-%E0%B9%80%E0%B8%88%E0%B8%A1%E0%B8%B4%E0%B9%84%E0%B8%99-%E0%B9%81%E0%B8%A1%E0%B8%99-170x250.png",เจมิไน แมน
-https://slave5.iplayers.co/drive//hls/a68428f9522ff8ffb6e4d4a1bc68335f.m3u8
+https://slave12.iplayers.co/drive//hls/0f884b73c67ae7fa0cd4728202bda434.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Earthquake-Bird-2019-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A2-170x250.png",รอยปริศนาในลางร้าย
 https://037hd5.vanlong.stream/drive//hls/7e853ad69c528f9d427465e53bfde511/7e853ad69c528f9d427465e53bfde511.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Klaus-2019-%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%A1%E0%B8%B2%E0%B8%AA-170x250.png",มหัศจรรย์ตำนานคริสต์มาส
@@ -902,7 +915,7 @@ https://037hd2.vanlong.stream/drive//hls/56c007f5ab7a56579dd80788f11b6350/56c007
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Dora-and-the-Lost-City-of-Gold-2019-%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E2%80%8B%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%B9%E0%B8%8D-poster-170x250.png",ดอร่าและเมืองทองคำที่สาบสูญ
 https://p2p_sv2.dufree4k.net/hls/4b1bcef082ebc3e7e0d326cc15cfab23/4b1bcef082ebc3e7e0d326cc15cfab23.playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Paradise-Hills-2019-%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%81-170x250.png" ,PARADISE HILLS (2019) สวรรค์ซ้อนนรก
-https://slave1.iplayers.co/drive//hls/52356bd77706c973eab006cb71fb5b5d.m3u8
+https://slave12.iplayers.co/drive//hls/bf6c15390233aa499c0bf262504de444.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/American-Son-2019-%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%8B%E0%B8%B1%E0%B8%99-170x250.png" ,อเมริกันซัน [ซับไทย]
 https://slave9.iplayers.co/drive//hls/faf98c24f09169e180cec021d895b793.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/The-Man-Without-Gravity-2019-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B9%82%E0%B8%99%E0%B9%89%E0%B8%A1%E0%B8%96%E0%B9%88%E0%B8%A7%E0%B8%87-170x250.png" ,ชายผู้ไร้แรงโน้มถ่วง [ซับไทย]
@@ -923,7 +936,12 @@ https://slave9.iplayers.co/drive//hls/34a848ed6dfca53cddc56802dcd0b221.m3u8
 https://slave8.iplayers.co/drive//hls/224f9b0e94e84252598df5d7f99ceaf4.m3u8
 
 
-
+EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/1921-2018-ซับไทย-170x250.png",1921 (2018) ซับไทย
+https://slave11.iplayers.co/drive//hls/0a6a01478a166854a8ec1b5069052cfc.m3u8
+EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Yu-Gi-Oh-The-Dark-Side-of-Dimensions-2017-ยูกิโอ-เกมกลคนอัจฉริยะ-ศึกปริศนาด้านมืด-170x250.png",ยูกิโอ เกมกลคนอัจฉริยะ ศึกปริศนาด้านมืด (2017)
+https://slave11.iplayers.co/drive//hls/b872b75d02fda0292c62a1c651c41a0c.m3u8
+EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fahrenheit-451-2018-ซับไทย-170x250.png",Fahrenheit 451 (2018) ซับไทย
+https://slave11.iplayers.co/drive//hls/f410f5a360034e9e7afd26bf3ec9102c.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Southpaw-2015-สังเวียนเดือด-170x250.png",Southpaw (2015) สังเวียนเดือด
 https://slave12.iplayers.co/drive//hls/af5dbc5db72e92d3f50ccd3b4fc52354.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Steve-Jobs-2015-สตีฟ-จ็อบส์-170x250.png",Steve Jobs (2015) สตีฟ จ็อบส์
@@ -2332,6 +2350,31 @@ https://p2p_sv2.livedoomovie.com/hls/2cdb5083a52093717e39a52a4caf8014/2cdb5083a5
 https://p2p_sv3.livedoomovie.com/hls/659df0682abef7509635cb0323708f4e/659df0682abef7509635cb0323708f4e.playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.23
+https://p2p_sv3.livedoomovie.com/hls/4e5b7dae99a22f29af85a6681776da3a/4e5b7dae99a22f29af85a6681776da3a.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.24
+https://p2p_sv3.livedoomovie.com/hls/8db53fc9e85d8db33aaa4fc018b0f2db/8db53fc9e85d8db33aaa4fc018b0f2db.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.25
+https://p2p_sv3.livedoomovie.com/hls/f89c1a50df692c6feb1eb4cee8a078f6/f89c1a50df692c6feb1eb4cee8a078f6.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.26
+https://p2p_sv2.livedoomovie.com/hls/447026c053dac19eb026bfeb97a47101/447026c053dac19eb026bfeb97a47101.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.27
+https://p2p_sv4.livedoomovie.com/hls/6a7b383e52a9423ef99526b1c841e8eb/6a7b383e52a9423ef99526b1c841e8eb.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.28
+https://p2p_sv3.livedoomovie.com/hls/035b50bb2dfb56939d4099599fb84de9/035b50bb2dfb56939d4099599fb84de9.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.29
+https://p2p_sv5.livedoomovie.com/hls/10d4b936054049e338ce02bde1170f20/10d4b936054049e338ce02bde1170f20.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://baan-series.com/uploads/a445513ed30f106399ae20ab14b12909.jpg" group-title="SERIES",ราชวงศ์ดาบ Ep.30
+https://p2p_sv5.livedoomovie.com/hls/d0e4be4dea818e2a2b4fad70696e35bc/d0e4be4dea818e2a2b4fad70696e35bc.playlist.m3u8
+
+
 
 
 
@@ -2574,6 +2617,35 @@ https://p2p_sv4.livedoomovie.com/hls/acf3b599da84b41e9d7683c33d05147d/acf3b599da
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Witcher-2019-เดอะ-วิทเชอร์-นักล่าจอมอสูร-170x250.png" group-title="SERIES" , เดอะ วิทเชอร์ นักล่าจอมอสูร (ซับไทย) Ep.8
 https://p2p_sv3.livedoomovie.com/hls/6fb6a22a365c77490b44e4718e72543e/6fb6a22a365c77490b44e4718e72543e.playlist.m3u8
 
+
+
+
+FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก
+
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.1
+https://slave11.iplayers.co/drive//hls/6322be1461617c94ec555cda4f3c2e5e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.2
+https://slave11.iplayers.co/drive//hls/7d6e68fc98281468b2c9361dce7c5076.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.3
+https://slave11.iplayers.co/drive//hls/1100aac23c7dc0e1047cfa65ae3b7456.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.4
+https://slave11.iplayers.co/drive//hls/460458542d2cf9444786b3f562fc01a3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.5
+https://slave11.iplayers.co/drive//hls/a828d5988ad05a43d945d35e5bd30f23.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.6
+https://slave11.iplayers.co/drive//hls/edf0bb284f6c50a48618a8c09d53a482.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.7
+https://slave11.iplayers.co/drive//hls/7aab738ca034fe84192518823c0de255.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Fast-Furious-Spy-Racers-2019-เร็ว-แรง-ทะลุนรก-ซิ่งสยบโลก-170x250.png" group-title="SERIES",FAST & FURIOUS SPY RACERS (2019) เร็ว แรง ทะลุนรก ซิ่งสยบโลก EP.8
+https://slave11.iplayers.co/drive//hls/aeef9dea070a645e4c3dabbfae0b3277.m3u8
 
 
 

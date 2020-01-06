@@ -758,6 +758,8 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Primal-2020-โคตรคนมหากาฬ.png",Primal (2020) โคตรคนมหากาฬ
+https://slave7.iplayers.co/drive//hls/661a433c638034442989dfa40501a7d0.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Aadai-2019-170x250.png",Aadai (2019) ซับไทย
 https://slave11.iplayers.co/drive//hls/a37156b2277ce59893f87b1a5c944191.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Until-I-Meet-Septembers-Love-2019-ปาฏิหาริย์รักขนาดหนึ่งถ้วยกาแฟ-170x250.png",ปาฏิหาริย์รักขนาดหนึ่งถ้วยกาแฟ

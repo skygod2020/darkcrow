@@ -760,6 +760,22 @@ MOVIES
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Primal-2020-โคตรคนมหากาฬ.png",Primal (2020) โคตรคนมหากาฬ
 https://slave7.iplayers.co/drive//hls/661a433c638034442989dfa40501a7d0.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/10/Abominable-2019-เอเวอเรสต์มนุษย์หิมะเพื่อนรัก-170x250.png",Abominable (2019) เอเวอเรสต์มนุษย์หิมะเพื่อนรัก
+https://slave11.iplayers.co/drive//hls/88b01d72858d27b20846d2c09de98243.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/City-Hunter-Shinjuku-Private-Eyes-2019-ซิตี้ฮันเตอร์-โคตรนักสืบชินจูกุ-ปี๊ป-170x250.jpg",ซิตี้ฮันเตอร์ โคตรนักสืบชินจูกุ ปี๊ป
+https://slave11.iplayers.co/drive//hls/25c0c5d06260ef33dd458bd8d3694aca.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/One-Piece-Stampede-2019-วันพีซ-เดอะมูฟวี่-สแตมปีด-170x250.png",One Piece Stampede (2019) วันพีซ เดอะมูฟวี่ สแตมปีด
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Fighting-with-My-Family-2019-สู้ท้าฝันเพื่อครอบครัว-170x250.png",Fighting with My Family (2019) สู้ท้าฝันเพื่อครอบครัว
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Agent-of-Deceit-2019-170x250.png",Agent of Deceit (2019) ซับไทย
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Frozen-2013-ผจญภัยแดนคำสาปราชินีหิมะ.png",Frozen (2013) ผจญภัยแดนคำสาปราชินีหิมะ
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Frozen-2-2019-โฟรเซ่น-2-ผจญภัยปริศนาราชินีหิมะ-170x250.png",Frozen 2 (2019) ผจญภัยปริศนาราชินีหิมะ
+
+
+
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Aadai-2019-170x250.png",Aadai (2019) ซับไทย
 https://slave11.iplayers.co/drive//hls/a37156b2277ce59893f87b1a5c944191.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Until-I-Meet-Septembers-Love-2019-ปาฏิหาริย์รักขนาดหนึ่งถ้วยกาแฟ-170x250.png",ปาฏิหาริย์รักขนาดหนึ่งถ้วยกาแฟ
@@ -2896,6 +2912,9 @@ https://p2p_sv1.dufree4k.net/hls/66e757de110c779e090fec7180a32e1a/66e757de110c77
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c567cf9876b999f2c77944de8f3cf858.jpg" group-title="SERIES" ,ONE YEAR 365 วัน บ้านฉัน บ้านเธอ ตอนที่ 5
 https://slave11.iplayers.co/drive//hls/e66266218573cb6673da7cf3430c8241.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/c567cf9876b999f2c77944de8f3cf858.jpg" group-title="SERIES" ,ONE YEAR 365 วัน บ้านฉัน บ้านเธอ ตอนที่ 6
+https://slave11.iplayers.co/drive//hls/617e121777bb68b3dd18a3d56749b386.m3u8
 
 
 

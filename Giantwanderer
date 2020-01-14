@@ -87,15 +87,6 @@ https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title=" Thailand Channels", Fox Sport3
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox1nl.jpg"  group-title=" Thailand Channels", Fox Sport1 NL
-https://live.we-play.tv/app/fox1nl/playlist.m3u8
-#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox2nl.jpg" group-title=" Thailand Channels", Fox Sport2 NL
-https://live.we-play.tv/app/fox2nl/playlist.m3u8
-#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox3nl.jpg" group-title=" Thailand Channels", Fox Sport3 NL
-https://live.we-play.tv/app/fox3nl/playlist.m3u8
-#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox4nl.jpg" group-title=" Thailand Channels", Fox Sport4 NL
-https://live.we-play.tv/app/fox4nl/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title=" Thailand Channels", SkynetsportHD
 https://livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title=" Thailand Channels", Skynetsport1
@@ -116,17 +107,6 @@ https://leechviplink.ddnslive.com/app/skynetplus/chunks.m3u8
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein2.png" group-title=" Thailand Channels", Bein2
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title=" Thailand Channels", BEIN SPORTS 1 Arab HD
-https://live.we-play.tv/app/bein1inter/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title=" Thailand Channels", BEIN SPORTS 2 Arab HD
-https://live.we-play.tv/app/bein2inter/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title=" Thailand Channels", BEIN SPORTS 3 Arab HD
-https://live.we-play.tv/app/bein3inter/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title=" Thailand Channels", BEIN SPORTS 4 Arab 
-https://live.we-play.tv/app/bein4inter/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein5.jpg" group-title=" Thailand Channels", BEIN SPORTS 5 Arab 
-https://live.we-play.tv/app/bein5inter/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title=" Thailand Channels",  True Sport HD1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -765,15 +745,15 @@ https://slave11.iplayers.co/drive//hls/88b01d72858d27b20846d2c09de98243.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/City-Hunter-Shinjuku-Private-Eyes-2019-ซิตี้ฮันเตอร์-โคตรนักสืบชินจูกุ-ปี๊ป-170x250.jpg",ซิตี้ฮันเตอร์ โคตรนักสืบชินจูกุ ปี๊ป
 https://slave11.iplayers.co/drive//hls/25c0c5d06260ef33dd458bd8d3694aca.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/One-Piece-Stampede-2019-วันพีซ-เดอะมูฟวี่-สแตมปีด-170x250.png",One Piece Stampede (2019) วันพีซ เดอะมูฟวี่ สแตมปีด
-
+https://slave3.iplayers.co/drive//hls/1ef5242911a5aec10a04a072585a7045.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/08/Fighting-with-My-Family-2019-สู้ท้าฝันเพื่อครอบครัว-170x250.png",Fighting with My Family (2019) สู้ท้าฝันเพื่อครอบครัว
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Agent-of-Deceit-2019-170x250.png",Agent of Deceit (2019) ซับไทย
-
+https://slave11.iplayers.co/drive//hls/09c6f955f934d871f82e4942797d9d08.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/09/Frozen-2013-ผจญภัยแดนคำสาปราชินีหิมะ.png",Frozen (2013) ผจญภัยแดนคำสาปราชินีหิมะ
-
+https://slave12.iplayers.co/drive//hls/3fa6398fa4e1a822000509c2cece0efc.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/11/Frozen-2-2019-โฟรเซ่น-2-ผจญภัยปริศนาราชินีหิมะ-170x250.png",Frozen 2 (2019) ผจญภัยปริศนาราชินีหิมะ
-
+https://slave11.iplayers.co/drive//hls/58edebcbaaa09d27a848b39116b494b2.m3u8
 
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Aadai-2019-170x250.png",Aadai (2019) ซับไทย
@@ -2146,6 +2126,13 @@ https://slave11.iplayers.co/drive//hls/2e43d800f3edb4918f460d5e17113b49.m3u8
 #EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Crash-Landing-On-You-2019-ปักหมุดรักฉุกเฉิน-170x250.png" group-title="SERIES",Crash Landing On You (2019) ปักหมุดรักฉุกเฉิน EP.6
 https://slave11.iplayers.co/drive//hls/c1e73ab51403b996ec7dc0101457f35d.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Crash-Landing-On-You-2019-ปักหมุดรักฉุกเฉิน-170x250.png" group-title="SERIES",Crash Landing On You (2019) ปักหมุดรักฉุกเฉิน EP.7
+
+
+#EXTINF:-1 tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Crash-Landing-On-You-2019-ปักหมุดรักฉุกเฉิน-170x250.png" group-title="SERIES",Crash Landing On You (2019) ปักหมุดรักฉุกเฉิน EP.8
+
+
+
 
 
 
@@ -2683,13 +2670,13 @@ Dracula (2020) | Season01
 
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/51b58f6db3e3eb0e7c96532d3d452a31.jpg" group-title="SERIES" ,Dracula (2020)  EP.1
-https://p2p_sv1.dufree4k.net/hls/92f5350bafafa38f24b5adab82754eca/92f5350bafafa38f24b5adab82754eca.playlist.m3u8
+https://p2p_sv1.livedoomovie.com/hls/92f5350bafafa38f24b5adab82754eca/92f5350bafafa38f24b5adab82754eca.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/51b58f6db3e3eb0e7c96532d3d452a31.jpg" group-title="SERIES" ,Dracula (2020)  EP.2
-https://p2p_sv3.dufree4k.net/hls/3098930323f4f65f6003acdc6f01dad2/3098930323f4f65f6003acdc6f01dad2.playlist.m3u8
+https://p2p_sv3.livedoomovie.com/hls/3098930323f4f65f6003acdc6f01dad2/3098930323f4f65f6003acdc6f01dad2.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/51b58f6db3e3eb0e7c96532d3d452a31.jpg" group-title="SERIES" ,Dracula (2020)  EP.3
-
+https://p2p_sv2.livedoomovie.com/hls/e21c31190d8d7601312d2f500cff88aa/e21c31190d8d7601312d2f500cff88aa.playlist.m3u8
 
 
 เขาวานให้หนูเป็นสายลับ

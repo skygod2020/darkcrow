@@ -53,7 +53,7 @@ https://livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1 Backup 1
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1 Backup 2
-https://live.we-play.tv/app/true-epl-1/live/tpf1_480/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1 Backup 3
 https://tvrealtime.com/live/BEIN1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2 
@@ -148,7 +148,9 @@ https://livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6RKisov.png" group-title=" Thailand Channels", FIGHT SPORTS
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/kix.png" group-title=" Thailand Channels",KIX
-https://www.livedoomovie.com/02_KIX_Thailand_720p/chunklist.m3u8
+https://free.fwstream.com:1215/freelive-edge/_definst_/kixhd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190720230235fight%20sport.jpg" group-title=" Thailand Channels",FightSportHD
+https://free.fwstream.com:1215/freelive-edge/_definst_/fightsportshd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title=" Thailand Channels",adsport1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iWEHD9/2ad.png" group-title=" Thailand Channels",adsport2
@@ -230,7 +232,7 @@ https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbofam.png"  group-title=" Thailand Channels",HBO FAMILY
 https://www.livedoomovie.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg"  group-title=" Thailand Channels",PARAMOUNT CHANNEL
-https://live.we-play.tv/app/paramount/playlist.m3u8
+https://free.fwstream.com:1215/freelive-edge/_definst_/paramountchannel/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title=" Thailand Channels", CINEMAX
 https://live.we-play.tv/app/cinemax/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxactionmovie.png" group-title=" Thailand Channels", FoxActionHD_TH
@@ -369,6 +371,8 @@ https://live.we-play.tv/app/outdoor/playlist.m3u8
 https://live.we-play.tv/app/foodnetwork/playlist.m3u8
 #EXTINF:0  tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title=" Thailand Channels",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-afc.png" group-title=" Thailand Channels",Asianfood Channel
+https://free.fwstream.com:1215/freelive-edge/_definst_/asianfoodchannelhd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title=" Thailand Channels",ถิ่นใต้
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg" group-title=" Thailand Channels",ไก่ชนเงินล้าน
@@ -389,7 +393,7 @@ https://live.we-play.tv/app/sparkjump/playlist.m3u8
 #EXTINF:0 group-title=" Thailand Channels", CartoonNetwork
 https://live.we-play.tv/app/cnhd/playlist.m3u8
 #EXTINF:-1 group-title=" Thailand Channels",BOOMERANG
-https://livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+https://free.fwstream.com:1215/freelive-edge/_definst_/boomerang/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg" group-title=" Thailand Channels",GANG CRRTOON
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title=" Thailand Channels",ANIPLUS

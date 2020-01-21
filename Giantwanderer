@@ -160,11 +160,11 @@ http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/j4AmdT/5012.png" group-title=" Thailand Channels",adsport4
 http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport1.jpg" group-title=" Thailand Channels",BTSPORTHD1
-https://live.we-play.tv/app/btsport1/playlist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport2.jpg" group-title=" Thailand Channels",BTSPORTHD2
-https://live.we-play.tv/app/btsport2/playlist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title=" Thailand Channels",BTSPORTHD3
-https://live.we-play.tv/app/btsport3/playlist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_3_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title=" Thailand Channels",astrosport1hd 

@@ -39,7 +39,7 @@ http://27.254.130.64/live01/ch8.m3u8?p=m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title=" Thailand Channels",CHANNEL 2 HD
 http://bit.ly/2mtpRWp
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" tvg-name="CHANNEL 8 HD"  group-title=" Thailand Channels",8 HD
-https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg" group-title=" Thailand Channels",Channel8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/il/180806015437.jpg" group-title=" Thailand Channels",Thai CCTV

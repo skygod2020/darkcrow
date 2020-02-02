@@ -11,7 +11,7 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" tvg-name="MCOT HD" group-title=" Thailand Channels",MCOT HD
 http://203.154.243.31:8081/live/tv9/index.m3u8
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD" group-title=" Thailand Channels",TPBS HD
-https://www.livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" tvg-name="PPTV HD"  group-title=" Thailand Channels",PPTV HD
 http://203.154.243.31:8081/live/pptv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://teevee-hd.com/img/thairath.png"tvg-name="THAIRATH TV HD" group-title=" Thailand Channels",THAIRATH HD

@@ -568,7 +568,106 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
-#EXTINF:-1 group-title="Movie"tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2020/01/Primal-2020-โคตรคนมหากาฬ.png",Primal (2020) โคตรคนมหากาฬ
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1576245050.png", Angry Birds Movie 2 (2019)
+https://cdn5.cdn9x.com/6s6gii2u/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/7/7b47b3063d8ca4a4ba6da4ca38c74fdd.jpg",21 Bridges (2019)
+https://p2p_sv2.livedoomovie.com/hls/adc7bce1f293f41aed2d90263ec40169/adc7bce1f293f41aed2d90263ec40169.playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3741847f97caf7aab906f43fd81f1019.jpg",1917 (2019)
+https://p2p_sv5.livedoomovie.com/hls/a91471f319d23b1ab57857bd3a84c55f/a91471f319d23b1ab57857bd3a84c55f.playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5537407ebf2eb8fbfec76dda18594c1c.jpg",Dolittle (2020)
+https://p2p_sv2.livedoomovie.com/drive//hls/cf698f4186159afbd95a4d0aa8e898c8/cf698f4186159afbd95a4d0aa8e898c8.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/3/3e90d9751c3127122fcb454d62f006e5.jpg",Doctor Sleep (2019)
+https://p2p_sv3.livedoomovie.com/drive//hls/197931fe2bd580ee03569116a84da182/197931fe2bd580ee03569116a84da182.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/c/cf59932a6a8f67abbc8b2a342a39e040.png",Terminator Dark Fate (2019)
+https://p2p_sv1.livedoomovie.com/drive//hls/d4255bc070cd55a63010f25526871da2/d4255bc070cd55a63010f25526871da2.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/2/2ff717eac16e9e8dc36257394ea2db6e.jpg",Ford v Ferrari (2019)
+https://p2p_sv4.livedoomovie.com/drive//hls/d456baa0cbd983159f6d7cb174e5b38e/d456baa0cbd983159f6d7cb174e5b38e.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1578457305.png",Primal (2019)
+https://cdn5.cdn9x.com/cuj7val1/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1578540536.png",Fighting with My Family (2019)
+https://cdn5.cdn9x.com/2u3iajeh/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579323883.jpg",Inside Man Most Wanted (2019)
+https://cdn5.cdn9x.com/7on2lqv6/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579405153.jpg",Downton Abbey (2019)
+https://cdn5.cdn9x.com/u19gtj1m/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579405196.png",Brave Father Online Our Story of Final Fantasy XIV (2019)
+https://cdn5.cdn9x.com/up68rlqq/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1579405266.jpg",A Fall from Grace (2020)
+https://cdn5.cdn9x.com/fshdu8vm/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580524367.jpg",The Gangster, the Cop, the Devil (2019) 
+https://cdn5.cdn9x.com/h0inb4lh/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580524417.png",A Sun (2019)
+https://cdn5.cdn9x.com/sf5el7ke/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580524558.jpg",Airplane Mode (2019)
+https://cdn5.cdn9x.com/c62srjlm/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580781029.png",Playing with Fire (2019)
+https://cdn5.cdn9x.com/h6mbchlk/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954561.jpg",Uncut Gems (2019) 
+https://cdn5.cdn9x.com/jqm4d7dk/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954621.png",Taylor Swift Miss Americana (2020)
+https://cdn5.cdn9x.com/t72tgf6i/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954730.png.png",Made in China (2019)
+https://cdn5.cdn9x.com/ieq6ebef/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954782.png",Motichoor Chaknachoor (2019)
+https://cdn5.cdn9x.com/mvgm5d1l/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954832.png",Laal Kaptaan (2019)
+https://cdn5.cdn9x.com/11dqhp7l/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581137620.jpg",Detective Di Renjie (2020)
+https://cdn5.cdn9x.com/aeag7lm7/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581137914.jpg",Dragged Across Concrete (2018)
+https://cdn5.cdn9x.com/5l77eps1/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581137938.jpg",Secret Zoo (2020) 
+https://cdn5.cdn9x.com/kgegude/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221616.jpg",P Storm (2019)
+https://cdn5.cdn9x.com/n1idar97/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221581.jpg",Trading Paint (2019)
+https://cdn5.cdn9x.com/s8rj1m5q/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1580954501.png",Close Enemies (2018)
+https://cdn5.cdn9x.com/d7paqj9g/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1578540651.png",Arctic (2018)
+https://cdn5.cdn9x.com/cdeb5776/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1578457243.png",Mary Poppins Returns (2018)
+https://cdn5.cdn9x.com/49hp1v2n/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221502.jpg",Beautiful Boy (2018)
+https://cdn5.cdn9x.com/q4e8r2fp/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581221540.png",Ben Is Back (2018)
+https://cdn5.cdn9x.com/753rgqc3/720p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1568858963.jpg", Angry Birds Movie (2016)
+https://cdn4.cdn9x.com/1ugpasbj/1080p.m3u8
+
+
 
 
 

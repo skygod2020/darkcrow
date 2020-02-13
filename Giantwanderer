@@ -567,6 +567,14 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 
 MOVIES 
 
+#EXTINF:-1,group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581600861.jpg",Charlie`s Angels นางฟ้าชาร์ลี (2019)
+https://cdn5.cdn9x.com/k0v6kkuh/1080p.m3u8
+
+#EXTINF:-1,group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581600953.jpg",Frozen II ผจญภัยปริศนาราชินีหิมะ (2019)
+https://cdn5.cdn9x.com/ld4g6i0c/1080p.m3u8
+
+#EXTINF:-1,group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/7/757b1896f04a7a1f5716ab1c36eb9ff9.jpg",Ip Man 4 The Finale ยิปมัน 4 (2020) -ไทยโรง-
+https://p2p_sv3.livedoomovie.com/drive//hls/eb46d1586ab30ee41c01f15620910fc3/eb46d1586ab30ee41c01f15620910fc3.m3u8
 
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1576245050.png", Angry Birds Movie 2 (2019)
 https://cdn5.cdn9x.com/6s6gii2u/1080p.m3u8

@@ -86,19 +86,19 @@ https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title=" Thailand Channels", SkynetsportHD
-https://vip.we-play.tv/live/skynethd/playlist.m3u8
+http://119.59.116.136:8889/threstr/skynethd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title=" Thailand Channels", Skynetsport1
-https://vip.we-play.tv/live/skynet1/playlist.m3u8
+http://119.59.116.136:8889/threstr/skynetsport1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png"  group-title=" Thailand Channels", Skynetsport2
-https://vip.we-play.tv/live/skynet2/playlist.m3u8
+http://119.59.116.136:8889/threstr/skynetsport2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png"  group-title=" Thailand Channels", Skynetsport3
-https://vip.we-play.tv/live/skynet3/playlist.m3u8
+http://119.59.116.136:8889/threstr/skynetsport3/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title=" Thailand Channels", Skynetsport4
-https://vip.we-play.tv/live/skynet4/playlist.m3u8
+http://119.59.116.136:8889/threstr/skynetsport4/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title=" Thailand Channels", Skynetsport5
-https://vip.we-play.tv/live/skynet5/playlist.m3u8
+http://119.59.116.136:8889/threstr/skynetsport5/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title=" Thailand Channels", Skynetsport6
-https://vip.we-play.tv/live/skynet6/playlist.m3u8
+http://119.59.116.136:8889/threstr/skynetsport6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.kingufa.tv/wp-content/uploads/2019/04/chskynetsportplus.jpg" group-title=" Thailand Channels",SKYNETSPORT Plus
 https://vip.we-play.tv/live/skynetplus/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/bein1.png" group-title=" Thailand Channels", Bein1
@@ -352,6 +352,11 @@ https://livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
 
 
 
+
+#EXTINF:0 group-title=" Thailand Channels", True Wild Explore
+
+#EXTINF:0 tvg-logo="http://cdn1.nungbox.com//live_tv_img/0/0/0/429_large.jpg" group-title=" Thailand Channels", True Life Explore
+http://119.59.116.136:8889/threstr/life-explore/chunks.m3u8
 #EXTINF:0 group-title=" Thailand Channels", HISTORY HD
 https://livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:0 group-title=" Thailand Channels", H2 HD

@@ -78,6 +78,27 @@ https://livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title=" Thailand Channels", PremierHD5 Backup 2
 https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg"group-title=" Thailand Channels",Sky Sports Premier League
+https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/czojVXgRmOuiwBs8qSUZKDh1BDCINYLiSFNDuxWH.jpg"group-title=" Thailand Channels",Sky Sports Main Event
+https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg"group-title=" Thailand Channels",Sky Sports Golf
+https://www.doofree88.com/streaming/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg"group-title=" Thailand Channels",Sky Sports Football
+https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/wobhcgi4v5rxNFqgttcqayiNSehMJTlplYm9lgKp.jpg"group-title=" Thailand Channels",Sky Sports F1
+https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/JeUxTHupKzgcbDSGkn9YHcs2tSEmTeJsx4xtFcTe.jpg"group-title=" Thailand Channels",Sky Sports Cricket
+https://www.doofree88.com/streaming/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/oUhULcqx2R0EJsODDv6rdLXW2ViStKCq5RcXtwUw.jpg"group-title=" Thailand Channels",Sky Sports Arena
+https://www.doofree88.com/streaming/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/qg05cdUnmr7eQSjHC9cg67m2zj6ssFhJD42esLKn.jpg"group-title=" Thailand Channels",Sky Sports Action
+https://www.doofree88.com/streaming/uk-skysports-action_720/index.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/foxsport1.png"  group-title=" Thailand Channels", Fox Sport1
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title=" Thailand Channels", Fox Sport2
@@ -380,6 +401,8 @@ https://livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
 https://livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/animalplanet.png" group-title=" Thailand Channels", AnimalPlanet
 https://livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://cdn1.nungbox.com//live_tv_img/0/0/0/426_large.jpg" group-title=" Thailand Channels", Animal SHOW
+http://119.59.116.136:8889/threstr/animalshow/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.doohdbox.com/assets/20170708172303119089635.jpg" group-title=" Thailand Channels", สำรวจโลก
 http://119.59.116.136:8889/threstr/samruajlok/chunks.m3u8
 #EXTINF:0  tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg" group-title=" Thailand Channels", MYSCIHD

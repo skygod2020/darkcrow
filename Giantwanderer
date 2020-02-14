@@ -59,7 +59,7 @@ https://livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2 Backup 1
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title=" Thailand Channels", PremierHD2 Backup 2
-https://vip.we-play.tv/live/tpf2/playlist.m3u8
+http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title=" Thailand Channels", PremierHD3
 https://livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title=" Thailand Channels", PremierHD3 Backup 1
@@ -228,7 +228,7 @@ https://vip.we-play.tv/live/blue-ent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/rtl_extreme.png" group-title=" Thailand Channels",BLUEANT EXTREME
 https://vip.we-play.tv/live/blue-ext/playlist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title=" Thailand Channels", HBO HD
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+http://119.59.116.136:8889/thairestr/hbohd-eng/chunks.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title=" Thailand Channels", HBO Hit
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbosig.png" group-title=" Thailand Channels", HBOSignature
@@ -270,7 +270,9 @@ https://livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/fxhd.png" group-title=" Thailand Channels", FXThailand
 https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg" group-title=" Thailand Channels", True Film Asia
-https://vip.we-play.tv/live/truefilmasia/playlist.m3u8
+http://119.59.116.136:8889/threstr/filmasia/chunks.m3u8
+#EXTINF:0 tvg-logo="http://cdn1.nungbox.com//live_tv_img/0/0/0/316_large.jpg" group-title=" Thailand Channels", True Thai Film
+http://119.59.116.136:8889/thairestr/thaifilm/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title=" Thailand Channels", True Asian Series HD
 https://vip.we-play.tv/live/trueasianhd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title=" Thailand Channels", TrueFilmHD1

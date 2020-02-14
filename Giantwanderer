@@ -193,7 +193,7 @@ https://vip.we-play.tv/live/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title=" Thailand Channels",EUROSPORT 1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png" group-title=" Thailand Channels",EUROSPORT 2
-http://5.135.92.133:52841/out/u/511_1.m3u8
+http://5.135.92.133:52841/out/u/512_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title=" Thailand Channels",Olympic Channel 2 (UHD)
@@ -306,7 +306,7 @@ https://livedoomovie.com/02_JKN_480p/chunklist.m3u8
 http://203.154.243.31:8081/live/izaahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707082147541150565441.jpg" group-title=" Thailand Channels",Zeenang
-https://livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_Zee_Nung_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/ZeeClassic.png" group-title=" Thailand Channels",ZEE Bollywood
 https://www.livedoomovie.com/02_Zee_Classic_720p/chunklist.m3u8
@@ -454,6 +454,70 @@ https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_Channel_V_720p/chunklist.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Korean_central_tv.png/revision/latest?cb=20121202094345" group-title="KOREA",Korean Central Television 
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="KOREA",MBC
+http://211.54.140.36/hdmi
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBCSportsPlus.kr.png" group-title="KOREA",MBC Sports
+http://122.129.115.21:1935/liveedge2/_definst_/sport/chunklist_w1545860343.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS1.kr.png" group-title="KOREA",KBS 1
+http://23.237.112.138:9083/live/lmgr218-live1/Z1/ck/Z1ckFeyBo9VzK1DFmR1-Hw==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/KBS2.kr.png" group-title="KOREA",KBS 2
+http://msl.tvbayoplus.com:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/KBSWorld.us.png" group-title="KOREA",KBS World
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/KBSWorld.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="KOREA",SBS
+http://23.237.112.138:9083/live/lmgr218-live1/an/Ec/anEch5GmlJzMh-jcs1OTow==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png" group-title="KOREA",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSPlus.kr.png" group-title="KOREA",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="KOREA",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png" group-title="KOREA",SBS Sports
+http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist_w587201442.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBS.kr.png" group-title="KOREA",EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="KOREA",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus1.kr.png" group-title="KOREA",EBS+ 1
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/EBSPlus2.kr.png" group-title="KOREA",EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kq2wSR9.png" group-title="KOREA",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="KOREA",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/ChannelA.kr.png" group-title="KOREA",채널 A
+http://23.237.112.138:9083/live/lmgr218-live1/5e/F8/5eF872HRwPbsKyyeCGBSQg==/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvbaduk.com/images/common/bdtv_logo.png" group-title="KOREA",바둑TV
+http://23.237.112.138:9083/live/lmgr218-live1/uZ/vV/uZvV_oFf70rS_5dF5o637Q==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Catchon1.kr.png" group-title="KOREA",Catch On 1
+http://23.237.112.138:9083/live/lmgr218-live1/Wj/Nz/WjNzluqgVARhAtul5gUKtg==/live.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="KOREA",HallyPOP
+https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/JTBC.kr.png" group-title="KOREA",JTBC
+http://122.129.115.21:1935/liveedge2/_definst_/jtbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sorimon.com/image/channel/TV_CHOSUN@2x.png" group-title="KOREA",조선 TV
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/MBN.kr.png" group-title="KOREA",MBN
+http://23.237.112.138:9083/live/lmgr218-live1/j7/qy/j7qybKo1-oIO_R2EKcmcIA==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Mnet.kr.png" group-title="KOREA",MNet
+http://23.237.112.138:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/OCN.kr.png" group-title="KOREA",OCN
+http://23.237.112.138:9083/live/lmgr218-live1/GR/13/GR13XDGjlUsD8nZQasCIhw==/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/tvN.kr.png" group-title="KOREA",tVN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/YTN.kr.png" group-title="KOREA",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m.ytn.co.kr/img/live/live_dmb.jpg" group-title="KOREA",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/YTNScience.kr.png" group-title="KOREA",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png" group-title="KOREA",YTN Korean
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8
 
 
 concert

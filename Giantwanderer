@@ -211,6 +211,8 @@ http://203.154.243.31:8081/live/snooker/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WakuWakuJapan.id.png" group-title=" Thailand Channels",Waku Waku Japan
+https://anevia115.mncnow.id:443/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title=" Thailand Channels",TVN
 https://vip.we-play.tv/live/tvn/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title=" Thailand Channels",True-X-Zyte

@@ -43,7 +43,7 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv27_ch8/playlist.m3u
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg" group-title=" Thailand Channels",Channel8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/4/NHK_WORLD_TV_LOGO_webready.jpg" group-title=" Thailand Channels" , NHK_WORLD_TV
-https://www.doofree88.com/streaming/sd-nhkworld_720/index.m3u8
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title=" Thailand Channels", PremierHD1
@@ -254,7 +254,7 @@ http://119.59.116.136:8889/threstr/hbo-hit/chunks.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbosig.png" group-title=" Thailand Channels", HBOSignature
 https://live.mawintv2.com/02_HBOSignature_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbofam.png"  group-title=" Thailand Channels",HBO FAMILY
-http://119.59.116.136:8889/threstr/hbo-family/chunks.m3u8
+https://live.mawintv2.com/02_HBOFamily_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg"  group-title=" Thailand Channels",PARAMOUNT CHANNEL
 https://free.fwstream.com:1215/freelive-edge/_definst_/paramountchannel/chunklist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title=" Thailand Channels", CINEMAX

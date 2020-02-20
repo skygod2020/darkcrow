@@ -666,7 +666,17 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 
 MOVIES 
 
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://movie2z.com/imgmovie/100069.jpg",บ้านตุ๊กตาดุ (Incident in a Ghostland)
+https://www663.o0-2.com/token=m6DuoteoptuX-b1sETRLXw/1582009861/2405:9800::/64/6/94/f11521920cc5bcc2b4c735afc8e3c946-720p.mp4
 
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/02/last-christmas.jpg",Last Christmas (2019) ลาสต์ คริสต์มาส
+http://file1.mix333.com/3/M07669.mp4
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://ufa365movie.com/wp-content/uploads/2020/02/2-2.jpg",THE SOUL-MATE (2018) คนกับผี คู่เเสบแบบว่าป่วง
+http://file1.mix333.com/3/M07652.mp4 
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/5175fbd9970bf555ca8363cedf602f9c.jpg",The Room - ห้องขอหลอน
+https://p2p_sv3.youlive-cdn.com/drive//hls/b8ce2f9be304aeb0d39a90bc6842f059/b8ce2f9be304aeb0d39a90bc6842f059.m3u8
 
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581600861.jpg",Charlie`s Angels นางฟ้าชาร์ลี (2019)
 https://cdn5.cdn9x.com/k0v6kkuh/1080p.m3u8
@@ -782,6 +792,16 @@ https://cdn4.cdn9x.com/1ugpasbj/1080p.m3u8
 
 
 MOVIE THAI
+
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://i.bug-a-boo.tv/images/4affefcdd78e6dcdb67f95177aed2e6a/thumb_2707_1.jpg",รัก 2 ปี ยินดีคืนเงิน Love Battle (2019)
+https://www1241.o0-3.com/token=AUrMtT_cuGYeUkSLgP4S9w/1582106428/2405:9800::/81/0/8d/2e02382fa2779e2c920d47eed75388d0-720p.mp4
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.doonungonline.com/images/movie/A4h2fYSz4cWOwaOPVpDT3asg5QrMVnCluangtah.jpg",หลวงตามหาเฮง
+https://cdn-3.vip-streaming.com:30443/doonungonline/3-ssd/movie/store-24/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87.mp4/chunk.m3u8
+
+#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://ufa365movie.com/wp-content/uploads/2020/02/4-2.jpg",BANGKOK DARK TALES (2019) บางกอก…สยอง
+http://file1.mix333.com/3/M07657.mp4
 
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Pro-May-2019-โปรเม-อัจฉริยะต้องสร้าง-170x250.png",Pro May (2019) โปรเม อัจฉริยะต้องสร้าง
 https://slave3.iplayers.co/drive//hls/4bd9b0067003db9527de8733451824ad.m3u8

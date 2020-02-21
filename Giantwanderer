@@ -180,9 +180,18 @@ http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 https://live.mawintv2.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/uk-btsport2.jpg" group-title=" Thailand Channels",BTSPORTHD2
 https://live.mawintv2.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170912113815289663388.jpg" group-title=" Thailand Channels",BTSPORT3
+https://live.we-play.tv/app/btsport3/playlist.m3u8
+#EXTINF:-1 group-title=" Thailand Channels" tvg-logo="https://www.doofree88.com/storage/live/fg3kZiHzaghpQ3DhPQlq70FAZCRHSmFA5yQUY7T2.jpg",SuperSport 1 HD
+https://www.doofree88.com/streaming/al-supersports1_480/index.m3u8
+#EXTINF:-1 group-title=" Thailand Channels" tvg-logo="https://www.doofree88.com/storage/live/W8OLbFkOO4uqSMaFoilhCQZvFQ6EAma8gHqf9aan.jpg",SuperSport 2 HD
+https://www.doofree88.com/streaming/al-supersports2_480/index.m3u8
+#EXTINF:-1 group-title=" Thailand Channels" tvg-logo="https://www.doofree88.com/storage/live/6Gp8QRvuiVY2CS5414cyLhAz0hNJIBxOxhQHSkGA.jpg",SuperSport 3 HD
+https://www.doofree88.com/streaming/al-supersports3_480/index.m3u8
+#EXTINF:-1 group-title=" Thailand Channels" tvg-logo="https://www.doofree88.com/storage/live/CcYpVxdwhBL9OWtWgku0q85xSKBJZnyp0phyHgFk.jpg",SuperSport 4 HD
+https://www.doofree88.com/streaming/al-supersports4_480/index.m3u8
+#EXTINF:-1 group-title=" Thailand Channels" tvg-logo="https://www.doofree88.com/storage/live/mdDw5MErCo84LT0SK0bBb77Lb4DXDoSl7Xn09oRC.jpg",SuperSport 5 HD
+https://www.doofree88.com/streaming/al-supersports5_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/04rU7HlySfSYJlbQfPmG2mswjhVxd0L5OoGxI97B.jpg" group-title=" Thailand Channels",ArenaSport 1
 https://www.doofree88.com/streaming/rs-arena1_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/GdYEwgGKz6kQqkabW3xUjshwjWQVEFoe8k5T5qhN.jpg" group-title=" Thailand Channels",ArenaSport 2

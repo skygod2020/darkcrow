@@ -228,7 +228,8 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-logo="https://west-vlaanderen.bbsa-snooker.eu/images/articles/world_snooker_logo.jpg"group-title=" Thailand Channels",SNOOKER WORLD 1 HD
 http://203.154.243.31:8081/live/snooker/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://cdn1.nungbox.com//live_tv_img/0/0/0/441_large.jpg" group-title=" Thailand Channels",WWE
+http://119.59.116.136:8889/threstr/wwe/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WakuWakuJapan.id.png" group-title=" Thailand Channels",Waku Waku Japan
@@ -237,16 +238,18 @@ https://anevia115.mncnow.id:443/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 https://www.doofree88.com/streaming/hd-tvn_480/index.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title=" Thailand Channels",True-X-Zyte
 http://119.59.116.136:8889/threstr/truexzyte/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn1.nungbox.com//live_tv_img/0/0/0/362_large.jpg" group-title=" Thailand Channels",True Inside HD
+http://119.59.116.136:8889/threstr/InsideHD/chunks.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/kbs-world.jpg" group-title=" Thailand Channels",KBSWORLD
-https://vip.we-play.tv/live/kbs/playlist.m3u8
+https://live.we-play.tv/app/kbs/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.doohdbox.com/assets/201811021031252046208999.jpg" group-title=" Thailand Channels",STAR K
 http://iliketot.dyndns.tv/d02705574b324e1dad34fe2eff631eb0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 #EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/hd-comedycentral.jpg" group-title=" Thailand Channels",ComedyCentralHD
 https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-entertainment.jpg" group-title=" Thailand Channels", BLUEANT ENTERTAINMENT
-https://vip.we-play.tv/live/blue-ent/playlist.m3u8
+https://live.we-play.tv/app/blue-ent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/rtl_extreme.png" group-title=" Thailand Channels",BLUEANT EXTREME
-https://vip.we-play.tv/live/blue-ext/playlist.m3u8
+https://live.we-play.tv/app/blue-ext/playlist.m3u8
 #EXTINF:0  tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title=" Thailand Channels", HBO HD
 http://119.59.116.136:8889/thairestr/hbohd-eng/chunks.m3u8
 #EXTINF:0 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title=" Thailand Channels", HBO Hit
@@ -439,13 +442,13 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201707071722101651784091.jpg" group-title=" Thailand Channels",GANG CRRTOON
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title=" Thailand Channels",ANIPLUS
-https://vip.we-play.tv/live/aniplus/playlist.m3u8
+https://live.we-play.tv/app/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animax.jpg" group-title=" Thailand Channels",ANIMAX
 http://203.154.243.31:8081/live/animax/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/a01a26bb-ed4a-45c5-88a9-ff30f6bbb039.png" group-title=" Thailand Channels",CARTOON CLUB HD
 http://203.154.243.31:8081/live/cartoonclub/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/nickelodeon.jpg" group-title=" Thailand Channels",Nickelodeon
-https://vip.we-play.tv/live/nickelodeon/playlist.m3u8
+https://live.we-play.tv/app/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=""https://www.doomovie-hd.com/assets/img/ch_logo/Nick_Jr.png" group-title=" Thailand Channels",Nick Jr 
 http://119.59.116.136:8889/threstr/nickjr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/disneych.jpg" group-title=" Thailand Channels",DISNEY CHANNEL

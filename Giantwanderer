@@ -535,9 +535,9 @@ http://rtmp.one.by:1300
 #EXTINF:0  tvg-logo="http://mtvasia-com.mtvnimages.com/mtvasia-news/2017/siterevamp/SISTERSCHANNEL_BANNER_CHINA.png" group-title="MUSIC", MTV_China
 https://live.mawintv2.com/02_MTV_China_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://mtvasia-com.mtvnimages.com/mtvasia-news/2017/siterevamp/SISTERSCHANNEL_BANNER_ASIA.png" group-title="MUSIC", MTV_Asia
-https://live.mawintv2.com/02_MTV_Asia_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/sd-mtvasia_480/index.m3u8
 #EXTINF:0 tvg-logo="http://mtvasia-com.mtvnimages.com/mtvasia-news/2017/siterevamp/SISTERSCHANNEL_BANNER_LIVE.png" group-title="MUSIC", MTV_Live_HD
-https://live.mawintv2.com/02_MTV_Live_HD_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-mtvlive_720/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo-Channelvthailand-2014.png/150px-Logo-Channelvthailand-2014.png"  group-title="MUSIC", Channel_V
 https://live.mawintv2.com/02_Channel_V_720p/chunklist.m3u8
 

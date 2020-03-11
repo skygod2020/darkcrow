@@ -338,13 +338,13 @@ http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thrill.png" group-title="Cinema",Thrill
 https://free2.fwstream.com:1215/freelive-edge/_definst_/thrilllhd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestandard.com.hk/newsImage/20180629/50015060contentPhoto1.jpg" group-title="Cinema", TVB 
-https://jibhd.cdnnaja.com/iptv/sd-tvb.stream/chunks.m3u8
+http://160.119.77.50/iptv/sd-tvb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://thaiip.tv/tvlogo2/tvb.png" group-title="Cinema", TVB DRAMA
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w223351532_b3564000_sltha.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170709090502720443899.jpg" group-title="Cinema",CTB 
 http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.jpg" group-title="Cinema",JKN
-https://www.doofree88.com/streaming/sd-znung_480/index.m3u8
+http://iliketot.dyndns.tv/fc8195dc989240348772d00dd9eba3d0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doofree88.com/storage/live/yEjduPUHEUuA3wvhqZxUUmuqDtnFk1YH0iHW4VPk.png",Zee Nung
 http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png" group-title="Cinema",iZaa Channel

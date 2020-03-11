@@ -40,7 +40,7 @@ http://cdn856.stm.trueid.net/live4/074_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn856.stm.trueid.net/live2/207_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d190fec6-1202-4dc7-aab4-4243c7c56a5b.png",SMM TV
 http://cdn856.stm.trueid.net/live3/o031_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title=" Thailand Channels",CHANNEL 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title="Digital TV",CHANNEL 2 HD
 http://bit.ly/2mtpRWp
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg" group-title="Digital TV",Channel 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
@@ -234,7 +234,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://203.154.243.31:8081/live/tennis/index.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/kix.png" group-title="Sports",KIX
 https://free.fwstream.com:1215/freelive-edge/_definst_/kixhd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190720230235fight%20sport.jpg" group-title=" Thailand Channels",FightSportHD
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190720230235fight%20sport.jpg" group-title="Sports",FightSportHD
 https://free.fwstream.com:1215/freelive-edge/_definst_/fightsportshd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title="Sports",adsport1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8

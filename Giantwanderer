@@ -293,11 +293,6 @@ http://cdn856.stm.trueid.net/live4/224_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn856.stm.trueid.net/live2/142_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/bbb65e81-e557-4653-b9f3-ec5473752f7e.jpg",TVN
 http://cdn856.stm.trueid.net/live3/096_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/06/20/4f4667b3-c69a-40c0-9414-c91ddb168d26.jpg",Reality HD
-http://cdn856.stm.trueid.net/live2/107_th_m_high_tidapp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f8d4bd8b-1fc5-402a-9ec5-d8caced5d77f.png",True  Inside HD
-http://cdn856.stm.trueid.net/live2/040_th_m_high_tidapp.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-warnertv.jpg",Warner TV
 http://cdn856.stm.trueid.net/live1/225_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png",Paramount HD

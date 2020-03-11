@@ -265,7 +265,7 @@ http://203.154.243.31:8081/live/snooker/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Cinema"tvg-logo="https://lh3.googleusercontent.com/proxy/_nua8XKZrTPw9e_aTkH1ISV-Z01P97aO5MQb_nSsVN7u7FDmJlcFJB_TOS_lJUS64C7-S53lnp03XKNuNMU2TIHQzGz33v-4p3eqXtGFUt9pBloAyy7hjXjQtsEu-HACIuJZVmjrI6jaMVPO0biSW5P06OrUA_AAiXiarvzu5FhHoXk",Universal 
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://img.favpng.com/21/1/18/universal-channel-television-channel-logo-nbcuniversal-international-networks-png-favpng-YvGpdXZ18tq6K5ZRNePVJ6mfX.jpg",Universal 
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action Movies (TH)
 http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8

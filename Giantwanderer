@@ -1,7 +1,6 @@
 
 #EXTM3U
 
-
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ca91ceac-8a1d-43f4-b526-face1db3cd2a.png",CH3 HD
 http://103.75.201.3:1935/live/3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/40b0fb62-1e5a-4b19-987f-dcbeebd2131a.png",CH5 HD

@@ -483,6 +483,13 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mo
 
 -----------"Entertainment"------------------------
  
+ 
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/49ee13ef-d027-4f96-80e1-6f1afc6ac52c.png",Bhudda TV1
+http://cdn856.stm.trueid.net/live3/o015_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/009a20e3-97db-415d-b390-6b525e38ff28.png",Bhudda TV2
+http://cdn856.stm.trueid.net/live4/o016_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.upload.ee/image/11066363/MediaTV.jpg",MediaTV
+http://cdn856.stm.trueid.net/live3/o072_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/hd-mtv.jpg",MTV Live HD
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-mtvasia.png",MTV Asia
@@ -491,6 +498,10 @@ http://host4.dynns.com/stream/ebce2f5139c54eda8b111e5923af9c9e.m3u8
 http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
 http://cdn856.stm.trueid.net/live3/o062_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",Super Bunteung
+http://cdn856.stm.trueid.net/live3/108_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/2d007e19-2d6c-45b4-a734-3851a2aa1d3e.png",TGN
+http://cdn856.stm.trueid.net/live4/da1_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/52a5ede1-c512-4d3f-8f3b-be98eab041f2.png",True Thaithai
 http://cdn856.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/7c05dc0b-e321-4843-9143-2db6eaf5b90a.png",Rama Channel
@@ -507,6 +518,12 @@ http://cdn856.stm.trueid.net/live2/121_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn856.stm.trueid.net/live1/122_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/06/20/4f4667b3-c69a-40c0-9414-c91ddb168d26.jpg",Reality HD
 http://cdn856.stm.trueid.net/live2/107_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/4f31e906-6569-4cf0-a447-7f6438fda36b.png",MRTV4
+http://cdn856.stm.trueid.net/live4/o043_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/0c30b192-953b-49b9-a9bf-a4c6e3e71de3.png",True Shopping
+http://cdn856.stm.trueid.net/live3/218_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/28/a9490c72-7387-4409-b5a8-80db28585ca4.png",True Select
+http://cdn856.stm.trueid.net/live4/127_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f8d4bd8b-1fc5-402a-9ec5-d8caced5d77f.png",True  Inside HD
 http://cdn856.stm.trueid.net/live2/040_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/sd-tppy.jpg",True PlookPanya

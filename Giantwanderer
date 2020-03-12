@@ -306,7 +306,7 @@ http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-xzyte.jpg",X-Zyte HD
 http://cdn856.stm.trueid.net/live2/034_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doofree88.com/storage/live/wyEZrYsUafrt9NzJkJIB473kAWO9J6Uovwq48XTv.png",Fox Life
-http://host4.dynns.com/stream/65f7358b813048a0898f5677e1793cf9.m3u8
+https://live.we-play.tv/app/fox-life/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",BlueAnt Entertainment
 http://cdn856.stm.trueid.net/live2/177_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",BlueAnt Extreme
@@ -440,9 +440,9 @@ https://live.we-play.tv/app/disneych/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/hd-disneyxd.jpg",Disney XD
 https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://images.ufoiptv.com/channels/hd-babytv.jpg",Baby TV
-http://host4.dynns.com/stream/7773f3cef0334a28ad248552ea63d9e7.m3u8
+http://iliketot.dyndns.tv/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:-1 group-title="Kids"tvg-logo="https://images.ufoiptv.com/channels/sd-nickjr.jpg",Nick Jr TH
-http://host4.dynns.com/stream/2b72986be9314c139db95f6098d1c413.m3u8
+http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doohdbox.com/assets/201707121554061018416784.jpg",NICKELODEON
 https://live.we-play.tv/app/nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/sd-disneyjunior.jpg",DISNEY JUNIOR
@@ -452,9 +452,9 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title=",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.iptv-epg.com/au/Cbeebies.au.png" group-title=",Cbeebies
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies-avc1_1000000=7-Cbeebies-mp4a_98800_eng=5.m3u8
+http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v9cusKB.jpg" group-title="Kids",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
 
 
 
@@ -900,23 +900,18 @@ https://cdn-3.vip-streaming.com:30443/doonungonline/3-ssd/movie/store-24/%E0%B8%
 #EXTINF:-1 group-title="Movie Thai "tvg-logo="https://ufa365movie.com/wp-content/uploads/2020/02/4-2.jpg",BANGKOK DARK TALES (2019) บางกอก…สยอง
 http://file1.mix333.com/3/M07657.mp4
 
-#EXTINF:-1 group-title="Movie Thai "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Pro-May-2019-โปรเม-อัจฉริยะต้องสร้าง-170x250.png",Pro May (2019) โปรเม อัจฉริยะต้องสร้าง
-https://slave3.iplayers.co/drive//hls/4bd9b0067003db9527de8733451824ad.m3u8
 
 
 
 Movie จีน
 
 
-#EXTINF:-1 group-title="Movie จีน "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/Ne-Zha-2019-นาจา-170x250.png",Ne Zha (2019) นาจา
-https://slave8.iplayers.co/drive//hls/65e573f2ba6d12f0f37651616ff6977b.m3u8
+
 
 
 Movie เกาหลี
 
 
-#EXTINF:-1 group-title="Movie เกาหลี "tvg-logo="https://www.imovie-hd.com/wp-content/uploads/2019/12/The-Gangster-The-Cop-The-Devil-2019-170x250.png",The Gangster, The Cop, The Devil (2019) ซับไทย
-https://slave11.iplayers.co/drive//hls/2c77b69ad64049eb2c29ff7fa943b075.m3u8
 
 
 

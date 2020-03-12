@@ -237,14 +237,6 @@ http://203.154.243.31:8081/live/tennis/index.m3u8
 https://free.fwstream.com:1215/freelive-edge/_definst_/kixhd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190720230235fight%20sport.jpg" group-title="Sports",FightSportHD
 https://free.fwstream.com:1215/freelive-edge/_definst_/fightsportshd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title="Sports",adsport1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/iWEHD9/2ad.png" group-title="Sports",adsport2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/en2zyT/5011.png" group-title="Sports",adsport3
-http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/j4AmdT/5012.png" group-title="Sports",adsport4
-http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="Sports",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="Sports",Olympic Channel 2 (UHD)
@@ -411,7 +403,7 @@ http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",Lifetime
 http://cdn856.stm.trueid.net/live1/174_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title="Documentary", OUTDOOR CHANNEL
-https://live.we-play.tv/app/outdoor/playlist.m3u8
+https://cdn116.stm.trueid.net/live2/164_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/04/10/750281ec-93b8-40f4-9f41-b3154d6ef8e0.jpg",Food  Network
 http://cdn856.stm.trueid.net/live2/191_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_320.png",Asian Food Network

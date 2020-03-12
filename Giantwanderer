@@ -368,8 +368,8 @@ http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 http://203.154.243.89:2037
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="Cinema",hi-def1
 https://live.we-play.tv/app/hi-def1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="Cinema",  Star China TH
-https://live.we-play.tv/app/scm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/iZB8pnOPpPEcswklDGzhY5kbTkKk4tCnmItKgHtc.png" group-title="Cinema",  Star China TH
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="Cinema", MANGORN
 http://cdn856.stm.trueid.net/live4/o020_th_m_high_tidapp.smil/playlist.m3u8
 

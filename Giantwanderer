@@ -368,14 +368,6 @@ http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
 http://203.154.243.89:2037
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="Cinema",hi-def1
 https://live.we-play.tv/app/hi-def1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS"group-title="Cinema",  MOVIES 4 ( ENG SUB)
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="Cinema",  MOVIES 5 ( ENG SUB)
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="Cinema",  MOVIES 6 ( ENG SUB)
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="Cinema",  Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRa3yHqjVjKNQ3A_HZnmPYJkJwpywm3cf0E_qiY1369XeVrErMS" group-title="Cinema",  Star China TH
 https://live.we-play.tv/app/scm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="Cinema", MANGORN
@@ -471,8 +463,6 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies-avc1_1000000=7-Cbeebies-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v9cusKB.jpg" group-title="Kids",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vIQR1Fv.png"group-title="Kids",POP Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
 
 
@@ -537,10 +527,9 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg"group-title="Entertainment",แสงจันทร์ ทีวี
 http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c935025484281.5634604b1311b.png" group-title="Entertainment",  MiX Music
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Xljqj.png" group-title="Entertainment",  ONE
 http://rtmp.one.by:1300
+
 
 
 ------korea-----

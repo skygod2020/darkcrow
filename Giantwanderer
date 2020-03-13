@@ -251,14 +251,7 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-logo="https://west-vlaanderen.bbsa-snooker.eu/images/articles/world_snooker_logo.jpg"group-title="Sports",SNOOKER WORLD 1 HD
 http://203.154.243.31:8081/live/snooker/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-motorvision.png",Motor Vision
-http://160.119.77.50/iptv/hd-motorvision.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport1hd.png",UK BT Sport 1
-http://160.119.77.50/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport2hd.png",UK BT Sport 2
-http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport3hd.png",UK BT Sport 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
+
 
 ---------"Cinema"-------------------
 

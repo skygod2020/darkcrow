@@ -360,7 +360,7 @@ http://203.154.243.89:2037
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="Cinema",hi-def1
 https://live.we-play.tv/app/hi-def1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/iZB8pnOPpPEcswklDGzhY5kbTkKk4tCnmItKgHtc.png" group-title="Cinema",  Star China TH
-http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+http://202.183.247.206:9981/stream/channelid/744310902?ticket=4B75295FFDB92A246DE002E56993A84E80AF8C5A&profile=pass
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.iptvhero.com/channel/hd-starchinese.png",Star China Movie
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="Cinema", MANGORN
@@ -443,7 +443,7 @@ https://live.we-play.tv/app/disneych/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/hd-disneyxd.jpg",Disney XD
 https://tv4.chang55.com/live2/tv4ch29.stream/chunks.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://images.ufoiptv.com/channels/hd-babytv.jpg",Baby TV
-http://54.36.165.216:8080/BABYTV/index.m3u8
+http://202.44.54.83/stream/tot.php?channel_id=7773f3cef0334a28ad248552ea63d9e7&fbclid=IwAR2gCqAp1uTqeIDcjbkR-YakJ7JMb0UIZgiAhU2IZ4o26ylzu50H0z22c4U
 #EXTINF:-1 group-title="Kids"tvg-logo="https://images.ufoiptv.com/channels/sd-nickjr.jpg",Nick Jr TH
 http://iliketot.dyndns.tv/2b72986be9314c139db95f6098d1c413.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.doohdbox.com/assets/201707121554061018416784.jpg",NICKELODEON

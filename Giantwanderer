@@ -270,7 +270,7 @@ http://160.119.77.50/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-foxfamily.jpg",Fox Family Movies
 https://live.we-play.tv/app/fox-fam/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-hbo.jpg",HBO HD
-http://newhdtv.myddns.me:8081/youlike/hbohd/playlist.m3u8
+http://103.22.181.99:8081/youlike/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels//hd-hbohits.jpg",HBO HITS
 https://live.we-play.tv/app/hbo-hits/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-hbofamily.jpg",HBO FAMILY
@@ -360,7 +360,7 @@ http://203.154.243.89:2037
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="Cinema",hi-def1
 https://live.we-play.tv/app/hi-def1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/iZB8pnOPpPEcswklDGzhY5kbTkKk4tCnmItKgHtc.png" group-title="Cinema",  Star China TH
-http://202.183.247.206:9981/stream/channelid/744310902?ticket=4B75295FFDB92A246DE002E56993A84E80AF8C5A&profile=pass
+hhttp://202.44.54.83/stream/tot.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.iptvhero.com/channel/hd-starchinese.png",Star China Movie
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="Cinema", MANGORN
@@ -456,6 +456,10 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://static.iptv-epg.com/au/Cbeebies.au.png" group-title=",Cbeebies
 http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/201909051509261881651395.jpg",Toonee
+http://96.30.124.100:1935/psilive2a/AsianMovie.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Kids"tvg-logo="https://www.doohdbox.com/assets/201709011724551611250121.jpg",ANIMAX
+http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206C0F6217AA212075E0CE7775&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/v9cusKB.jpg" group-title="Kids",Duck TV
 
 
@@ -471,13 +475,13 @@ http://cdn150.stm.trueid.net/live4/o016_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.upload.ee/image/11066363/MediaTV.jpg",MediaTV
 http://cdn150.stm.trueid.net/live3/o072_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/hd-mtv.jpg",MTV Live HD
-http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
+http://202.44.54.83/stream/tot.php?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-mtvasia.png",MTV Asia
-http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+http://202.44.54.83/stream/tot.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.doohdbox.com/assets/20170803185109599637639.jpg",MTV CHINA
-http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+http://202.44.54.83/stream/tot.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.iptvhero.com/channel/sd-channelv.png",Channel V
-http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+http://202.44.54.83/stream/tot.php?channel_id=9e38a0084e6d45d080139a166c60a102
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://i1.sndcdn.com/avatars-000023281703-sspdjf-t500x500.jpg",Pescaratv HD
 http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
@@ -514,6 +518,8 @@ http://cdn150.stm.trueid.net/live2/040_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn150.stm.trueid.net/live2/139_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/04/05/7a6e861f-5770-43fb-a00b-553b5dcf6ffb.jpg",Smart  SME
 http://cdn150.stm.trueid.net/live4/171_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment"tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2015/06/Amazing.png",Amazing
+http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f5ed26ed-a8df-433a-94a2-5a5f1a56688a.png",Fan TV

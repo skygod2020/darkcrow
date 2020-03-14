@@ -274,7 +274,7 @@ http://103.22.181.99:8081/youlike/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels//hd-hbohits.jpg",HBO HITS
 https://live.we-play.tv/app/hbo-hits/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-hbofamily.jpg",HBO FAMILY
-https://tv4.chang55.com/live2/tv4ch81.stream/chunks.m3u8
+https://live.we-play.tv/app/hbo-fam/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-hbosignature.jpg",HBO SIGNATURE
 https://live.we-play.tv/app/hbo-sig/playlist.m3u8
  
@@ -294,8 +294,10 @@ https://live.we-play.tv/app/cinemax/playlist.m3u8
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-fx.jpg",FX HD
 http://host4.dynns.com/stream/2e0e4b05aa6e428593f3b45b710045b7.m3u8
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",Film HD
-https://tv4.chang55.com/live2/tv4ch93.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
+https://cdn-laos.workpoint.news/hd-tfilm_720/index.m3u8
+#EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",True film HD 2
+https://cdn-laos.workpoint.news/hd-tfilm2_720/index.m3u8
 
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/sd-thaifilm.jpg",Thai Film
 http://cdn150.stm.trueid.net/live4/094_th_m_high_tidapp.smil/playlist.m3u8

@@ -783,7 +783,7 @@ http://file1.mix333.com/3/M07652.mp4
 https://p2p_sv3.youlive-cdn.com/drive//hls/b8ce2f9be304aeb0d39a90bc6842f059/b8ce2f9be304aeb0d39a90bc6842f059.m3u8
 
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581600861.jpg",Charlie`s Angels นางฟ้าชาร์ลี (2019)
-https://cdn5.cdn9x.com/k0v6kkuh/1080p.m3u8
+http://191.96.77.175:8081/4k/atmos/Charlies.Angels.2019.mkv
 
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1581600953.jpg",Frozen II ผจญภัยปริศนาราชินีหิมะ (2019)
 https://cdn5.cdn9x.com/ld4g6i0c/1080p.m3u8

@@ -374,15 +374,15 @@ http://cdn150.stm.trueid.net/live4/o020_th_m_high_tidapp.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-animalplanet.jpg",Animal Planet TH
-https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
+https://live.we-play.tv/live/animalplanet/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-mysci.jpg",MYSCIHD
 https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-samrujlok.jpg",Samruajlok
 https://live.we-play.tv/app/samruajlok/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery Channel TH
-https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
+https://live.we-play.tv/live/discovery/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-discovery.jpg",DiscoveryAsia TH
-https://tv4.chang55.com/live2/tv4ch80.stream/chunks.m3u8
+https://live.we-play.tv/live/disasia/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history.jpg",History TH
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2 TH
@@ -471,8 +471,7 @@ http://202.183.247.206:9981/stream/channelid/1468536448?ticket=CC482188B4B4C1206
 
 -----------"Entertainment"------------------------
  
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/01/idstation.jpg",ID Station
-https://live.we-play.tv:443/live/cinemax/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/49ee13ef-d027-4f96-80e1-6f1afc6ac52c.png",Bhudda TV1
 http://cdn150.stm.trueid.net/live3/o015_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/009a20e3-97db-415d-b390-6b525e38ff28.png",Bhudda TV2

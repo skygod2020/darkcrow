@@ -259,6 +259,10 @@ http://203.154.243.31:8081/live/snooker/index.m3u8
 
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://img.favpng.com/21/1/18/universal-channel-television-channel-logo-nbcuniversal-international-networks-png-favpng-YvGpdXZ18tq6K5ZRNePVJ6mfX.jpg",Universal 
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://worldscreen.com/tvasia/wp-content/uploads/sites/16/2017/07/HITSMOVIES-1118.jpg",HITS MOVIES 
+http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg",HITS 
+
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1920px-WakuWaku_Japan_logo.svg.png",WakuWaku Japan
 http://103.22.183.136:8081/live/wakuwakujapan/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action Movies (TH)

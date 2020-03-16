@@ -41,6 +41,7 @@ http://cdn150.stm.trueid.net/live4/074_th_m_high_tidapp.smil/playlist.m3u8
 http://cdn150.stm.trueid.net/live2/207_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d190fec6-1202-4dc7-aab4-4243c7c56a5b.png",SMM TV
 http://cdn150.stm.trueid.net/live3/o031_th_m_high_tidapp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title="Digital TV",CHANNEL 2 HD
 http://bit.ly/2mtpRWp
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg" group-title="Digital TV",Channel 8
@@ -251,7 +252,10 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-logo="https://west-vlaanderen.bbsa-snooker.eu/images/articles/world_snooker_logo.jpg"group-title="Sports",SNOOKER WORLD 1 HD
 http://203.154.243.31:8081/live/snooker/index.m3u8
-
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/201808051138141452667532.jpg",Motor Vision
+http://cdn860.stm.trueid.net/live1/165_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://images.xtreme4k.com/channels/hd-wwe.png",WWE
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
 ---------"Cinema"-------------------
 

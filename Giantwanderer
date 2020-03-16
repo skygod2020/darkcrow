@@ -283,7 +283,8 @@ https://live.we-play.tv/app/hbo-hits/playlist.m3u8
 https://live.we-play.tv/app/hbo-fam/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-hbosignature.jpg",HBO SIGNATURE
 https://live.we-play.tv/app/hbo-sig/playlist.m3u8
- 
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO
+https://tv4.chang55.com/live2/tv4ch47.stream/chunks.m3u8 
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/02/07/52000162-ff01-48c1-93fa-07e641cc6ef6.jpg",Celestial Classic Movies
 http://cdn150.stm.trueid.net/live4/224_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2018/06/20/4942b3e0-0bd0-42a6-8e47-a06b3ae8fc8a.jpg",KBS World HD

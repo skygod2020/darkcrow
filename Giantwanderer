@@ -294,7 +294,7 @@ https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://worldscreen.com/tvasia/wp-content/uploads/sites/16/2017/07/HITSMOVIES-1118.jpg",HITS MOVIES 
 http://103.22.183.136:8081/live/hits-movies/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg",HITS 
-https://live.we-play.tv/app/hits/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+https://live.we-play.tv/app/hits/playlist.m3u8
 #EXTINF:-1 group-title="Cinema"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1920px-WakuWaku_Japan_logo.svg.png",WakuWaku Japan
 http://103.22.183.136:8081/live/wakuwakujapan/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-foxaction.jpg",Fox Action Movies (TH)
@@ -336,7 +336,7 @@ http://host4.dynns.com/stream/2e0e4b05aa6e428593f3b45b710045b7.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://www.doofree88.com/storage/live/9qmrSWdLyKGghSgAdoh8hw9i6kEQWtr2VWXSObtI.jpg",True Film HD
 https://tv4.chang55.com/live2/tv4ch93.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TrueFilm2.th"group-title="Cinema"tvg-logo="https://teevee-hd.com/img/truefilmhd.png",True film HD 2
-https://live.we-play.tv:443/app/truefilmhd2/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+https://live.we-play.tv/app/truefilmhd2/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/sd-thaifilm.jpg",Thai Film
 http://cdn860.stm.trueid.net/live4/094_th_m_high_tidapp.smil/playlist.m3u8
 
@@ -416,11 +416,11 @@ https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-mysci.jpg",MYSCIHD
 https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-samrujlok.jpg",Samruajlok
-https://live.we-play.tv:443/app/samruajlok/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+https://live.we-play.tv/app/samruajlok/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery Channel TH
 https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-discovery.jpg",DiscoveryAsia TH
-https://live.we-play.tv:443/app/disasia/playlist.m3u8|Referer==https://www.we-play.tv/chunklist.m3u8
+https://live.we-play.tv/app/disasia/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history.jpg",History TH
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2 TH

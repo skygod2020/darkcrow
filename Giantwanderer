@@ -383,15 +383,15 @@ http://cdn150.stm.trueid.net/live4/o020_th_m_high_tidapp.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-animalplanet.jpg",Animal Planet TH
-https://live.we-play.tv/app/animalplanet/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch89.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-mysci.jpg",MYSCIHD
 https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-samrujlok.jpg",Samruajlok
 https://live.we-play.tv/app/samruajlok/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery Channel TH
-https://live.we-play.tv/app/discovery/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch36.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-discovery.jpg",DiscoveryAsia TH
-https://live.we-play.tv/app/disasia/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history.jpg",History TH
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-history2.jpg",H2 TH
@@ -511,6 +511,8 @@ hhttp://cdn150.stm.trueid.net/live4/128_th_m_high_tidapp.smil/playlist.m3u8
 http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/hd-lifetime.jpg",Lifetime
 http://cdn150.stm.trueid.net/live1/174_th_m_high_tidapp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg",Sony Gem hd
+https://tv4.chang55.com/live2/tv4ch50.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
 http://cdn150.stm.trueid.net/live2/159_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",KMTV HD

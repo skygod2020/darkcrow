@@ -328,7 +328,7 @@ http://cdn860.stm.trueid.net/live1/225_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/783549d6-9b0d-4b4a-ab42-3bdd932bf544.png",Paramount HD
 http://cdn860.stm.trueid.net/live1/222_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-cinemax.jpg",CINEMAX HD
-https://live.we-play.tv/app/cinemax/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch32.stream/chunks.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-axn.jpg",AXN HD
 http://160.119.77.50/iptv/hd-axn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.ufoiptv.com/channels/hd-fx.jpg",FX HD

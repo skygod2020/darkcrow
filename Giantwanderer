@@ -402,7 +402,7 @@ http://203.154.243.89:2037
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="Cinema",hi-def1
 https://live.we-play.tv/app/hi-def1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofree88.com/storage/live/iZB8pnOPpPEcswklDGzhY5kbTkKk4tCnmItKgHtc.png" group-title="Cinema",  Star China TH
-hhttp://202.44.54.83/stream/tot.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://images.iptvhero.com/channel/hd-starchinese.png",Star China Movie
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="Cinema", MANGORN
@@ -517,13 +517,13 @@ http://cdn860.stm.trueid.net/live4/o016_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.upload.ee/image/11066363/MediaTV.jpg",MediaTV
 http://cdn860.stm.trueid.net/live3/o072_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/hd-mtv.jpg",MTV Live HD
-http://202.44.54.83/stream/tot.php?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
+https://www.livedoomovies.com/02_MTV_Live_HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-mtvasia.png",MTV Asia
-http://202.44.54.83/stream/tot.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+https://www.livedoomovies.com/02_MTV_Asia_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.doohdbox.com/assets/20170803185109599637639.jpg",MTV CHINA
-http://202.44.54.83/stream/tot.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675
+https://www.livedoomovies.com/02_MTV_China_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.iptvhero.com/channel/sd-channelv.png",Channel V
-http://202.44.54.83/stream/tot.php?channel_id=9e38a0084e6d45d080139a166c60a102
+http://ktu.ktuiptvapp.com/livetv/ktuiptv-4210.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://i1.sndcdn.com/avatars-000023281703-sspdjf-t500x500.jpg",Pescaratv HD
 http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",Lao Star
@@ -537,7 +537,7 @@ http://cdn860.stm.trueid.net/live4/109_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/7c05dc0b-e321-4843-9143-2db6eaf5b90a.png",Rama Channel
 http://cdn860.stm.trueid.net/live4/128_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/sd-very.jpg",Very
-http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
+http://cdn860.stm.trueid.net/live3/114_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/hd-lifetime.jpg",Lifetime
 http://cdn860.stm.trueid.net/live1/174_th_m_high_tidapp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg",Sony Gem hd

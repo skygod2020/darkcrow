@@ -274,7 +274,7 @@ https://live.we-play.tv/android/hitsmovies/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20200313162436984117952.jpg",Hits
 https://live.we-play.tv/android/hits/playlist.m3u8
 
-#EXTINF:-1 group-title="หนัง"tvg-logo="http://play.9koh.com/uploads/tv_image/sm/hi-def-1.png",Hi-Def1
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg",Hi-Def1
 https://live.we-play.tv/android/hi-def1/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170708153230368618994.jpg",HBO TH
@@ -295,7 +295,7 @@ https://live.we-play.tv/android/red/playlist.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20171215100243180368591.jpg", CINEMAX
-ttps://live.we-play.tv/android/cinemax/playlist.m3u8
+https://live.we-play.tv/android/cinemax/playlist.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20181017185652493821184.jpg",Fox Movies 
@@ -371,7 +371,7 @@ https://live.we-play.tv/android/truethaifilm/chunks.m3u8
 https://iptv-kovid-19.tk/we-play/live/truefilmasia/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707082143101835898001.jpg",True Movie Hit
-http://160.119.77.50/iptv/sd-moviehits.stream/playlist.m3u8
+https://iptv-kovid-19.tk/we-play/live/true-movie-hits/playlist.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20180731205116654812992.jpg",True Film 1
@@ -390,7 +390,7 @@ https://43.228.85.11/android/paramount/chunks.m3u8
 http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="หนัง"tvg-logo="http://play.9koh.com/uploads/tv_image/universal-th.png",Universal TH
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://img.favpng.com/8/24/11/universal-channel-television-channel-studio-universal-universal-tv-png-favpng-EcgQZCxmja4SK4LCAxqMeMtfH.jpg",Universal TH
 https://tv4.chang55.com/live2/tv4ch43.stream/chunks.m3u8
 
 

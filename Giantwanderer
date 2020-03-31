@@ -835,6 +835,9 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.mawintv.com/wp-content/uploads/2020/03/The-Call-of-the-Wild-2020-2-170x220.jpg",The Call of the Wild (2020) เสียงเพรียกจากพงไพร
+https://cdn.livedoomovies.com/hls/91da2a206ba2d39fb4c093d9ae9f1690/91da2a206ba2d39fb4c093d9ae9f1690.m3u8
+
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1585572626.jpg",The Murder of Nicole Brown Simpson (2020)
 https://cdn5.cdn9x.com/2eqqq069/1080p.m3u8
 

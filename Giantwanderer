@@ -457,7 +457,7 @@ https://iptv-kovid-19.tk/we-play/live/blue-ext/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/blue-ant-entertainment.png',BLUE ANT Entertainment
 https://iptv-kovid-19.tk/we-play/live/blue-ent/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo='https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg',True Xzyte
-https://iptv-kovid-19.tk/we-play/live/truexzyte/playlist.m3u8
+https://43.228.85.11/android/xzyte/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201907091606051427565001.jpg",TLC
 https://live.we-play.tv/android/tlc/chunks.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201804091610381397757281.jpg",TVN

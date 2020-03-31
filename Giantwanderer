@@ -43,7 +43,7 @@ http://bit.ly/2mtpRWp
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170708160324242106141.jpg" group-title="Digital TV",Voice TV
 https://edge1a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอล"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
+#EXTINF:-1 group-title="Digital TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
 http://202.122.40.37:1935/live/stream4.stream/chunklist_w621727519.m3u8
 #EXTINF:0 tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/4/NHK_WORLD_TV_LOGO_webready.jpg" group-title="Digital TV", NHK_WORLD_TV
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
@@ -468,7 +468,7 @@ https://live.we-play.tv/android/kbs/chunks.m3u8
 http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDE5IDEyOjIwOjAyIFBNJmhhc2hfdmFsdWU9ZHlWVlQ5bGtXd1ZaNENqcUFoa003UT09JnZhbGlkbWludXRlcz0yJmlkPXNhbWFhbm58OTE4LWlsaWtldG90LmR5bmRucy50dnx4dHJlbWUtMnwxNTQ4MTU5NjAyfDQ5LjQ5LjEwMS4xMzF8Mg==
 
 
-#EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="Cinema", MANGORN
+#EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="หนัง", MANGORN
 
 
 -------------"Documentary"---------------------

@@ -585,9 +585,11 @@ https://160.119.77.50/iptv/uk-cartoonito.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/hd-mtv.jpg",MTV Live HD
 https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-mtvasia.png",MTV Asia
-https://www.livedoomovies.com/02_MTV_Asia_720p/chunklist.m3u8
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.doohdbox.com/assets/20170803185109599637639.jpg",MTV CHINA
-https://www.livedoomovies.com/02_MTV_China_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Entertainment"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1582856467757_movie_image.jpg&d=movie',MTV Now
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.iptvhero.com/channel/sd-channelv.png",Channel V
 http://ktu.ktuiptvapp.com/livetv/ktuiptv-4210.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://i1.sndcdn.com/avatars-000023281703-sspdjf-t500x500.jpg",Pescaratv HD
@@ -596,11 +598,11 @@ http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg",Sony Gem hd
 https://tv4.chang55.com/live2/tv4ch50.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",True Music HD
-https://iptv-kovid-19.tk/we-play/live/truemusic/playlist.m3u8
+http://cdn766.stm.trueid.net:80/live2/159_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=0y%2FNaONSIAdV9GczK4rBFjwur63OsDFsx89Y3IN0omRIc8BPw7WCFWj%2FPOcn6aTofHii2ppCIl5dFJH%2F2kW20ID5wRjXbAjuF1Jh91FZ0K06OvblvTKsC1eMtSzimSIdfkA
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",KMTV HD
-
+http://cdn122.stm.trueid.net:80/live2/121_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=j9OM%2BROc23eSyBQrqWQv7zPnaAXWLwjNAq0pptuH2Wf4VF8Zu7I0xzH8bTaqoiSyzcKHdsqHWjhN5y8g2nlJhD4sjt6CXg7rpb%2F80tBAj9M6Opku%2FS5hLYuNnAuQ1GL0qUw
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/05/18/026c1dda-7982-4205-8253-3c408fa93bdc.png",Stringray iConcerts HD
-https://iptv-kovid-19.tk/we-play/live/iconcerts/playlist.m3u8
+http://cdn765.stm.trueid.net:80/live1/122_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=UrhvlurZKLZukl1jPbnH2hf3LSx76ci6CC1vdrApP4INcQMPxIEY3ugNtQixXc7D0p5ViwmJvy7ANZ1ADIwq6Pm72gg4IIi0vU7xK0jgqYQ6Os4UZ%2F89MM7yavE%2BVExrY%2BU
 #EXTINF:-1 group-title="Entertainment"tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2015/06/Amazing.png",Amazing
 http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
@@ -1970,7 +1972,8 @@ http://cdnstream1.podzone.net:443/movie2/old/disk3/Letters.from.iwo.jima.2006.th
 #EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1572935719972_movie_image.jpg&d=movie',ลอเรนซ์แห่งอาราเบีย
 http://cdnstream1.podzone.net:443/movie2/bluray2018/Lawrence-of-Arabia-1962-4K-2160p-DTS-HD.mp4/index.m3u8?u=a_nm0439&st=xEMkQtw-SueZHe33VqvA3Q&e=1572950076&ip=171.5.247.230
 #EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1572935916289_movie_image.jpg&d=movie',ยอดคนจริง
-http://cdnstream1.podzone.net:443/movie/2017/True.Grit.1969.1080p.TH.mp4/index.m3u8?u=a_nm0439&st=bL6rGDsdQDVdM4kV_es6sQ&e=1572950278&ip=171.5.247.230
+http://cdnstream1.podzone.net:443/movie/2017/ very
+.Grit.1969.1080p.TH.mp4/index.m3u8?u=a_nm0439&st=bL6rGDsdQDVdM4kV_es6sQ&e=1572950278&ip=171.5.247.230
 #EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1572936043859_movie_image.jpg&d=movie',มหากาฬล้างมหากาฬ
 http://cdnstream1.podzone.net:443/movie/2016/payback_1999_hdth.mp4/index.m3u8?u=a_nm0439&st=KE3dV0mBPez1NEdpdjBBGQ&e=1572950392&ip=171.5.247.230
 #EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1572936186462_movie_image.jpg&d=movie',ลีออง เพชฌฆาตมหากาฬ

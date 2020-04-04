@@ -407,7 +407,7 @@ http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583232924476_movie_image.png&d=movie',Ping Channel
 http://203.154.243.31:8081/live/ping/index.m3u8
 
-#EXTINF:-1 group-title='MOVIE LIVE'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583233516342_movie_image.png&d=movie',H Channel
+#EXTINF:-1 group-title="หนัง"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583233516342_movie_image.png&d=movie',H Channel
 http://203.154.243.31:8081/live/h-channel/index.m3u8
 
 

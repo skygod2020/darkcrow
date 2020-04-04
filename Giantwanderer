@@ -2,41 +2,41 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ca91ceac-8a1d-43f4-b526-face1db3cd2a.png",CH3 HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/40b0fb62-1e5a-4b19-987f-dcbeebd2131a.png",CH5 HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/5hd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-ch5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/7ce4e92e-144e-4c71-98be-7c156b821403.png",CH7 HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/3f505fa6-7e85-42ed-a169-cb99dc81d0d1.png",MCOT HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/df0381b5-cfb4-46b4-a242-ae8c63419231.png",NBT
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nbt.smil/playlist.m3u8
+http://160.119.77.50/iptv/sd-nbt.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ed54972b-5902-48a9-b1b8-9061c2035cd5.png",ThaiPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/8761bb82-f902-4372-8b9f-34b019d36fb7.png",Thairath TV HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8
+http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/c2ec6c93-8b27-4bac-bca9-cfbc0a16c27d.png",Nation TV
 http://live.nationtv.tv/hls/ntv_th_hq.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/26/ebe998c5-7d25-402b-ab70-46f1ad6dcc4e.png",CH8
 http://stream.rs.co.th/ch8-mid/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/9fa53820-435c-4aec-a6d3-e18154d68f72.png",ONE HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.ufoiptv.com/channels/sd-gmmchannel.jpg",GMM25
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch70.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/ba2827f6-d8bf-438c-b010-0c44e2183b4d.png",Amarin TV HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8
+http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/156ffa09-9399-4a2f-9aef-0ab92c7d934c.png",PPTV HD
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv36_pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/02e498b3-274d-4097-909f-6cc85a7a96c3.png",New18 TV
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/newstv.smil/playlist.m3u8
+http://206.189.150.220:8081/freelive-edge/_definst_/dtv18_newstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/696dff3b-93e3-404d-9504-eb7da45da05d.png",Workpoint
-http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8?
+https://tv4.chang55.com/live2/tv4ch63.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/56ce4866-ab50-4c33-acf5-2ec2974b63d3.png",Mono29
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://images.xtreme4k.com/channels/sd-tnn24.png",TNN24
 http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/4c176ad8-beb5-4e46-ac2f-9d18304e9841.jpg",True4U
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8
+https://tv4.chang55.com/live2/tv4ch62.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title="Digital TV",CHANNEL 2 HD
 http://bit.ly/2mtpRWp
 #EXTINF:-1 tvg-logo="http://image.free.in.th/v/2013/ic/180708120008.jpg" group-title="Digital TV",Channel 8
@@ -254,8 +254,7 @@ http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 tvg-logo="https://west-vlaanderen.bbsa-snooker.eu/images/articles/world_snooker_logo.jpg"group-title="Sports",SNOOKER WORLD 1 HD
 http://203.154.243.31:8081/live/snooker/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doohdbox.com/assets/201808051138141452667532.jpg",Motor Vision
-http://cdn762.stm.trueid.net:80/live1/165_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=0MIV%2FBKPJ7SGxVFkHEmL%2FjFaCUeGQvdquc2qdfYdcpjYGDs9JWdXp7Dl9VBM6mHneMfDJ5Ku85dldkaR8eiMaZrfp4n3kpglQCkaN%2FN%2Fl%2Bk6OqDZp4T4Vz7875peBguqMHs
-#EXTINF:-1 group-title="Sports"tvg-logo="https://images.xtreme4k.com/channels/hd-wwe.png",WWE
+http://cdn776.stm.trueid.net:80/live1/165_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=qben1CrV%2F78ilIDmgDHJdikk8gZTHFvxbs4VSEjHdwPLvXmvzx6q19N8mED%2F6W5oOrKtnT%2FQICaFfimZSE1pYGyyIlpThF4%2BDc9axPaL2Cs6Oq3woeOOsRZ0IhcxN5SMHDA
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
 ---------"Cinema"-------------------
@@ -405,6 +404,12 @@ http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707082132331288037491.jpg",Up Movie
 http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583232924476_movie_image.png&d=movie',Ping Channel
+http://203.154.243.31:8081/live/ping/index.m3u8
+
+#EXTINF:-1 group-title='MOVIE LIVE'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583233516342_movie_image.png&d=movie',H Channel
+http://203.154.243.31:8081/live/h-channel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9AVj65.jpg"  group-title="หนัง",Series
 http://203.154.243.31:8081/live/series/index.m3u8
@@ -491,7 +496,7 @@ http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-explife.jpg",Explore Life
 https://iptv-kovid-19.tk/nungbox/live/true-life-explore_RZq/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-expsci.jpg",Explore Sci
-http://cdn104.stm.trueid.net:80/live4/061_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=E9LVcX0OlUZVkfqboXHki%2FhncfB5sufMW4kghTYZ0FDlvi7hPEOiZpVd9T32bV8CIzSUz%2B8aYYjbelVLmH76mxNgKFVO17SdKBEDWPjnuKc6OkAkm5mW%2BBIGi2WeiX%2B4XIA
+http://cdn768.stm.trueid.net:80/live4/061_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=wzOCbEXNagOHtMebp%2F4%2BXLbHz81solmZdJ5qiV5g9SsLZiOLmtDOrfSTY5uV4mOgRJSxdNaI2lOPamvKCbC6IftoW004Sgux50j0OApLsdQ6OpQesZkE0ApBM9uzJ%2F5Awyc
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-expwild.jpg",Explore Wild
 https://iptv-kovid-19.tk/nungbox/live/true-wild-explore_JEy/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-bbcearth.jpg",BBC Earth
@@ -505,7 +510,7 @@ https://live.we-play.tv/android/outdoor/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/04/10/750281ec-93b8-40f4-9f41-b3154d6ef8e0.jpg",Food  Network
 https://live.we-play.tv/android/foodnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_320.png",Asian Food Network
-http://livefreebl-2.ddns.net:8081/freelive-edge/_definst_/asianfoodchannelhd/playlist.m3u8
+http://cdn100.stm.trueid.net:80/live3/214_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=r0LeShLBQCVUDeAnPfX4FegI722p0d2Nr%2FPLujDNYEc8aa4M7bsnkDbZ%2FSHKgfF56Z69s50zC3%2BLqrvWcolYLHvuTmgT79AoTPlQp3tV3zs6OhqagyC%2BrWtN%2B9CgoL0R65w
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/201707081720561665716702.jpg",Animal Show
 https://iptv-kovid-19.tk/nungbox/live/animal-show_oYX/playlist.m3u8
 EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI สาระดี
@@ -535,11 +540,11 @@ http://203.154.243.32:8088/live/wsci/index.m3u8?
 --------------"Kids"------------------
  
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
-
+http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/chunklist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/sd-sparkplay.jpg",Spark Play
-http://cdn771.stm.trueid.net:80/live3/007_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=DwW9OKREFgU7vIKi6KJ%2FmCamdnLRS1oNVgKCuekeRYk94JZgNRm8uZdIJr3IGKF6iBvC1PLTcwP24o%2FKiMvDQFRJx6T4uyPhYSwMoG5N%2BHg6Orz6AZ8JnhvvKppFi919rv0
+http://cdn122.stm.trueid.net:80/live3/007_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=4g6y382etMuEnT0ZbOp3mYLF4Pl6uELyZg1S9XDpH1dFK809rCXXP8E10%2BLKnFbtRSY0KphpvdUbfbhGtnXf8njimOmiB1AijJeEYaIbWEw6Oj6o0QTaDltIz5gG5jNOvg0
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/sd-sparkjump.jpg",Spark Jump
-http://cdn763.stm.trueid.net:80/live3/101_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=Lb%2BbOzTvEW0Wp4WipPodU7VEQTW8gPECP6U%2BhBwI9eHWteZM1zvmn6Ba40zg6pMdJlw2KNU2ElRlNZPH3v0%2Bd5M4entyMAkDXkvv0fXzzfk6OhS%2BShHmM%2BbWUcpdpn%2BaPuI
+http://cdn099.stm.trueid.net:80/live3/101_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=VgocmVItMKqgEFqL1ixb2KvyD7E2al0dak5kjiGIB4RVQLeRCX9xpahJZRz4kpNgizdK1ZgyRt4L8t3BYQV1pFQpVpSxNkHA6KR0OaRXC0M6Oo9jI3G%2B0eS19zmVz50pMwk
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/sd-cartoonnetwork.jpg",Cartoon Network
 https://43.228.85.11/android/cnhd/chunks.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/sd-disney.jpg",Disney Channel
@@ -1050,6 +1055,54 @@ https://cdn4.cdn9x.com/1ugpasbj/1080p.m3u8
 
 
 
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585943750928_movie_image.jpg&d=movie',JUMANJI THE NEXT LEVEL
+https://www.037hd.com/movie/912270.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585943398154_movie_image.jpg&d=movie',Ford v Ferrari
+https://www.037hd.com/movie/912596.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1571529370995_movie_image.jpg&d=movie',กัปตันอเมริกา-1
+http://191.96.77.22:3095/movie/2017/Captain.America.The.First.Avenger.2011.1080p.TH.mp4/index.m3u8?u=a_nm0439&st=BfwJdMBWjwXwqi2aem2HcQ&e=1585941529&ip=184.22.15.238
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1571569904300_movie_image.jpg&d=movie',กัปตันอเมริกา-2
+http://191.96.77.22:3095/movie/bluray2016/Captain-America-The-First-Avenger-2011-th-en-1080p.mp4/index.m3u8?u=a_nm0439&st=MOeOAYYk7H0CojdMbMd99Q&e=1585941854&ip=184.22.15.238
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1571569938226_movie_image.jpg&d=movie',กัปตันอเมริกา-3
+http://cdnstream1.podzone.net:443/movie/bluray2016/Captain-America-Civil-War-2016-th-en-1080p.mp4/index.m3u8?u=a_nm0439&st=MO2-gYPnnfWiaQNVTonl0A&e=1574368122&ip=171.5.250.40
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1573822641162_movie_image.jpg&d=movie',ธอร์-1
+http://cdnstream1.podzone.net:443/movie/2017/Thor.2011.1080p.TH.mp4/index.m3u8?u=a_nm0439&st=fbKsX8FZBlQPiYZ5GjgroQ&e=1573836984&ip=171.5.232.83
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1573822668173_movie_image.jpg&d=movie',ธอร์-2
+http://cdnstream1.podzone.net:443/movie/2017/Thor.The.Dark.World.2013.1080p.TH.mp4/index.m3u8?u=a_nm0439&st=Enxhl7qwZFp3lR61RFdimA&e=1573836967&ip=171.5.232.83
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1573822003431_movie_image.jpg&d=movie',จอมเวทย์มหากาฬ
+http://cdnstream1.podzone.net:443/movie/bluray2016/Doctor-Strange-2016-TH-EN-1080p.mp4/index.m3u8?u=a_nm0439&st=shlwUfDt-q7bnVjb7rUNPA&e=1573836360&ip=171.5.232.83
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1571515495655_movie_image.jpg&d=movie',อเวนเจอร์ 1
+http://cdnstream1.podzone.net:443/movie/bluray2016/The-Avengers-2012-Bluray-1080p.mp4/index.m3u8?u=a_nm0439&st=vziZ1Wg6Sz4IAD91P17x8Q&e=1574378030&ip=171.5.250.40
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1571515528182_movie_image.jpg&d=movie',อเวนเจอร์ 2
+http://191.96.77.22:3095/movie/bluray/Avengers Age of Ultron (2015) th en 1080p.mp4/index.m3u8?u=a_nm0439&st=0cDYf9XRenpJ4c_whVvdww&e=1582162220&ip=171.5.221.194
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1579844632984_movie_image.jpg&d=movie',อเวนเจอร์สเผด็จศึก
+https://www.037hd.com/movie/910860.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1571508206553_movie_image.jpg&d=movie',อลิต้า
+https://www.037hd.com/movie/910689.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1571508290884_movie_image.jpg&d=movie',อวตาร
+https://www.037hd.com/movie/901461.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1580477040382_movie_image.jpg&d=movie',แบดบอย 1
+http://cdnstream1.podzone.net:443/movie/bluray2016/Bad-Boys-1995-TH-EN-1080p.mp4/index.m3u8?u=a_nm0439&st=vOkZ15xF2FUj5nfNPujo5w&e=1572966645&ip=171.5.247.230
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1574408838112_movie_image.jpg&d=movie',แบดบอย 2
+http://cdnstream1.podzone.net:443/movie/bluray2016/Bad-Boys-2-2003-TH-EN-1080p.mp4/index.m3u8?u=a_nm0439&st=TSSRRrSgP1QtNbpantJVGg&e=1574423174&ip=171.5.250.156
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585498314235_movie_image.jpg&d=movie',แบดบอย 3
+https://www.037hd.com/movie/912449.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585279352958_movie_image.jpg&d=movie',แวมไพร์ ทไวไลท์ ภาค1
+https://www.037hd.com/movie/902839.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585281082947_movie_image.jpg&d=movie',แวมไพร์ ทไวไลท์ ภาค 2
+https://www.037hd.com/movie/903015.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585279489666_movie_image.jpg&d=movie',แวมไพร์ ทไวไลท์ ภาค 3
+https://cdn.doraino.to/vod/disk3/movies/vpw3oon.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585279830704_movie_image.jpg&d=movie',แวมไพร์ ทไวไลท์ ภาค4
+https://cdn.doraino.to/vod/disk3/movies/vpw4oon.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585279772572_movie_image.jpg&d=movie',แวมไพร์ทไวไลท์ ภาค5
+https://cdn.doraino.to/vod/disk3/movies/vpw5oon.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585739523875_movie_image.jpg&d=movie',ฝ่าวิกฤติ วินาศกรรมทำเนียบขาว
+https://www.037hd.com/movie/900981.mp4
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585666557724_movie_image.jpg&d=movie',เผด็จศึกยึดนิวยอร์ก
+http://191.96.77.22:3095/movie2/2019/21.Bridges.2019.1080p.TH.mp4/index.m3u8?u=a_nm0439&st=KdaNxfVhT4nZGPP0DU8ixQ&e=1585680913&ip=184.22.14.75
+#EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585666346270_movie_image.jpg&d=movie',ดราก้อนฮาร์ท ศึกล้างแค้น
+http://191.96.77.13:23295/movie2/2019/Dragonheart.Vengeance.2020.1080p.TH.1.mp4/index.m3u8?u=a_nm0439&st=Vv2RrGkFIK2BoAUQiCzfMA&e=1585680648&ip=184.22.14.75
 #EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585612131949_movie_image.jpg&d=movie',เขต ปิดอันตราย
 https://www.037hd.com/movie/912776.mp4
 #EXTINF:-1 group-title='หนังฝรั่ง'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585607366322_movie_image.jpg&d=movie',รวมกันปล้น อย่าให้ใครจับได้
@@ -2222,15 +2275,14 @@ http://209.58.174.213:443/wp/SA05/evd/vd684-Ad-Astra-2019-HDTH.mp4/index.m3u8
 MOVIE THAI
 
 
-#EXTINF:-1 group-title='หนังไทย'tvg-logo="https://i.bug-a-boo.tv/images/4affefcdd78e6dcdb67f95177aed2e6a/thumb_2707_1.jpg",รัก 2 ปี ยินดีคืนเงิน Love Battle (2019)
-https://www1241.o0-3.com/token=AUrMtT_cuGYeUkSLgP4S9w/1582106428/2405:9800::/81/0/8d/2e02382fa2779e2c920d47eed75388d0-720p.mp4
-
 #EXTINF:-1 group-title='หนังไทย'tvg-logo="https://www.doonungonline.com/images/movie/A4h2fYSz4cWOwaOPVpDT3asg5QrMVnCluangtah.jpg",หลวงตามหาเฮง
 https://cdn-3.vip-streaming.com:30443/doonungonline/3-ssd/movie/store-24/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87.mp4/chunk.m3u8
 
 #EXTINF:-1 group-title='หนังไทย'tvg-logo="https://ufa365movie.com/wp-content/uploads/2020/02/4-2.jpg",BANGKOK DARK TALES (2019) บางกอก…สยอง
 http://file1.mix333.com/3/M07657.mp4
 
+#EXTINF:-1 group-title='หนังไทย'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585919467119_movie_image.jpg&d=movie',พี่นาค1
+http://ktu.ktuiptvapp.com/9999/test.mkv
 #EXTINF:-1 group-title='หนังไทย'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1585605901997_movie_image.jpg&d=movie',ล่า ล้าง บัญชี
 https://www.037hd.com/movie/912966.mp4
 #EXTINF:-1 group-title='หนังไทย'tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1584265824524_movie_image.jpg&d=movie',ดิว ไปด้วยกันนะ

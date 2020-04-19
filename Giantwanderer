@@ -124,14 +124,7 @@ http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 http://streaming-fast.com/covid19_live/bein1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-bein2.jpg",BEIN2
 http://streaming-fast.com/covid19_live/bein2/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox1nl.jpg",fox1nl
-https://live.we-play.tv/android/fox1nl/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox2nl.jpg",fox2nl
-https://live.we-play.tv/android/fox2nl/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox3nl.jpg",fox3nl
-https://live.we-play.tv/android/fox3nl/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox4nl.jpg",fox4nl
-https://live.we-play.tv/android/fox4nl/playlist.m3u8
+
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-golf.jpg",True Golf
 http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
@@ -161,20 +154,8 @@ https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
 https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586348938880_movie_image.jpg&d=movie',ASTRO 4
 https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/usa-nfl.jpg",NFL TV
-https://live.we-play.tv/app/nfl/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/uk-liverpool.jpg",LFC TV
-http://160.119.77.50/iptv/uk-lfctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-chelseatv.png",Chealsea TV
-http://160.119.77.50/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/uk-mutv.jpg",MU TV
-http://160.119.77.50/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-fightsports.jpg",Fightsports
 http://streaming-fast.com/covid21_live/fightsportshd/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/sd-espn.jpg",ESPN
-http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/uk-premiersports.jpg",UK Premier Sports
 http://160.119.77.50/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/uk-racinguk.jpg",UK Racing

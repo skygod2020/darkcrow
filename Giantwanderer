@@ -121,9 +121,9 @@ https://live.we-play.tv/android/tsp6/playlist.m3u8
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-bein1.jpg",BEIN1
-http://103.208.24.234:1935/thaisport/epl-bein1.stream/playlist.m3u8
+http://streaming-fast.com/covid19_live/bein1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-bein2.jpg",BEIN2
-http://103.208.24.234:1935/thaisport/epl-bein2.stream/playlist.m3u8
+http://streaming-fast.com/covid19_live/bein2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox1nl.jpg",fox1nl
 https://live.we-play.tv/android/fox1nl/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/fox2nl.jpg",fox2nl
@@ -150,9 +150,18 @@ http://160.119.77.50/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-btsport3hd.png",BT Sport 3
 http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport1.jpg",Eurosport 1
-http://160.119.77.50/iptv/uk-eurosport.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports"tvg-logo="https://images.ufoiptv.com/channels/uk-eurosport2.jpg",Eurosport 2
-http://160.119.77.50/iptv/uk-eurosport2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586348886953_movie_image.jpg&d=movie',ASTRO 1
+https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586348923587_movie_image.jpg&d=movie',ASTRO 2
+https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586348933731_movie_image.jpg&d=movie',ASTRO 3
+https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586348938880_movie_image.jpg&d=movie',ASTRO 4
+https://cdn-laos.workpoint.news/my-asp4_720/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/usa-nfl.jpg",NFL TV
 https://live.we-play.tv/app/nfl/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/uk-liverpool.jpg",LFC TV
@@ -216,7 +225,7 @@ http://160.119.77.50/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tennis.jpg",True Tennis
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title="Sports",Tennis Backup
-http://streaming-fast.com/covid20_1ive/true-tennis-hd_PDx/playlist.m3u8   
+https://livedoomovies.com/02_TennisHD_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title="Sports",Tennis Backup 2
 https://live.we-play.tv/android/tennis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjA2MzY1NDA0MzA4ODE2/tennis-channel-logojpg.jpg" group-title="Sports",|USA| Tennis Channel HD

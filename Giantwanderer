@@ -352,16 +352,11 @@ http://160.119.77.50/iptv/hd-lifetime.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/2017070821441741903481.jpg",True Series 
-http://160.119.77.50/iptv/sd-series.stream/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170708214146442049078.jpg",True Thai Film
 https://live.we-play.tv/android/truethaifilm/chunks.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707082143361439697190.jpg",True Film Asia
-https://live.we-play.tv/android/truefilmasia/playlist.m3u8
+http://cdn102.stm.trueid.net:80/live6/he002_th_m_high_tidapp.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=C0yOAtzgPkgp7fxW3RiLBfjhvhpORvpnsenU75BiqrRUVJofPX8XWxEI3yO8IBtcIvzx6SlRSCdikx61LuR5H%2FSzWGUttSAJgIoZc%2BMkPBU6OjdBlY5hZLhbv50VvsX%2BbB8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707082143101835898001.jpg",True Movie Hit
 http://103.120.113.90:1935/psilive3a/MOVIE_HITS_61.stream_360p/playlist.m3u8

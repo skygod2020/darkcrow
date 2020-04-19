@@ -452,15 +452,15 @@ http://vip.login.in.th:1935/CTB/CTB/chunklist_w1645421209.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/JKN.jpg" group-title="หนัง",JKN
 http://iliketot.dyndns.tv/fc8195dc989240348772d00dd9eba3d0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://www.doofree88.com/storage/live/yEjduPUHEUuA3wvhqZxUUmuqDtnFk1YH0iHW4VPk.png",Zee Nung
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/zeenang/playlist.m3u8
+https://livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.goal2sport.com/wp-content/uploads/2018/06/IZAA-360x270.png" group-title="หนัง",iZaa Channel
 http://203.154.243.31:8081/live/izaahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg" group-title="หนัง",star plus
-http://iliketot.dyndns.tv/7c75ad89c1cc417aa0f066133c0a2333.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://www.livedoomovies.com/02_Star_Plus_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg" group-title="หนัง",Star Gold
-http://iliketot.dyndns.tv/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+https://www.livedoomovies.com/02_Star_Gold_720p/chunklist.m3u8
 #EXTINF:-1 group-title="หนัง" tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586194639568_movie_image.png&d=movie',b4u
 http://livecdnh3.tvanywhere.ae:80/hls/b4uplus/04.m3u8
 EXTINF:-1 group-title="หนัง"tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/blue-ant-extreme.png',BLUE ANT Extreme
@@ -481,6 +481,9 @@ http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2Vy
 
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="หนัง", MANGORN
 https://livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NHANG_DUNK.png"group-title="หนัง", NHANG_DUNK
+https://livedoomovies.com/02_NHANG_DUNK_720p/chunklist.m3u8
 
 -------------"Documentary"---------------------
 

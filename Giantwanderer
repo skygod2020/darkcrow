@@ -480,7 +480,7 @@ http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2Vy
 
 
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="หนัง", MANGORN
-
+https://livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
 
 -------------"Documentary"---------------------
 
@@ -554,7 +554,7 @@ http://203.154.243.32:8088/live/wsci/index.m3u8?
 --------------"Kids"------------------
  
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/d258b502-1da6-445b-bd8f-4304c7ff232e.png",Ja Ting Ja TV
-http://103.120.113.90:1935/psilive3a/JaTingJa.stream_360p/chunklist.m3u8
+http://streaming-fast.com/covid21_live/jatingja.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/sd-sparkplay.jpg",Spark Play
 http://160.119.77.50/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.ufoiptv.com/channels/sd-sparkjump.jpg",Spark Jump
@@ -633,7 +633,7 @@ http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/pla
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKY4hoR_vkkRSy5cSB58z8z9zKlC_ajP2YTyM1aYqhC3pZB85g" group-title="Entertainment",Look Thoong
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Wish_Channel.png" group-title="Entertainment",Wish_Channel
-
+https://livedoomovies.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg"group-title="Entertainment",แสงจันทร์ ทีวี
 http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Xljqj.png" group-title="Entertainment",  ONE
@@ -854,9 +854,6 @@ MOVIES
 
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.mawintv.com/wp-content/uploads/2020/03/The-Call-of-the-Wild-2020-2-170x220.jpg",The Call of the Wild (2020) เสียงเพรียกจากพงไพร
 https://cdn.livedoomovies.com/hls/91da2a206ba2d39fb4c093d9ae9f1690/91da2a206ba2d39fb4c093d9ae9f1690.m3u8
-
-#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586668337.jpg",Sleeper (2018)
-https://cdn1.cdn9x.com/5kqe5kar/1080p.m3u8
 
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Cats.jpg",Cats (2019) แคทส์
 https://cdn.jebriko.ru/vod/disk3/movies/citspo.mp4

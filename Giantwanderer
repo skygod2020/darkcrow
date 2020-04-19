@@ -359,6 +359,8 @@ https://43.228.85.11/android/scm/chunks.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/ic/180628095514.png",Warner
 https://43.228.85.11/android/warner/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="หนัง" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",Lifetime
+http://160.119.77.50/iptv/hd-lifetime.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20180112202928537432637.jpg",Asian Series HD
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
@@ -516,8 +518,6 @@ http://160.119.77.50/iptv/sd-expwild.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",BBC Lifestyle
 http://160.119.77.50/iptv/sd-bbclifestyle.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",Lifetime
-http://160.119.77.50/iptv/hd-lifetime.stream/playlist.m3u8
 #EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title="Documentary", OUTDOOR CHANNEL
 https://live.we-play.tv/android/outdoor/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/04/10/750281ec-93b8-40f4-9f41-b3154d6ef8e0.jpg",Food  Network
@@ -530,9 +530,6 @@ EXTINF:-1 group-title="Documentary"tvg-logo="https://www.doohdbox.com/assets/201
 http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583278193972_movie_image.jpg&d=movie',Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583825231357_movie_image.jpg&d=movie',True Very
-http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
-
 
 #EXTINF:0  tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Documentary",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
@@ -602,7 +599,8 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 
 -----------"Entertainment"------------------------
  
-
+#EXTINF:-1 group-title="Entertainment"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1583825231357_movie_image.jpg&d=movie',True Very
+http://160.119.77.50/iptv/sd-very.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://images.ufoiptv.com/channels/hd-mtv.jpg",MTV Live HD
 https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-mtvasia.png",MTV Asia

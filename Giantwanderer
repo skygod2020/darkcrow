@@ -298,20 +298,31 @@ https://live.we-play.tv/android/red/playlist.m3u8
 https://43.228.85.11/android/cinemax/playlist.m3u8
 
 
-#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20181017185652493821184.jpg",Fox Movies 
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20181017185652493821184.jpg",Fox  Movies 
 https://43.228.85.11/android/fox-movies/chunks.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201810171858571403071191.jpg",Fox Family
 https://live.we-play.tv/android/fox-fam/playlist.m3u8
 
-#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/if/180628091010.png", Fox Action TH
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201810171858571403071191.jpg",Fox Family TH
+https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/if/180628091010.png", Fox Action  Movies
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/if/180628091010.png", Fox Action Movies TH
+https://www.livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/ii/180809032835.png",FOX THAI
+https://www.livedoomovies.com/02_FoxThai_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://image.free.in.th/v/2013/ii/180809032835.png",FOX THAI TH
 https://43.228.85.11/android/foxth/chunks.m3u8
 
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://images.iptvhero.com/channel/hd-foxcrime-th.png", Foxcrime 
+https://www.livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://images.iptvhero.com/channel/hd-foxcrime-th.png", Foxcrime TH
 https://43.228.85.11/android/fox-crime/chunks.m3u8
@@ -477,8 +488,7 @@ http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2Vy
 #EXTINF:0 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="หนัง", MANGORN
 https://livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NHANG_DUNK.png"group-title="หนัง", NHANG_DUNK
-https://livedoomovies.com/02_NHANG_DUNK_720p/chunklist.m3u8
+
 
 -------------"Documentary"---------------------
 
@@ -486,7 +496,7 @@ https://livedoomovies.com/02_NHANG_DUNK_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-animalplanet.jpg",Animal Planet TH
 https://live.we-play.tv/android/animalplanet/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-mysci.jpg",MYSCIHD
-
+https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/hd-samrujlok.jpg",Samruajlok
 https://live.we-play.tv/android/samruajlok/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://images.ufoiptv.com/channels/sd-discovery.jpg",Discovery Channel TH

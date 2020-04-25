@@ -351,6 +351,9 @@ http://160.119.77.50/iptv/hd-lifetime.stream/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20180112202928537432637.jpg",Asian Series HD
 http://160.119.77.50/iptv/hd-asian.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="หนัง"tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1587795131722_movie_image.jpg&d=movie',SERiES+HD
+http://103.7.57.17:1935/live1/IPM-Rskyas.stream/playlist.m3u8?wowzatokenendtime=1587803402&wowzatokenstarttime=0&wowzatokenhash=2mVGGaHRFelWudWwjyJsSKGGZsA7m4GSfLJ__tqDsRo=
+
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20170708214146442049078.jpg",True Thai Film
 https://live.we-play.tv/android/truethaifilm/chunks.m3u8
@@ -835,8 +838,27 @@ http://188.166.178.114:2200/HD2mov/_definst_/Mdc/Concert_Ja_kanhoo.mp4/index.m3u
 MOVIES 
 
 
-#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.mawintv.com/wp-content/uploads/2020/03/The-Call-of-the-Wild-2020-2-170x220.jpg",The Call of the Wild (2020) เสียงเพรียกจากพงไพร
-https://cdn.livedoomovies.com/hls/91da2a206ba2d39fb4c093d9ae9f1690/91da2a206ba2d39fb4c093d9ae9f1690.m3u8
+#EXTM3U 
+
+NEWMOVIES
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.doomovie-hd.com/assets/movie_poster/5/589ae1afe7b72c92ca9669353a909558.jpg",Extraction (2020)
+https://live.we-play.tv/vod/smil:Extraction.2020.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587723383.jpg",A Beautiful Day in the Neighborhood (2019) : เรื่องเล่าวันฟ้าสวย
+https://cdn1.cdn9x.com/1bahbe46/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587654723.jpg",ไทบ้าน x BNK48 จากใจผู้สาวคนนี้ (2020)
+https://cdn1.cdn9x.com/j7rpi9ks/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587368987.jpg",Sergio เซอร์จิโอ (2020) 
+https://cdn1.cdn9x.com/hqrbsvu8/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1587451841.jpg",Final Shot (Silencer) (2018)
+https://cdn1.cdn9x.com/kesgtthq/1080p.m3u8
+
+#EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://doonungdee.online/cover/1586668337.jpg",Sleeper (2018)
+https://cdn1.cdn9x.com/5kqe5kar/1080p.m3u8
 
 #EXTINF:-1 group-title="NEWMOVIES" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Cats.jpg",Cats (2019) แคทส์
 https://cdn.jebriko.ru/vod/disk3/movies/citspo.mp4

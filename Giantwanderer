@@ -249,7 +249,7 @@ https://ktu.ktuiptvapp.com/8888/edgesport.mkv
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20200313103811109019915.jpg",Hits Movies
-https://live.we-play.tv/android/hitsmovies/playlist.m3u8
+https://live.we-play.tv/awesome/hitsmovies/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20200313162436984117952.jpg",Hits
 https://live.we-play.tv/android/hits/playlist.m3u8
@@ -271,7 +271,7 @@ https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",RED BY HBO 
-https://live.we-play.tv/android/red/playlist.m3u8
+https://live.we-play.tv/awesome/red/playlist.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/20171215100243180368591.jpg", CINEMAX
@@ -323,7 +323,7 @@ https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
-http://160.119.77.50/iptv/sd-celestial.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-celestial_480/index.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707090857051374451571.jpg",KIX
@@ -412,19 +412,14 @@ http://203.154.243.31:8081/live/h-channel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/a9AVj65.jpg"  group-title="หนัง",Series
 http://203.154.243.31:8081/live/series/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KEbokdx.jpg"  group-title="หนัง",M Channel
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/mchannel.smil/playlist.m3u8
+http://streaming-fast.com/covid23_live/97f3052bec96482584c5de84dda0d745&bitrate=1200.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chetbodin21/iptvthaikodi/master/xpuo33u69es0sg0cs.jpg"  group-title="หนัง",MONO Plus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist_w678136079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5zyWnEz.jpg"  group-title="หนัง",MVTV
-http://bit.ly/2nquoc4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/apcCpdz.jpg"  group-title="หนัง",MVTV Five Channel
-http://bit.ly/2mtbRfa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ABAJd6Z.jpg"  group-title="หนัง",Esan TV
-http://bit.ly/2lRnInc
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CYnK9C9.jpg"  group-title="หนัง"MVTV Major Mix
 https://edge1a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w670261144.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190218201201images.jpg" group-title="หนัง",Cool Channel
-http://iliketot.dyndns.tv/205930751d5743e2be719ed1dff8970f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+http://streaming-fast.com/covid23_live/205930751d5743e2be719ed1dff8970f&bitrate=1200.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thrill.png" group-title="หนัง",Thrill
 https://free2.fwstream.com:1215/freelive-edge/_definst_/thrilllhd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thestandard.com.hk/newsImage/20180629/50015060contentPhoto1.jpg" group-title="หนัง", TVB 

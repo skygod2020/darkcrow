@@ -304,11 +304,11 @@ https://cdn-laos.workpoint.news/sd-fox_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://images.iptvhero.com/channel/hd-foxcrime-th.png", Foxcrime TH
-http://fw02.livem3u8.me.totiptv.com:80/live/48773319e9324602b258e3f1d33ec111.m3u8?bitrate=1500&code=940c8a7346fbf008945ba2aa4d1b3623
+http://streaming-fast.com/covid23_live/5028f7ff1d1b4d5f8189690233364737&bitrate=1500.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://images.iptvhero.com/channel/hd-foxlife.jpg",FOX LIFE
-http://fw02.livem3u8.me.totiptv.com:80/live/65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=1500&code=dd56ff42b2cf4321a596ae82d595ac84
+http://streaming-fast.com/covid23_live/65f7358b813048a0898f5677e1793cf9&bitrate=1500.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://images.iptvhero.com/channel/hd-fx.png",FX HD
@@ -443,7 +443,7 @@ https://www.livedoomovies.com/02_Star_Gold_720p/chunklist.m3u8
 #EXTINF:-1 group-title="หนัง" tvg-logo='http://ktuiptvapp.com/kldcvbnmsertyuqw/YHgfrevbc/hjkfbvctyue/lkmnuhgvcft/jgnmhuityv/hbvftredfg/movie-tuiptv/backend/web/index.php/api/file?f=1586194639568_movie_image.png&d=movie',b4u
 http://livecdnh3.tvanywhere.ae:80/hls/b4uplus/04.m3u8
 EXTINF:-1 group-title="หนัง"tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/blue-ant-extreme.png',BLUE ANT Extreme
-http://cdn764.stm.trueid.net:80/live1/208_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=ZYqx8nWBxd8an1WHzxvtIPSYqRcQNIGe6Pc5U7y7xmQvCmJIgvfuHu8tLRBAooZaO32xoCXl2WyZL%2BXGBh02VfR8hm7LVF9kvd7kD4pPIz46OtAZQVAgsKck3NSp646vAI4
+http://cdn764.stm.trueid.net:80/live1/208_th_m_high_legacy.smil/chunklist.m3u8?appid=trueidv2&type=live&visitor=mobile&uid=12345czq&mpass=jEK1dwDijo%2Bg6UxJNwJRAL58%2Bg7ZY9bV2iUJhOQAm%2BmJr74KVzSSIaa%2FgvS4NtIFB7q35xWIoDxgj%2BTmbfRQR1JiGFXy95FI40vcuXyuJdc6OklBI9kQlvLdQmbzs2fyVpw
 #EXTINF:-1 group-title="หนัง"tvg-logo='https://www.we-play.tv/app/admin/uploads/tv_image/blue-ant-entertainment.png',BLUE ANT Entertainment
 http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
 #EXTINF:-1 group-title="หนัง"tvg-logo='https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg',True Xzyte

@@ -323,7 +323,7 @@ https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://teevee-hd.com/img/classicmovies.png",CCM
-https://cdn-laos.workpoint.news/sd-celestial_480/index.m3u8
+https://www.livedoomovies.com/02_CCM_720p/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="หนัง"tvg-logo="https://www.doohdbox.com/assets/201707090857051374451571.jpg",KIX
@@ -517,13 +517,13 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:0  tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Documentary",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181006131528tinti.jpg" group-title="Documentary",ถิ่นใต้
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle.smil/playlist.m3u8
+http://streaming-fast.com/covid21_1ive/battle.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190704144622%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99.jpg" group-title="Documentary",ไก่ชนเงินล้าน
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/battle2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DIo2G4b.png" group-title="Documentary",Bull & Chicken Showtime
 https://1396402344.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190804212847sammuang.jpg" group-title="Documentary",สามเมือง ชาแนล
-http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/sammuang.stream/playlist.m3u8
+http://streaming-fast.com/covid21_1ive/sammuang.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FJD5HJQ.png" group-title="Documentary",Thai Baan
 http://bit.ly/2o6F1RP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="Documentary",Fashion TV (UHD)
@@ -612,15 +612,15 @@ http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/f5ed26ed-a8df-433a-94a2-5a5f1a56688a.png",Fan TV
-http://103.120.113.90:1935/psilive2a/FanTV.stream_360p/playlist.m3u8
+http://streaming-fast.com/covid23_live/345a4277dd864037b6b4fb5a562af59c&bitrate=1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fKQID35.jpg"   group-title="Entertainment",SABAIDEE TV 
-http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/sabaideetv.smil/playlist.m3u8
+https://cdn-laos.workpoint.news/sd-sabaidee_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKY4hoR_vkkRSy5cSB58z8z9zKlC_ajP2YTyM1aYqhC3pZB85g" group-title="Entertainment",Look Thoong
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Wish_Channel.png" group-title="Entertainment",Wish_Channel
 https://livedoomovies.com/02_Wish_Channel_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180914183340TMG.jpg"group-title="Entertainment",แสงจันทร์ ทีวี
-http://veeradatfreetv.ddnslive.com:8081/freelive-edge/_definst_/sangjun.smil/playlist.m3u8
+http://streaming-fast.com/covid21_1ive/sangjun.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/69/Xljqj.png" group-title="Entertainment",  ONE
 http://rtmp.one.by:1300
 
